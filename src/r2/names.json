@@ -1,0 +1,57 @@
+[
+    {
+        "label": "DESC:ALL1",
+        "value": "尤里战役 - 命运之瞳的觉醒",
+        "translated": "Yuri Campaign: Awakening of the Eye of Fate"
+    },
+    {
+        "label": "DESC:SOV1",
+        "value": "中国战役 - 巨龙的奋力一击",
+        "translated": "China Campaign: The Dragon's Mighty Blow"
+    },
+    {
+        "label": "STT:SingleButtonNewCampaign",
+        "value": "开始「林德拉克计划 2 ： 命运之瞳」任务。",
+        "translated": "Begin \"Rynderack Project 2: Eye of Fate\" Campaign"
+    },
+    {
+        "label": "STT:CampaignAnimAllied",
+        "value": "尤里篇 - 命运之瞳的觉醒",
+        "translated": "Yuri: Awakening of the Eye of Fate"
+    },
+    {
+        "label": "STT:CampaignAnimSoviet",
+        "value": "中国篇 - 巨龙的奋力一击",
+        "translated": "China: The Dragon's Mighty Blow"
+    },
+    {
+        "label": "TXT_HARD",
+        "value": "脑死/长征",
+        "translated": "Brain Dead / Long March"
+    },
+    {
+        "label": "TXT_DIFFICULTY_BRUTAL",
+        "value": "脑死/长征",
+        "translated": "Brain Dead / Long March"
+    },
+    {
+        "label": "GUI:TradeMarkTop",
+        "value": "「林德拉克计划 2 -- 命运之瞳」",
+        "translated": "Rynderack Project 2: Eye of Fate"
+    },
+    {
+        "label": "GUI:TradeMarkBottom",
+        "value": "Directed by Heli",
+        "translated": "Directed by Heli - Translated by 3652xxyy"
+    },
+    {
+        "label": "STT:AlliedCampaignIcon",
+        "value": "尤里篇 - 命运之瞳的觉醒",
+        "translated": "Yuri: Awakening of the Eye of Fate"
+    },
+    {
+        "label": "STT:SovietCampaignIcon",
+        "value": "中国篇 - 巨龙的奋力一击",
+        "translated": "China: The Dragon's Mighty Blow"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "label": "DESC:ALL1",
+        "value": "美国战役 - 探求真相之翼",
+        "translated": "TODO"
+    },
+    {
+        "label": "DESC:SOV1",
+        "value": "心灵起义军战役 - 意念深处的杂音",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:SingleButtonNewCampaign",
+        "value": "开始「林德拉克计划 3 ： 最终意志」任务。",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:CampaignAnimAllied",
+        "value": "美国篇 - 自由重锤落下",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:CampaignAnimSoviet",
+        "value": "心灵起义军篇 - 高尔顿的遗愿",
+        "translated": "TODO"
+    },
+    {
+        "label": "TXT_HARD",
+        "value": "折翼/脑死",
+        "translated": "TODO"
+    },
+    {
+        "label": "TXT_DIFFICULTY_BRUTAL",
+        "value": "折翼/脑死",
+        "translated": "TODO"
+    },
+    {
+        "label": "GUI:TradeMarkTop",
+        "value": "「林德拉克计划 3 -- 最终意志」",
+        "translated": "TODO"
+    },
+    {
+        "label": "GUI:TradeMarkBottom",
+        "value": "Directed by Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:AlliedCampaignIcon",
+        "value": "美国篇 - 自由重锤落下",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:SovietCampaignIcon",
+        "value": "心灵起义军篇 - 高尔顿的遗愿",
+        "translated": "TODO"
+    }
+]

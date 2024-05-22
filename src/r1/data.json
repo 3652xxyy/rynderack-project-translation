@@ -1,0 +1,2957 @@
+[
+    {
+        "label": "THEME:SovietRock",
+        "value": "Soviet Rock - Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:HellMarch",
+        "value": "Hell March - Frank Klepacki",
+        "translated": "TODO"
+    },
+    {
+        "label": "Name:OBST",
+        "value": "占位建筑",
+        "translated": "Placeholder"
+    },
+    {
+        "label": "LDS:A001",
+        "value": "乌克兰，敖德萨。",
+        "translated": "Odessa, Ukraine."
+    },
+    {
+        "label": "LDS:A002",
+        "value": "谢天谢地，在欧洲联盟的帮助下，我们摆脱了心灵奴役，重新夺回了铁幕试验装置。",
+        "translated": "Thankfully, with the help of the EU, we escaped the mind control and recovered the Iron Curtain devices."
+    },
+    {
+        "label": "LDS:A003",
+        "value": "「林德拉克：“我会继续我的实验。这可能是我们能够扭转局势的最后机会了。”」",
+        "translated": "Rynderack: \"I will continue my experiments. This might be our last chance to turn the tide.\""
+    },
+    {
+        "label": "LDS:A004",
+        "value": "「林德拉克：“这些铁幕装置会陆续启动……但尤里绝对不会让我们舒舒服服的完成实验的。”」",
+        "translated": "Rynderack: \"These Iron Curtain devices will be activated one after another... but Yuri won't make it easy.\""
+    },
+    {
+        "label": "LDS:A005",
+        "value": "任务目标 - 保护四座铁幕装置。不能损失任何一座。",
+        "translated": "Mission Objective - Protect all four Iron Curtain devices."
+    },
+    {
+        "label": "LDS:ZCtrl",
+        "value": "--作战控制连线--",
+        "translated": "--Battle Control Online--"
+    },
+    {
+        "label": "LDS:A006",
+        "value": "欧洲联盟的友军还在敖德萨与我们并肩作战。",
+        "translated": "European Union's forces are still fighting alongside us in Odessa."
+    },
+    {
+        "label": "LDS:A007",
+        "value": "警告 - 尤里正在派出登陆部队！",
+        "translated": "Warning - Yuri is sending in landing troops!"
+    },
+    {
+        "label": "LDS:A008",
+        "value": "警告 - 检测到巨大的心灵能量！",
+        "translated": "Warning - Huge psychic energy detected!"
+    },
+    {
+        "label": "LDS:A009",
+        "value": "坏消息 ： 欧洲联盟友军的意志没能抵御尤里的心灵控制。我们不得不对自己的盟友痛下杀手了。",
+        "translated": "Bad news: the European Union's forces has succumbbed to Yuri's mind control. We have to kill our allies."
+    },
+    {
+        "label": "LDS:A010",
+        "value": "提示 - 北侧的铁幕装置已经上线。",
+        "translated": "Hint - The Iron Curtain device on the north side is now online."
+    },
+    {
+        "label": "LDS:A011",
+        "value": "提示 - 西侧的铁幕装置已经上线。",
+        "translated": "Hint - The Iron Curtain device on the west side is now online."
+    },
+    {
+        "label": "LDS:A012",
+        "value": "提示 - 南侧的铁幕装置已经上线。",
+        "translated": "Hint - The Iron Curtain device on the south side is now online."
+    },
+    {
+        "label": "LDS:A013",
+        "value": "提示 - 最后一座铁幕装置已经上线。",
+        "translated": "Hint - The last Iron Curtain device is online."
+    },
+    {
+        "label": "LDS:A014",
+        "value": "罗曼诺夫总理已经带领黑海舰队主力在敖德萨集结。",
+        "translated": "Premier Romanov has led the main force of the Black Sea Fleet to assemble in Odessa."
+    },
+    {
+        "label": "LDS:A015",
+        "value": "「罗曼诺夫：“希望我们没有来迟！快去消灭那群混蛋们吧！”」",
+        "translated": "Romanov: \"I hope we're not too late! Let's destroy those bastards!\""
+    },
+    {
+        "label": "LDS:A016",
+        "value": "「林德拉克：“不不，不该那么称呼我们的朋友的，我们还有救命之恩没报……”」",
+        "translated": "Rynderack: \"No, you shouldn't call our friends like that. We are yet to repay the lifesaving grace...\""
+    },
+    {
+        "label": "LDS:A017",
+        "value": "「罗曼诺夫：“别想那么多了，先解决眼前的敌人，然后再找个机会把叛徒尤里碎尸万段好了。”」",
+        "translated": "Romanov: \"Don't think too much, let's deal with the enemy rightnow, and then take care of the traitor Yuri.\""
+    },
+    {
+        "label": "LDS:A018",
+        "value": "关键部队丧失 - 损失了一座铁幕装置，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - An Iron Curtain device is lost, mission failed."
+    },
+    {
+        "label": "LDS:A019",
+        "value": "距离西侧铁幕装置上线时间",
+        "translated": "Time until the Iron Curtain device on the west side comes online"
+    },
+    {
+        "label": "1A020",
+        "value": "警告：检测到大量尤里空降部队靠近！",
+        "translated": "Warning: A large number of Yuri airborne troops approaching!"
+    },
+    {
+        "label": "LDS:A020",
+        "value": "警告 - 检测到尤里空降部队靠近！",
+        "translated": "Warning - Approaching Yuri airborne troops detected!"
+    },
+    {
+        "label": "LDS:A021",
+        "value": "警告 - 检测到尤里坦克部队靠近！",
+        "translated": "Warning - Approaching Yuri tanks detected!"
+    },
+    {
+        "label": "LDS:A022",
+        "value": "警告 - 被尤里控制的欧盟友军正在向我们靠近！",
+        "translated": "Warning - Mind-controlled EU forces are approaching us!"
+    },
+    {
+        "label": "LDS:A023",
+        "value": "警告 - 不能损失任何一座铁幕装置，否则实验会失败。",
+        "translated": "Warning - Do not lose any of the Iron Curtain devices or the experiment will fail."
+    },
+    {
+        "label": "LDS:HEasy",
+        "value": "难度 - 休闲",
+        "translated": "Difficulty - Casual"
+    },
+    {
+        "label": "LDS:HMedium",
+        "value": "难度 - 正常",
+        "translated": "Difficulty - Normal"
+    },
+    {
+        "label": "LDS:HHard",
+        "value": "难度 - 挑战",
+        "translated": "Difficulty - Challenge"
+    },
+    {
+        "label": "LDS:A024",
+        "value": "提示 - 在废弃的工厂中保留有应急战争补给。",
+        "translated": "Hint - Emergency war supplies can be found in abandoned factories."
+    },
+    {
+        "label": "LDS:A025",
+        "value": "提示 - 占领油井，获得持续的稳定收入。",
+        "translated": "Hint - Capture the oil derrick and get a steady stream of income."
+    },
+    {
+        "label": "LDS:A026",
+        "value": "提示 - 林德拉克可以用破坏性铁幕武器杀伤集群坦克或步兵。",
+        "translated": "Hint - Rynderack can kill swarms of tanks or infantry with destructive Iron Curtain weapons."
+    },
+    {
+        "label": "LDS:A027",
+        "value": "「林德拉克：“真是对不起，我的欧洲朋友们……尤里你个混蛋！”」",
+        "translated": "Rynderack: \"I'm so sorry, my European friends... Yuri, you bastard!\""
+    },
+    {
+        "label": "LDS:A028",
+        "value": "林德拉克受到了重伤。从兵营中可以重新恢复他。",
+        "translated": "Rynderack was seriously injured. He can be restored from the barracks."
+    },
+    {
+        "label": "LDS:A029",
+        "value": "警告 - 检测到大批坦克在北方集结！",
+        "translated": "Warning - Large tank battalions detected in the north!"
+    },
+    {
+        "label": "Name:LENGINEER",
+        "value": "宇航员",
+        "translated": "Astronaut"
+    },
+    {
+        "label": "Name:CAEGYP08",
+        "value": "太阳船博物馆",
+        "translated": "Solar Boat Museum"
+    },
+    {
+        "label": "Name:GREATEGYPT",
+        "value": "大埃及博物馆",
+        "translated": "Grand Egyptian Museum"
+    },
+    {
+        "label": "Name:BLSE01",
+        "value": "原子球",
+        "translated": "Atomium"
+    },
+    {
+        "label": "LDA:D001",
+        "value": "埃及，吉萨。",
+        "translated": "Giza, Egypt."
+    },
+    {
+        "label": "LDA:D002",
+        "value": "指挥官，在塞得港的胜利使得我们可以在北非进行下一步更关键的计划。",
+        "translated": "Commander, the victory at Port Said allows us to proceed with the more critical plan in North Africa."
+    },
+    {
+        "label": "LDA:D003",
+        "value": "这里是我们在埃及吉萨大金字塔附近的起源科技实验室。",
+        "translated": "This is our Origin Technology Laboratory near the Great Pyramid of Giza, Egypt."
+    },
+    {
+        "label": "LDA:D004",
+        "value": "尤里在北非的心灵信标触发了它的保险程序，现在它即将执行自毁。",
+        "translated": "Yuri's Psychic Beacon in North Africa has triggered its protection system, and it is about to self-destruct."
+    },
+    {
+        "label": "LDA:D005",
+        "value": "然而在起源科技实验室中我们还有一项绝密科技没有回收，你的任务是回收这项科技。",
+        "translated": "However, we still have a top-secret technology yet to be recovered. Your task is to recover this technology."
+    },
+    {
+        "label": "LDA:D006",
+        "value": "任务目标 - 护送基地车靠近实验室，解除其自毁指令。",
+        "translated": "Mission Objective - Escort the MCV close to the laboratory and release its self-destruct command."
+    },
+    {
+        "label": "LDA:D007",
+        "value": "我们的突击小队已到达。",
+        "translated": "Our task force has arrived."
+    },
+    {
+        "label": "LDA:D008",
+        "value": "注意 - 此地区有很多被尤里心灵控制的欧盟北非军团部队。",
+        "translated": "Attention - There are many EU North Afraica troops in this area who are mind controlled by Yuri."
+    },
+    {
+        "label": "LDA:D009",
+        "value": "起源科技实验室自毁",
+        "translated": "Origin Technology Laboratory self-destructs"
+    },
+    {
+        "label": "LDA:D010",
+        "value": "起源科技实验室的自毁指令已经解除。现在在附近部署基地车。",
+        "translated": "The self-destruct command of the Origin Technology Laboratory has been released. Now deploy the MCV nearby."
+    },
+    {
+        "label": "LDA:D011",
+        "value": "任务目标 - 不能让任何一个尤里部队靠近实验室。",
+        "translated": "Mission Objective - Prevent Yuri troops from getting close to the laboratory."
+    },
+    {
+        "label": "LDA:D012",
+        "value": "我们会尝试从损坏严重的实验室中解析科技。实验室对微小的干扰很敏感，不能让任何尤里部队接近它！",
+        "translated": "We'll recover the technology from the heavily damaged lab. Yuri troops must NOT come close to it!"
+    },
+    {
+        "label": "LDA:HEasy",
+        "value": "难度 - 休闲",
+        "translated": "Difficulty - Casual"
+    },
+    {
+        "label": "LDA:HMedium",
+        "value": "难度 - 正常",
+        "translated": "Difficulty - Normal"
+    },
+    {
+        "label": "LDA:HHard",
+        "value": "难度 - 挑战",
+        "translated": "Difficulty - Challenge"
+    },
+    {
+        "label": "LDA:ZCtrl",
+        "value": "--作战控制连线--",
+        "translated": "--Battle Control Online--"
+    },
+    {
+        "label": "LDA:D013",
+        "value": "错误 - 必须先使用基地车靠近起源科技实验室。任务失败。",
+        "translated": "Error - You must first approach the Origin Tech Lab using a MCV. Mission Failed."
+    },
+    {
+        "label": "LDA:D014",
+        "value": "警告 - 必须先使用基地车靠近起源科技实验室，否则我们无法关闭它的自毁指令！",
+        "translated": "Warning - You must move the MCV near the lab, otherwise we can't turn off its self-destruct command!"
+    },
+    {
+        "label": "LDA:D015",
+        "value": "获得新科技 - 静滞力场。",
+        "translated": "New Technology Acquired - Immobilization Field."
+    },
+    {
+        "label": "LDA:D016",
+        "value": "提示 - 静滞力场可以摧毁敌人全部空军，让敌人所有坦克无法移动，电力中断。",
+        "translated": "Hint - The Immobilization Field can destroy the enemy's air force, disable tanks, and cut off power."
+    },
+    {
+        "label": "LDA:D017",
+        "value": "「光棱坦克：“看呐，这真的太酷炫了！我们可以像打泥鸭子一样敲掉敌人的坦克了！”」",
+        "translated": "Prism Tank: \"Look, this is really cool! We can knock out enemy tanks like ducks in the mud!\""
+    },
+    {
+        "label": "LDA:D018",
+        "value": "未能在规定时间内完成目标 - 起源科技实验室启动自毁程序，任务失败。",
+        "translated": "Time runs out - Origin Technology Laboratory activated the self-destruct program, mission failed."
+    },
+    {
+        "label": "LDA:D019",
+        "value": "警告 - 实验室受到干扰！它似乎即将对我们释放力场！",
+        "translated": "Warning - Lab under disruption! It seems like it's about to unleash its force field upon us!"
+    },
+    {
+        "label": "LDA:D020",
+        "value": "关键部队丧失 - 移动基地车被毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - mobile construction vehicle destroyed, mission failed."
+    },
+    {
+        "label": "LDA:D021",
+        "value": "我们已经检测到尤里在吉萨的基地。彻底把他们赶出去吧！",
+        "translated": "We have detected Yuri's base in Giza. Drive them out completely!"
+    },
+    {
+        "label": "LDA:D022",
+        "value": "任务目标 - 消灭所有尤里在吉萨的部队。",
+        "translated": "Mission Objective - Destroy all of Yuri's troops in Giza."
+    },
+    {
+        "label": "LDA:D023",
+        "value": "威灵顿的一支坦克部队已经从另一侧挺近大金字塔区域。",
+        "translated": "A tank group from Wellington has approached the Great Pyramid area from the other side."
+    },
+    {
+        "label": "LDA:D024",
+        "value": "尤里完全没注意到这荒无人烟的地方还有一座实验室，但是循着我们的行动也许很快就会发现。",
+        "translated": "Yuri didn't notice the laboratory at all, but he will find out soon following our actions."
+    },
+    {
+        "label": "LDA:D025",
+        "value": "我们已经接近吉萨金字塔建筑群。",
+        "translated": "We are approaching the Giza Pyramids complex."
+    },
+    {
+        "label": "Name:TOKYO01",
+        "value": "鸟居",
+        "translated": "Torii"
+    },
+    {
+        "label": "Name:TOKYO02",
+        "value": "鸟居",
+        "translated": "Torii"
+    },
+    {
+        "label": "Name:TOKYO03",
+        "value": "日本传统建筑",
+        "translated": "Japanese traditional architecture"
+    },
+    {
+        "label": "Name:TOKYO04",
+        "value": "东京铁塔",
+        "translated": "Tokyo Tower"
+    },
+    {
+        "label": "LDA:B001",
+        "value": "法国，嘎纳。",
+        "translated": "Cannes, France."
+    },
+    {
+        "label": "LDA:B002",
+        "value": "是反攻欧洲大陆的时候了，指挥官。",
+        "translated": "It's time to counterattack the European continent, Commander."
+    },
+    {
+        "label": "LDA:B003",
+        "value": "据可靠消息，苏联的罗曼诺夫总理正在法国嘎纳度假。",
+        "translated": "According to reliable sources, Soviet Premier Romanov is on vacation in Cannes, France."
+    },
+    {
+        "label": "LDA:B004",
+        "value": "如果我们能够劫持他，说不定能起到事半功倍的效果。",
+        "translated": "If we could kidnap him, we might be able to get twice the result with half the effort."
+    },
+    {
+        "label": "LDA:B005",
+        "value": "指挥官，我们的小分队已经潜入这个城市。",
+        "translated": "Commander, our task force has entered the city."
+    },
+    {
+        "label": "LDA:B006",
+        "value": "苏联人绝对不会想到，他们的一支巡逻小队已经被偷换成了我们的间谍。",
+        "translated": "The Soviets would have never imagined that one of their patrol teams had been replaced by our spies."
+    },
+    {
+        "label": "LDA:B007",
+        "value": "这座城市正在实行宵禁。指挥官，保持低调，不要引起敌人的警觉。",
+        "translated": "The city is under curfew. Commander, keep a low profile and don't alert the enemy."
+    },
+    {
+        "label": "LDA:B008",
+        "value": "任务目标 - 潜入并劫持罗曼诺夫。",
+        "translated": "Mission Objective - Infiltrate and kidnap Romanov."
+    },
+    {
+        "label": "LDA:B009",
+        "value": "警告 - 检测到磁暴线圈！",
+        "translated": "Warning - Tesla Coil detected!"
+    },
+    {
+        "label": "LDA:B010",
+        "value": "警告 - 检测到心灵控制塔！",
+        "translated": "Warning - Psychic Tower Detected!"
+    },
+    {
+        "label": "LDA:B011",
+        "value": "「动员兵：“妈的，哪个智障把电闸拉了！”」",
+        "translated": "Conscript: \"Damn it, some idiot pulled the light switch!\""
+    },
+    {
+        "label": "LDA:B012",
+        "value": "我们切断电力的行为会引起敌人的警觉，务必小心行事。",
+        "translated": "Cutting off the power will alert the enemy, please be careful."
+    },
+    {
+        "label": "LDA:B013",
+        "value": "「间谍：“大教堂区域戒备森严，我们最好不要惹这里的敌人。”」",
+        "translated": "Spy: \"The cathedral area is heavily guarded, we'd better not mess with the enemies here.\""
+    },
+    {
+        "label": "LDA:B014",
+        "value": "「间谍：“为什么我感觉这不像是在度假，而是在被监禁……”」",
+        "translated": "Spy: \"Why does it feel more like imprisonment rather than vacation...\""
+    },
+    {
+        "label": "LDA:B015",
+        "value": "情况有点不对劲。罗曼诺夫似乎是被心灵控制的状态。",
+        "translated": "Something is wrong. Romanov seems to be mind controlled."
+    },
+    {
+        "label": "LDA:B016",
+        "value": "我想我们应该摧毁那座心灵信标，解除罗曼诺夫的心灵控制。",
+        "translated": "I think we should destroy the Psychic Beacon and release Romanov from mind control."
+    },
+    {
+        "label": "LDA:B017",
+        "value": "任务目标 - 摧毁控制罗曼诺夫的心灵信标。",
+        "translated": "Mission Objective - Destroy the Psychic Beacon controlling Romanov."
+    },
+    {
+        "label": "LDA:B018",
+        "value": "注意避开苏联人巡逻的直升机。我们没有携带任何防空武器。",
+        "translated": "Be careful to avoid Soviet patrol helicopters. We are not carrying any anti-aircraft weapons."
+    },
+    {
+        "label": "LDA:B019",
+        "value": "「罗曼诺夫：“不，不！叛徒尤里回来了！他的超能力让我无法安静思考！”」",
+        "translated": "Romanov: \"No, no! The traitor Yuri is back! His superpower makes it impossible for me to think quietly!\""
+    },
+    {
+        "label": "LDA:B020",
+        "value": "「罗曼诺夫：“带我离开这里！带我离开这里！”」",
+        "translated": "Romanov: \"Get me out of here! Get me out of here!\""
+    },
+    {
+        "label": "LDA:B021",
+        "value": "一支特种小队已经到达。趁尤里与苏联军队混战之际，把罗曼诺夫通过直升机带走。",
+        "translated": "Task force has arrived. While Yuri was fighting with the Soviet army, take Romanov away via helicopter."
+    },
+    {
+        "label": "LDA:B022",
+        "value": "提示 - 虽然苏联人对我们抱有敌意，但是他们不会攻击自己的总理。",
+        "translated": "Hint - Although the Soviets are hostile to us, they will not attack their own Premier."
+    },
+    {
+        "label": "LDA:B023",
+        "value": "任务目标 - 让罗曼诺夫登上直升机并撤离。",
+        "translated": "Mission Objective - Evacuate Romanov via helicopter."
+    },
+    {
+        "label": "LDA:B024",
+        "value": "心灵信标已被摧毁。",
+        "translated": "The Psychic Beacon has been destroyed."
+    },
+    {
+        "label": "LDA:B025",
+        "value": "关键部队丧失 - 罗曼诺夫死亡了，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Romanov died, mission failed."
+    },
+    {
+        "label": "LDA:B026",
+        "value": "关键部队丧失 - 直升机被摧毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - helicopter destroyed, mission failed."
+    },
+    {
+        "label": "LDA:B027",
+        "value": "罗曼诺夫已经登上直升机。把他活着送到地图左下角的撤离点。",
+        "translated": "Romanov has boarded the helicopter. Escort him to the extraction point in the bottom left corner of the map."
+    },
+    {
+        "label": "LDA:B028",
+        "value": "任务目标 - 用直升机运载罗曼诺夫前往撤离点。",
+        "translated": "Mission Objective - Transport Romanov to the extraction point by helicopter."
+    },
+    {
+        "label": "LDA:B029",
+        "value": "小分队无人生还，任务失败。",
+        "translated": "There were no survivors in the team, mission failed."
+    },
+    {
+        "label": "LDA:B030",
+        "value": "「罗曼诺夫：“我再也不想来这鬼地方了！”」",
+        "translated": "Romanov: \"I would never come to this hellish place again!\""
+    },
+    {
+        "label": "LDA:B031",
+        "value": "已经成功撤离罗曼诺夫。我想我们可以来收拾一下残局了。",
+        "translated": "Romanov has been successfully evacuated. I think we can clean up the mess."
+    },
+    {
+        "label": "LDA:B032",
+        "value": "任务目标 - 消灭嘎纳的全部敌对势力。",
+        "translated": "Mission Objective - eliminate all hostile forces in Cannes."
+    },
+    {
+        "label": "LDA:B033",
+        "value": "我们可能需要先从苏联人那里借一点黄金用用。",
+        "translated": "We may need to borrow some gold from the Soviets first."
+    },
+    {
+        "label": "LDA:B034",
+        "value": "尤里的部队正在对这座城市进行镇压！他们的坦克正在向城区开进！",
+        "translated": "Yuri's troops are suppressing the city! Their tanks are heading into the city!"
+    },
+    {
+        "label": "LDA:B035",
+        "value": "警告 - 尤里的部队正在此区域附近集结！",
+        "translated": "Warning - Yuri's forces are massing around this area!"
+    },
+    {
+        "label": "LDA:B036",
+        "value": "击垮这些敌人，我们需要完全占领这座城市。",
+        "translated": "Defeat these enemies, we need to completely capture the city."
+    },
+    {
+        "label": "LDA:B037",
+        "value": "干得漂亮！我们终于踏回欧洲的土地了。另外，明早起来我们得好好审问一下罗曼诺夫。",
+        "translated": "Well done! We finally set foot back on European soil. Besides, we will interrogate Romanov tomorrow morning."
+    },
+    {
+        "label": "LDA:B038",
+        "value": "提示 - 你现在可以操纵罗曼诺夫总理。让他在混战中寻求苏联军队的庇护。",
+        "translated": "Hint - You can now control Premier Romanov. Let him seek shelter from the Soviet army in the battle."
+    },
+    {
+        "label": "LDA:B039",
+        "value": "提示 - 这个区域的尤里和苏军势力专注于攻击对方，你可以坐山观虎斗，等待时机。",
+        "translated": "Hint - Yuri and the Soviet are fighting each other. You can be patient and wait for the opportunity."
+    },
+    {
+        "label": "LDA:BC",
+        "value": "我们重新踏上了欧洲的土地，看到的却是满目疮痍。因为事实可能比我们想象的还要可怕——尤里回来了！",
+        "translated": "We set foot on European soil again, but the reality may be worse than expected - Yuri is back!"
+    },
+    {
+        "label": "LDA:ZEmpty",
+        "value": "",
+        "translated": ""
+    },
+    {
+        "label": "Name:RDLK",
+        "value": "林德拉克",
+        "translated": "Rynderack"
+    },
+    {
+        "label": "Name:TSU",
+        "value": "天枢",
+        "translated": "Tianshu"
+    },
+    {
+        "label": "LDA:B040",
+        "value": "提示 - 你可能需要从苏联人那里窃取一些战争资金，准备接下来的战斗。",
+        "translated": "Hint - You may need to steal some funds from the Soviets to prepare for the upcoming battle."
+    },
+    {
+        "label": "LDA:A001",
+        "value": "1988年4月1日。",
+        "translated": "April 1st, 1988."
+    },
+    {
+        "label": "LDA:A002",
+        "value": "英国，朴茨茅斯。",
+        "translated": "Portsmouth, Britian."
+    },
+    {
+        "label": "LDA:A003",
+        "value": "苏维埃的铁蹄已经践踏了整个欧洲大陆，不列颠也许是整个自由世界最后的希望。",
+        "translated": "The iron heel of the Soviet Union has trampled on the Europe. Britain may be the last hope of the free world."
+    },
+    {
+        "label": "LDA:A004",
+        "value": "警报终于在整个大不列颠上空鸣响。我们知道他们会来，但没想到来得这么快。",
+        "translated": "Sirens sounded across Great Britain. We knew they were coming, but we didn't expect them to come so soon."
+    },
+    {
+        "label": "LDA:A005",
+        "value": "我们的最后堡垒——伦敦要塞需要更多的时间来准备，你负责把进攻的苏军拖在朴茨茅斯港。",
+        "translated": "London Fortress needs more time to prepare. You are responsible to delay Soviet troops in Portsmouth Harbor."
+    },
+    {
+        "label": "LDA:A006",
+        "value": "「威灵顿将军：“报告！苏联人太多了！我们没能把他们挡在港口之外！”」",
+        "translated": "General Wellington: \"Report! There are too many Soviets! We couldn't keep them out of the harbor!\""
+    },
+    {
+        "label": "LDA:A007",
+        "value": "任务目标 - 至少保留一座建造厂，直到伦敦要塞准备完毕。",
+        "translated": "Mission Objective - Keep at least one construction yard until the London Fortress is ready."
+    },
+    {
+        "label": "LDA:A008",
+        "value": "任务目标 - 继续战斗，直到流尽最后一滴血。",
+        "translated": "Mission Objective - Keep fighting until the last drop of blood."
+    },
+    {
+        "label": "LDA:A009",
+        "value": "提示 - 修复间谍卫星终端，使我们能够纵览整个战场。",
+        "translated": "Hint - Repair the spy satellite terminal to give us an overview of the entire battlefield."
+    },
+    {
+        "label": "LDA:A010",
+        "value": "警告 - 苏联人的登陆部队来了！",
+        "translated": "Warning - Soviet landing force is coming!"
+    },
+    {
+        "label": "LDA:E001",
+        "value": "比利时，布鲁塞尔。",
+        "translated": "Brussels, Belgium."
+    },
+    {
+        "label": "LDA:E002",
+        "value": "尤里不甘心于非洲的失败，在比利时布鲁塞尔对欧洲联盟军展开了反攻。",
+        "translated": "Yuri was not reconciled to the defeat in Africa and launched a counterattack in Brussels, Belgium."
+    },
+    {
+        "label": "LDA:E003",
+        "value": "警告 - 尤里已经把苏联的核武器部署到了布鲁塞尔！",
+        "translated": "Warning - Yuri has deployed Soviet nuclear weapons to Brussels!"
+    },
+    {
+        "label": "LDA:E004",
+        "value": "警告 - 尤里在此区域部署了不止一座核弹发射井！",
+        "translated": "Warning - Yuri has deployed more than one nuclear silo in this area!"
+    },
+    {
+        "label": "LDA:E005",
+        "value": "可能即使把布鲁塞尔打成一片瓦砾，尤里也在所不惜。",
+        "translated": "Perhaps even if Brussels is reduced to rubble, Yuri will not hesitate."
+    },
+    {
+        "label": "LDA:E006",
+        "value": "原子球是全人类和平使用核能的标志，我们必须保护它。",
+        "translated": "The Atomium is a symbol of the peaceful use of nuclear energy for all mankind. We must protect it."
+    },
+    {
+        "label": "LDA:E007",
+        "value": "我们的增援部队已经到达布鲁塞尔要塞，与威灵顿将军并肩作战。",
+        "translated": "Our reinforcements have arrived at the fortress of Brussels to fight alongside General Wellington."
+    },
+    {
+        "label": "LDA:E008",
+        "value": "任务目标 - 在尤里的核攻击中保护原子球。",
+        "translated": "Mission Objective - Protect the Atomium from Yuri's nuclear attack."
+    },
+    {
+        "label": "LDA:E009",
+        "value": "任务目标 - 解除布鲁塞尔的核威胁。",
+        "translated": "Mission Objective - Neutralize the nuclear threat in Brussels."
+    },
+    {
+        "label": "LDA:E010",
+        "value": "提示 - 位置标定显示，两枚核弹的目标都是原子球。你可能需要使用力场护盾来保护原子球。",
+        "translated": "Hint - The target of both nuclear missiles are the Atomium. You may need to use force shield to protect it."
+    },
+    {
+        "label": "LDA:B041",
+        "value": "「间谍：“我不明白，为什么这里有一座心灵信标？”」",
+        "translated": "Spy: \"I don't understand, why is there a Psychic Beacon here?\""
+    },
+    {
+        "label": "LDA:C001",
+        "value": "埃及，塞得港。",
+        "translated": "Port Said, Egypt."
+    },
+    {
+        "label": "LDA:C002",
+        "value": "尤里的一批装载基因武器的货轮正在通过苏伊士运河前往欧洲。",
+        "translated": "A batch of Yuri's cargo ships carrying genetic weapons is heading to Europe through the Suez Canal."
+    },
+    {
+        "label": "LDA:C003",
+        "value": "指挥官，这里戒备森严，我们也没有足够的舰队对这里发动一次进攻了。",
+        "translated": "Commander, this place is heavily guarded, and we don't have enough fleet to launch an attack here."
+    },
+    {
+        "label": "LDA:C004",
+        "value": "所幸的是，我们最好的特工——谭雅，已经通过一艘游轮混了进来。",
+        "translated": "Fortunately, our best agent, Tanya, has snuck in via a cruise ship."
+    },
+    {
+        "label": "LDA:C005",
+        "value": "这些载有基因武器的货轮会在塞得港稍作停留，然后进入地中海。",
+        "translated": "These cargo ships carrying genetic weapons will stop in Port Said before entering the Mediterranean."
+    },
+    {
+        "label": "LDA:C006",
+        "value": "不能允许任何一艘货轮离开塞得港，否则整个欧洲都将面临灭顶之灾！",
+        "translated": "No cargo ship can be allowed to leave Port Said, otherwise the entire Europe will face catastrophe!"
+    },
+    {
+        "label": "LDA:C007",
+        "value": "任务目标 - 不能让任何一艘货轮离开塞得港。",
+        "translated": "Mission Objective - Prevent cargo ships from leaving Port Said."
+    },
+    {
+        "label": "LDA:C008",
+        "value": "「谭雅：“我应该为入侵者战机清理一下这边的防空设施。”」",
+        "translated": "Tanya: \"I should clean up the air defense facilities here for the Harriers.\""
+    },
+    {
+        "label": "LDA:C009",
+        "value": "「谭雅：“我得在那座基因突变器完成充能前完成我的行动，或者，把它炸掉吧。”」",
+        "translated": "Tanya: \"I have to complete my objective before that genetic mutator finishes charging, or blow it up.\""
+    },
+    {
+        "label": "LDA:C010",
+        "value": "任务目标 - 摧毁威胁谭雅的基因突变器。",
+        "translated": "Mission Objective - Destroy the genetic mutator that threatens Tanya."
+    },
+    {
+        "label": "Name:BLSE02",
+        "value": "布鲁塞尔国际会议中心",
+        "translated": "Brussels International Conference Center"
+    },
+    {
+        "label": "Name:CANA01",
+        "value": "嘎纳电影节剧场",
+        "translated": "Cannes Film Festival Theater"
+    },
+    {
+        "label": "Name:JAPANFLAG",
+        "value": "日本国旗",
+        "translated": "Japanese flag"
+    },
+    {
+        "label": "Name:TURKEYFLAG",
+        "value": "土耳其国旗",
+        "translated": "Turkiye flag"
+    },
+    {
+        "label": "Name:AD01",
+        "value": "春天来啦！！！！！！",
+        "translated": "Spring is coming!"
+    },
+    {
+        "label": "Name:AD02",
+        "value": "SOON！！！！",
+        "translated": "SOON!!!!"
+    },
+    {
+        "label": "Name:AD03",
+        "value": "林德拉克计划",
+        "translated": "Rynderack Project"
+    },
+    {
+        "label": "Name:AD04",
+        "value": "河童重工，值得信赖",
+        "translated": "Kappa Heavy Industry, trustworthy"
+    },
+    {
+        "label": "Name:AD05",
+        "value": "禁止摆放油桶",
+        "translated": "Oil drums are prohibited"
+    },
+    {
+        "label": "Name:AD06",
+        "value": "盟军宣传板",
+        "translated": "Allied propaganda board"
+    },
+    {
+        "label": "Name:AD07",
+        "value": "苏军宣传板",
+        "translated": "Soviet propaganda board"
+    },
+    {
+        "label": "Name:AD08",
+        "value": "盟军宣传板",
+        "translated": "Allied propaganda board"
+    },
+    {
+        "label": "Name:AD09",
+        "value": "苏军宣传板",
+        "translated": "Soviet propaganda board"
+    },
+    {
+        "label": "Name:AD10",
+        "value": "一起哈啤！",
+        "translated": "Let's have a beer together!"
+    },
+    {
+        "label": "LDA:C011",
+        "value": "提示 - 尝试重启塞得港废弃的机场，用空军配合谭雅的突击行动。",
+        "translated": "Hint - Try to reactivate the abandoned airport in Port Said and use the air force to assist Tanya."
+    },
+    {
+        "label": "LDA:C012",
+        "value": "警告 - 不要靠近尤里雕像！它们拥有超远的射程，谭雅不是它们的对手。",
+        "translated": "Warning - Don't go near the Yuri statue! They have an extremely long range."
+    },
+    {
+        "label": "LDA:C013",
+        "value": "提示 - 尝试摧毁塞得港大桥，阻止埃及军队从南岸攻击我们的机场。",
+        "translated": "Hint - Try to destroy the Port Said Bridge to protect our airport from the attacks from south bank."
+    },
+    {
+        "label": "LDA:C014",
+        "value": "提示 - 你可以从摧毁的部队回收厂中获得资金。",
+        "translated": "Hint - You can get funds from destroyed Grinders."
+    },
+    {
+        "label": "LDA:C015",
+        "value": "警告 - 检测到尤里雕像！极度危险！",
+        "translated": "Warning - Yuri statue detected! CAUTION: EXTREME DANGER"
+    },
+    {
+        "label": "LDA:C016",
+        "value": "已成功接管机场。现在你可以使用入侵者战机来配合谭雅的行动。",
+        "translated": "Successfully took over the airport. Now you can use the Harriers to assist Tanya."
+    },
+    {
+        "label": "LDA:C017",
+        "value": "注意 - 有一艘货轮正准备驶离塞得港！可不能让它逃了！",
+        "translated": "Attention - a cargo ship preparing to leave Port Said! We can't let it escape!"
+    },
+    {
+        "label": "LDA:C018",
+        "value": "注意 - 又有一艘货轮在行动！",
+        "translated": "Attention - another cargo ship is on the move!"
+    },
+    {
+        "label": "LDA:C019",
+        "value": "注意 - 这艘货轮似乎选择了与之前不同的路线！",
+        "translated": "Attention - this cargo ship appears to have chosen a different route than before!"
+    },
+    {
+        "label": "Name:CASAID01",
+        "value": "塞得港机场塔台",
+        "translated": "Port Said Airport Control Tower"
+    },
+    {
+        "label": "LDA:C020",
+        "value": "我们会持续跟踪试图这些货轮的位置。不要让它们逃了，指挥官。",
+        "translated": "We will continue to track the location of these cargo ships. We can't let it escape, Commander!"
+    },
+    {
+        "label": "LDA:C021",
+        "value": "成功拦截了一艘货轮。",
+        "translated": "Successfully intercepted a cargo ship."
+    },
+    {
+        "label": "LDA:C022",
+        "value": "注意 - 从苏伊士运河方向又有新的货轮来了！",
+        "translated": "Attention - there are new cargo ships arriving from the direction of the Suez Canal!"
+    },
+    {
+        "label": "LDA:C023",
+        "value": "注意 - 有两艘货轮同时出发了！",
+        "translated": "Attention - there are two cargo ships departing at the same time!"
+    },
+    {
+        "label": "LDA:C024",
+        "value": "「谭雅：“上帝啊，尤里在用这些手无寸铁的平民做什么实验！”」",
+        "translated": "Tanya: \"Oh my God, what kind of experiments is Yuri doing on these unarmed civilians!\""
+    },
+    {
+        "label": "LDA:C025",
+        "value": "任务目标 - 启用塞得港的废弃机场。",
+        "translated": "Mission Objective - Activating the abandoned airfield in Port Said."
+    },
+    {
+        "label": "LDA:C026",
+        "value": "基因突变器已经摧毁。谭雅不再受到威胁了。",
+        "translated": "The genetic mutator has been destroyed. Tanya was no longer threatened."
+    },
+    {
+        "label": "LDA:C027",
+        "value": "我们很快就会在塞得港进行空降。希望这能为谭雅的行动提供帮助。",
+        "translated": "We will provide paratroopers in Port Said soon. Hopefully this will help Tanya in her mission."
+    },
+    {
+        "label": "LDA:C028",
+        "value": "有几艘货轮似乎不敢从港口中驶出来了。那就让它们永远沉没在里面吧。",
+        "translated": "Several cargo ships seem afraid to sail out of the port. Let them sink there forever."
+    },
+    {
+        "label": "LDA:C029",
+        "value": "警告 - 有一艘货轮要逃走了！如果它离开港口，任务就失败了！！",
+        "translated": "Warning - a cargo ship is escaping! If it leaves port, the mission will fail!"
+    },
+    {
+        "label": "LDA:C030",
+        "value": "任务目标逃脱 - 未能成功拦截货轮，任务失败。",
+        "translated": "CRITICAL TARGET ESCAPED - failed to intercept the cargo ship, mission failed."
+    },
+    {
+        "label": "LDA:C031",
+        "value": "关键部队丧失 - 谭雅阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Tanya killed, mission failed."
+    },
+    {
+        "label": "LDA:C032",
+        "value": "空降部队已经到达。工程师将会随后到达。",
+        "translated": "The airborne troops have arrived. Engineers will arrive shortly."
+    },
+    {
+        "label": "LDA:C033",
+        "value": "任务目标 - 击沉塞得港内剩余的货轮。",
+        "translated": "Mission Objective - Sink the remaining cargo ships in Port Said."
+    },
+    {
+        "label": "LDA:C034",
+        "value": "所有装载基因武器的货轮都已经被击沉。",
+        "translated": "All cargo ships carrying genetic weapons have been sunk."
+    },
+    {
+        "label": "LDA:C035",
+        "value": "干得漂亮，指挥官！我们可以在北非继续更大胆的军事行动了。",
+        "translated": "Well done, Commander! We can continue more aggressive military operations in North Africa."
+    },
+    {
+        "label": "LDA:CC",
+        "value": "塞得港的成功渗入使得我们可以在北非进行更大胆的行动。准备迎接新的挑战吧，指挥官。",
+        "translated": "The successful infiltration of Port Said allowed us to conduct more aggressive operations in North Africa."
+    },
+    {
+        "label": "Name:POSTMOUTH01",
+        "value": "大三角帆塔",
+        "translated": "Spinnaker Tower"
+    },
+    {
+        "label": "LDA:A011",
+        "value": "修复间谍卫星终端 - 获得全地图视野。",
+        "translated": "Spy Satellite Terminal Repaired - Full map overview acquired."
+    },
+    {
+        "label": "LDA:C036",
+        "value": "「谭雅：“时间不多了，我想我该抓紧了。”」",
+        "translated": "Tanya: \"Time is running out, I think I should hurry up.\""
+    },
+    {
+        "label": "LDA:C037",
+        "value": "「谭雅：“来不及了，来不及了！”」",
+        "translated": "Tanya: \"It's too late, it's too late!\""
+    },
+    {
+        "label": "THEME:Kronos",
+        "value": "Kronos - Diverse System",
+        "translated": "Kronos - Diverse System"
+    },
+    {
+        "label": "THEME:HitTheGroundTooHard",
+        "value": "Hit The Ground Too Hard - Diverse System",
+        "translated": "Hit The Ground Too Hard - Diverse System"
+    },
+    {
+        "label": "THEME:JapanizeDream",
+        "value": "さくらさくら ~ Japanize Dream... - 彩音 ~xi-on~",
+        "translated": "Sakura Sakura ~ Japanize Dream... - Ayane ~xi-on~"
+    },
+    {
+        "label": "THEME:DeepSpace",
+        "value": "Deep Space - Nigel Stanford",
+        "translated": "Deep Space - Nigel Stanford"
+    },
+    {
+        "label": "THEME:Jump",
+        "value": "Jump! - Two Steps From Hell",
+        "translated": "Jump! - Two Steps From Hell"
+    },
+    {
+        "label": "THEME:Mistake",
+        "value": "Mistake - Nolan",
+        "translated": "Mistake - Nolan"
+    },
+    {
+        "label": "THEME:Katusha",
+        "value": "カチューシャ（喀秋莎） - 上坂すみれ / 金元寿子",
+        "translated": "Headband (Kashusa) - Sumire Uesaka / Hisako Kanemoto"
+    },
+    {
+        "label": "THEME:Harbinger",
+        "value": "Harbinger - void",
+        "translated": "Harbinger - void"
+    },
+    {
+        "label": "THEME:Altersist",
+        "value": "Altersist - electro planet",
+        "translated": "Altersist - electro planet"
+    },
+    {
+        "label": "THEME:Lube",
+        "value": "Красная Армия всех сильней - Lube",
+        "translated": "The Red Army is the strongest - Lube"
+    },
+    {
+        "label": "THEME:Sunset",
+        "value": "Sunset in Dubai - Afternova/Magnus Mykleby",
+        "translated": "Sunset in Dubai - Afternova/Magnus Mykleby"
+    },
+    {
+        "label": "LDA:A012",
+        "value": "警告 - 苏联伞兵部队来袭！",
+        "translated": "Warning - Soviet paratroopers are coming!"
+    },
+    {
+        "label": "LDA:A013",
+        "value": "需要拖住苏军的时间",
+        "translated": "Time needed to delay the Soviet army"
+    },
+    {
+        "label": "LDA:A014",
+        "value": "注意 - 朴茨茅斯港口的资源是有限的，需要尽可能节省的使用！",
+        "translated": "Attention - Portsmouth Port resources are limited and need to be used as sparingly as possible!"
+    },
+    {
+        "label": "LDA:A015",
+        "value": "附近有废弃的盟军设施。修复它们。",
+        "translated": "There are abandoned Allied facilities nearby. Repair them."
+    },
+    {
+        "label": "LDA:A016",
+        "value": "额外的防守时间",
+        "translated": "Extra defense time"
+    },
+    {
+        "label": "LDA:A017",
+        "value": "警告 - 检测到苏联的基洛夫空艇部队正在逼近！",
+        "translated": "Warning - Soviet Kirov airships approaching detected!"
+    },
+    {
+        "label": "LDA:A018",
+        "value": "警告 - 检测到重型轰炸舰正在接近！",
+        "translated": "Warning - Approaching heavy bombing ships detected!"
+    },
+    {
+        "label": "LDA:A019",
+        "value": "「“当我们没有了风帆……我们还能靠什么来远航呢？”」",
+        "translated": "\"When we don't have sails...what else can we rely on to sail?\""
+    },
+    {
+        "label": "LDA:A020",
+        "value": "指挥官，我们从伯明翰第3方面军又抽调来了一支部队，连同一辆基地车。",
+        "translated": "Commander, we have transferred another group of units from the 3rd Birmingham Front, along with an MCV."
+    },
+    {
+        "label": "LDA:A021",
+        "value": "我们从曼彻斯特的金库中又调了一些资金给你。",
+        "translated": "We've transferred some more funds to you from our coffers in Manchester."
+    },
+    {
+        "label": "LDA:A022",
+        "value": "我们成功了！我们拖延了足够的时间，伦敦要塞已经做好了迎接敌人的准备。",
+        "translated": "We succeeded! We held long enough and London Fortress was ready to hold the enemy."
+    },
+    {
+        "label": "LDA:A023",
+        "value": "你可以选择在朴茨茅斯继续战斗。也可以变卖所有建筑并撤退，你也不会因此被当作懦夫。",
+        "translated": "You may choose to continue the fight. Or sell all buildings and retreat. You won't be considered a coward."
+    },
+    {
+        "label": "LDA:A024",
+        "value": "警告 - 港口区域有受轰炸的危险！请尽快净空港口区域！",
+        "translated": "Warning - There is a risk of bombing in the port area! Please clear the port area as soon as possible!"
+    },
+    {
+        "label": "LDA:A025",
+        "value": "关键建筑丧失 - 建造厂被毁。未能成功拖延苏军，伦敦要塞处于危险当中。",
+        "translated": "CRITICAL STRUCTURE LOST - Construction yard destroyed. Failed to delay the Soviet, London is in danger."
+    },
+    {
+        "label": "LDA:A026",
+        "value": "「“来吧，都来吧！虽然你们成功登陆了，我们已经做好准备把你们赶下大海了。”」",
+        "translated": "\"Come on, come on! Although you have successfully landed, we are ready to drive you back to the sea.\""
+    },
+    {
+        "label": "LDA:A027",
+        "value": "警告 - 检测到海峡对岸的核弹发射井！",
+        "translated": "Warning - Nuclear silo detected across the channel!"
+    },
+    {
+        "label": "LDA:AC",
+        "value": "苏军在朴茨茅斯港碰了个硬钉子。多亏指挥官的顽强抵抗，现在苏联人绝对不敢靠近伦敦要塞一步了。",
+        "translated": "Thanks to the commander's tenacious resistance, the Soviets cannot take a step closer to the London Fortress."
+    },
+    {
+        "label": "LDA:A028",
+        "value": "天色越来越暗了，指挥官。如果你决定继续战斗的话，那么，上帝与你同在。",
+        "translated": "It's getting dark, Commander. If you decide to keep fighting, God is with you."
+    },
+    {
+        "label": "THEME:BlastProcessing",
+        "value": "Blast Processing - Various Artists",
+        "translated": "Blast Processing - Various Artists"
+    },
+    {
+        "label": "THEME:FullForceForward",
+        "value": "Full Force Forward - Simon Viklund",
+        "translated": "Full Force Forward - Simon Viklund"
+    },
+    {
+        "label": "Name:GIZA01",
+        "value": "起源科技实验室",
+        "translated": "Origin Technology Laboratory"
+    },
+    {
+        "label": "Name:TimeStop",
+        "value": "静滞力场",
+        "translated": "Immobilization Field"
+    },
+    {
+        "label": "LDA:TimeStop",
+        "value": "注意 - 静滞力场已启动！",
+        "translated": "Attention - Immobilization Field is activated!"
+    },
+    {
+        "label": "LDA:TimeStopTimer",
+        "value": "静滞力场持续时间",
+        "translated": "Immobilization Field duration"
+    },
+    {
+        "label": "Name:PLAD",
+        "value": "静滞信标",
+        "translated": "Immobilization beacon"
+    },
+    {
+        "label": "LDA:D026",
+        "value": "新科技解析预估时间",
+        "translated": "New technology recover estimated time"
+    },
+    {
+        "label": "LDA:0Error",
+        "value": "错误 - 任务包安装不正确，请确保所有文件都已安装！",
+        "translated": "Error - Mission pack is not installed correctly, please make sure all files are installed!"
+    },
+    {
+        "label": "Name:TOKYO05",
+        "value": "神社",
+        "translated": "shrine"
+    },
+    {
+        "label": "LDA:D027",
+        "value": "我们解析这里的科技还需要一段时间。你所需要的只是：活下来！",
+        "translated": "It will take some time for us to recover the technology here. All you need is to survive!"
+    },
+    {
+        "label": "LDA:D028",
+        "value": "尤里的主要据点已经被毁，只剩些残兵败将在四处逃窜了。",
+        "translated": "Yuri's main stronghold has been destroyed, and the remaining forces are left running around."
+    },
+    {
+        "label": "LDA:D029",
+        "value": "指挥官，吉萨有十分丰富的石油资源，记得多收集一些。",
+        "translated": "Commander, Giza is very rich in oil, remember to collect some."
+    },
+    {
+        "label": "LDA:DC",
+        "value": "吉萨的军事行动让尤里感到胆寒，他不得不撤出埃及，我们重新夺回了北非战场的主动权。",
+        "translated": "The military operation in Giza forced Yuri to withdraw. We regained the control in the North Africa."
+    },
+    {
+        "label": "LDA:D030",
+        "value": "「“嘘！安静点，不要惊动长眠在此中的法老胡夫。”」",
+        "translated": "\"Shh! Be quiet and don't disturb Pharaoh Khufu who is sleeping here.\""
+    },
+    {
+        "label": "LDA:D031",
+        "value": "「“几千年以来，这座斯芬克斯神像就一直在这里，凝视着法老胡夫的天际线。”」",
+        "translated": "\"For thousands of years, the Sphinx has been here, gazing at the skyline of Pharaoh Khufu.\""
+    },
+    {
+        "label": "LDA:D032",
+        "value": "我方部队全部被消灭，任务失败。",
+        "translated": "All our troops were wiped out, mission failed."
+    },
+    {
+        "label": "LDA:E011",
+        "value": "关键建筑丧失 - 原子球被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - Atomium destroyed, mission failed."
+    },
+    {
+        "label": "Name:BLSE03",
+        "value": "比利时银行",
+        "translated": "Belgian Bank"
+    },
+    {
+        "label": "LDA:E012",
+        "value": "提示 - 尽快维修布鲁塞尔要塞的受损建筑。",
+        "translated": "Hint - Repair damaged buildings in Brussels Fortress as soon as possible."
+    },
+    {
+        "label": "LDA:E013",
+        "value": "指挥官，布鲁塞尔的海军由您全权指挥。",
+        "translated": "Commander, the navy in Brussels is under your command."
+    },
+    {
+        "label": "LDA:E014",
+        "value": "提示 - 如果我们能夺回比利时银行，就能获得稳定的资金来源。",
+        "translated": "Hint - If we can take back the Belgian banks, we will have a stable source of funding."
+    },
+    {
+        "label": "LDA:E015",
+        "value": "警告 - 又有一座核弹发射井已经上线。",
+        "translated": "Warning - Another nuclear silo has come online."
+    },
+    {
+        "label": "LDA:E016",
+        "value": "注意 - 两枚核弹的打击目标似乎都是原子球。你可能必须使用立场护盾来保护它。",
+        "translated": "Attention - Both nuclear missiles appear to be targeting Atomium."
+    },
+    {
+        "label": "LDA:E017",
+        "value": "「威灵顿：“我就知道，你是最棒的盟军海军指挥官！趁现在，消灭他们！”」",
+        "translated": "Wellington: \"I knew you were the best Allied naval commander! Destroy them now!\""
+    },
+    {
+        "label": "LDA:E018",
+        "value": "我们上当了！尤里在布鲁塞尔的真实目的不是部署核武器，而是部署心灵信标！",
+        "translated": "We were fooled! Yuri's real purpose in Brussels is to deploy Psychic Beacons rather than nuclear weapons!"
+    },
+    {
+        "label": "LDA:E019",
+        "value": "警告 - 心灵信标已启动！",
+        "translated": "Warning - Psychic Beacon activated!"
+    },
+    {
+        "label": "LDA:E020",
+        "value": "指挥官，快离开这里！离开这里……",
+        "translated": "Commander, get out of here! Get out of here..."
+    },
+    {
+        "label": "LDA:E021",
+        "value": "等等，这里……",
+        "translated": "Wait, here..."
+    },
+    {
+        "label": "LDA:E022",
+        "value": "千钧一发之际，我们成功阻止了心灵信标启动！干的漂亮，指挥官！",
+        "translated": "At the critical moment, we successfully prevented the Psychic Beacon from activation! Well done, Commander!"
+    },
+    {
+        "label": "LDA:G001",
+        "value": "乌克兰，敖德萨。",
+        "translated": "Odessa, Ukraine."
+    },
+    {
+        "label": "LDA:G002",
+        "value": "我们已经锁定了覆盖整个欧洲的心灵控制网络的中枢——敖德萨的心灵控制增幅器。",
+        "translated": "We have located the hub of the psychic network in the entire Europe - the Psychic Amplifier in Odessa."
+    },
+    {
+        "label": "LDA:G003",
+        "value": "它正在影响敖德萨的苏军。我们需要在它影响我们前摧毁它。",
+        "translated": "It is affecting the Soviet troops in Odessa. We need to destroy it before it affects us."
+    },
+    {
+        "label": "LDA:G004",
+        "value": "我们需要先占领城市外围的铁幕装置，这样可以解除对心灵控制增幅器的保护。",
+        "translated": "We need to capture the Iron Curtain devices outside city to remove the protection of the Psychic Amplifier."
+    },
+    {
+        "label": "LDA:G005",
+        "value": "注意，是占领并保护，而不是摧毁。解救了苏联人以后，他们还需要这些武器。",
+        "translated": "Attention, do NOT destroy Iron Curtain devices. Soviets will need these weapons later."
+    },
+    {
+        "label": "LDA:G006",
+        "value": "我们的部队已经进入北海的超时空传送器。援军即将到达。",
+        "translated": "Our troops have entered the Chronosphere in the North Sea. Reinforcements are coming."
+    },
+    {
+        "label": "LDA:G007",
+        "value": "任务目标 - 占领并保护四座铁幕装置。",
+        "translated": "Mission Objective - Capture and protect the four Iron Curtain devices."
+    },
+    {
+        "label": "LDA:G008",
+        "value": "任务目标 - 在心灵控制增幅器启动前，摧毁它。",
+        "translated": "Mission Objective - Destroy the Psychic Amplifier before it activates."
+    },
+    {
+        "label": "LDA:G009",
+        "value": "任务目标 - 苏军的建造厂不能被摧毁。",
+        "translated": "Mission Objective - The Soviet construction yard cannot be destroyed."
+    },
+    {
+        "label": "LDA:G010",
+        "value": "第二批部队已经进入北海的超时空传送器。援军即将抵达。",
+        "translated": "The second batch of troops has entered the Chronosphere in the North Sea. Reinforcements are coming."
+    },
+    {
+        "label": "LDA:G011",
+        "value": "提示 - 静滞力场科技已经模块化完成了。建造一座作战实验室，即可使用静滞力场。",
+        "translated": "Hint - Immobilization Field technology has been modularized. Build a Battle Lab to gain access to it."
+    },
+    {
+        "label": "LDA:G012",
+        "value": "丧失关键建筑 - 有一座铁幕被摧毁了，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - One of the Iron Curtains was destroyed, mission failed."
+    },
+    {
+        "label": "LDA:G013",
+        "value": "丧失关键建筑 - 苏联的建造厂被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - Soviet construction yard destroyed, mission failed."
+    },
+    {
+        "label": "LDA:G014",
+        "value": "心灵控制增幅器启动预估时间",
+        "translated": "Estimated activation time of Psychic Amplifier"
+    },
+    {
+        "label": "LDA:G015",
+        "value": "「罗曼诺夫：“指挥官，我恳请您不要摧毁敖德萨的苏军建造厂。”」",
+        "translated": "Romanov: \"Commander, I beg you not to destroy the Soviet construction yard in Odessa.\""
+    },
+    {
+        "label": "LDA:G016",
+        "value": "「罗曼诺夫：“我们最优秀的科学家林德拉克在其中进行研究，请务必解救他，而不是伤害他。”」",
+        "translated": "Romanov: \"Our best scientist, Rynderack, is conducting research in it. Please don't hurt him.\""
+    },
+    {
+        "label": "LDA:G017",
+        "value": "心灵控制增幅器现在已经没有了铁幕保护。尽快去摧毁它吧！",
+        "translated": "The Psychic Amplifier is no longer protected by the Iron Curtain. Destroy it as quickly as possible!"
+    },
+    {
+        "label": "LDA:G018",
+        "value": "尤里正在源源不断的从黑海运送援军。抓紧时间，可不要被它们拖住！",
+        "translated": "Yuri is continuously delivering reinforcements from the Black Sea. Don't let them hold you back!"
+    },
+    {
+        "label": "LDA:G019",
+        "value": "我们成功了！苏联人现在是我们的朋友了！",
+        "translated": "We succeeded! The Soviets are our friends now!"
+    },
+    {
+        "label": "LDA:G020",
+        "value": "「林德拉克：“等等，是谁救了我们……是欧洲联盟？真让人难以置信！”」",
+        "translated": "Rynderack: \"Wait, who saved us...the European Union? It's incredible!\""
+    },
+    {
+        "label": "LDA:G021",
+        "value": "「林德拉克：“等等？你们没伤害我的宝贝铁幕？太好了，我应该把实验继续做下去……”」",
+        "translated": "Rynderack: \"Wait? You didn't hurt my precious Iron Curtain? Great, I should continue the experiment...\""
+    },
+    {
+        "label": "LDA:HComplete",
+        "value": "敖德萨一战，欧洲联盟军的最后反扑成功阻止了心灵控制增幅器启动，并解救了敖德萨的苏军。欲知后事如何，请继续苏军篇 - 林德拉克铁幕计划。",
+        "translated": "In the battle of Odessa, the European Forces successfully prevented the Psychic Amplifier from activation and rescued the Soviet army. If you want to know what happened next, please continue to the Soviet compaign."
+    },
+    {
+        "label": "LDA:FF001",
+        "value": "北海。",
+        "translated": "North Sea."
+    },
+    {
+        "label": "LDA:FF002",
+        "value": "欧洲大陆已经没有一处安全的地方了，只有这遥远的大洋不受心灵波的影响。",
+        "translated": "There is nowhere safe on the European continent. Only this distant ocean is not affected by psychic waves."
+    },
+    {
+        "label": "LDA:FV001",
+        "value": "欧盟附加任务 - 「维京火祭」",
+        "translated": "EU Hidden Mission - \"Viking Fire Sacrifice\""
+    },
+    {
+        "label": "LDA:FV002",
+        "value": "北大西洋，法罗群岛附近海域。",
+        "translated": "North Atlantic, waters near the Faroe Islands."
+    },
+    {
+        "label": "LDA:FV003",
+        "value": "通过对布鲁塞尔心灵信标的分析，我们发现北大西洋还有一座心灵信标与之连接。",
+        "translated": "By analyzing the Brussels Psychic Beacon, we found another related Psychic Beacon in the North Atlantic."
+    },
+    {
+        "label": "LDA:FV004",
+        "value": "但是精确定位还需一点时间，请先指挥这支丹麦舰队原地待命。",
+        "translated": "However, precise positioning will take some time. Please command the Danish fleet to stay put."
+    },
+    {
+        "label": "LDA:FV005",
+        "value": "这是执行此次特殊任务的直升机。务必保护好它。",
+        "translated": "This is the helicopter that performed this special mission. Be sure to protect it."
+    },
+    {
+        "label": "LDA:FF003",
+        "value": "一支丹麦舰队已经远远逃离了欧洲大陆。这是我们最后的希望了。",
+        "translated": "A Danish fleet had fled far away from the European continent. This is our last hope."
+    },
+    {
+        "label": "LDA:FF004",
+        "value": "先寻找一个可以登陆的地点。我们需要在大洋上建立一个临时据点。",
+        "translated": "First find a landing site. We need to establish a temporary base on the ocean."
+    },
+    {
+        "label": "LDA:FF005",
+        "value": "任务目标 - 寻找合适的登陆地点。",
+        "translated": "Mission Objective - Find a suitable landing site."
+    },
+    {
+        "label": "LDA:FF006",
+        "value": "警告 - 检测到被尤里控制的盟军北欧舰队正在接近！",
+        "translated": "Warning - The approach of the Allied Nordic fleet controlled by Yuri has been detected!"
+    },
+    {
+        "label": "LDA:FF007",
+        "value": "「“我们不会害怕的！哪怕是不可一世的阿尔弗雷德，也曾经拜倒在维京人的战船之下！”」",
+        "translated": "\"We shall not waver! Even the undefeated Alfred once bowed to the Viking warships!\""
+    },
+    {
+        "label": "LDA:FF008",
+        "value": "这座冰山岛也许是合适的舰队锚地。",
+        "translated": "This iceberg island might be a suitable anchorage point for the fleet."
+    },
+    {
+        "label": "LDA:FF009",
+        "value": "关键部队丧失 - 基地车被毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - MCV destroyed, mission failed."
+    },
+    {
+        "label": "LDA:FF010",
+        "value": "尤里的部队很快就会到来，我们要先在这个弹丸之地站稳脚跟。",
+        "translated": "Yuri's troops will arrive soon. We must first establish a foothold in this small area."
+    },
+    {
+        "label": "LDA:FF011",
+        "value": "然后我们可以建立一座超时空传送器，寻求最后的反攻机会。",
+        "translated": "Then we can build a Chronosphere and seek the final counterattack opportunity."
+    },
+    {
+        "label": "LDA:FF012",
+        "value": "警告 - 检测到附近被尤里控制的北欧军团海军基地。",
+        "translated": "Warning - Nearby Naval base controlled by Yuri has been detected."
+    },
+    {
+        "label": "LDA:FF013",
+        "value": "任务目标 - 建立并保护超时空传送器。",
+        "translated": "Mission Objective - Build and protect the Chronosphere."
+    },
+    {
+        "label": "LDA:FF014",
+        "value": "任务目标 - 解除周围海军基地的造成的威胁。",
+        "translated": "Mission Objective - Neutralize the threat posed by the surrounding naval bases."
+    },
+    {
+        "label": "LDA:FF015",
+        "value": "任务目标 - 保护超时空传送器。",
+        "translated": "Mission Objective - Protect the Chronosphere."
+    },
+    {
+        "label": "LDA:FF016",
+        "value": "超时空传送器已建立。你需要保护它的安全，我们只有这一次机会了。",
+        "translated": "The Chronosphere has been built. You need to keep it safe. This is our only chance."
+    },
+    {
+        "label": "LDA:FF017",
+        "value": "关键部队丧失 - 建造厂或基地车被毁，我们无法建立超时空传送器，任务失败。",
+        "translated": "CRITICAL UNIT LOST - the construction yard or MCV is destroyed, we are unable to build the Chronosphere."
+    },
+    {
+        "label": "LDA:FF018",
+        "value": "关键建筑丧失 - 超时空传送器被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - the Chronosphere was destroyed, mission failed."
+    },
+    {
+        "label": "LDA:FF019",
+        "value": "我们必须解除周围的威胁，无论他们曾经是不是我们的朋友。",
+        "translated": "We must neutralize the threats around us, regardless they were once our friends or not."
+    },
+    {
+        "label": "LDA:FF020",
+        "value": "北部的威胁已解除。",
+        "translated": "The threat to the north has been eliminated."
+    },
+    {
+        "label": "LDA:FF021",
+        "value": "东北部的威胁已解除。",
+        "translated": "The threat to the Northeast has been eliminated."
+    },
+    {
+        "label": "LDA:FF022",
+        "value": "东部的威胁已解除。",
+        "translated": "The threat to the east has been eliminated."
+    },
+    {
+        "label": "LDA:FF023",
+        "value": "警告 - 检测到航母舰队正在逼近！",
+        "translated": "Warning - Approaching aircraft carrier fleet detected!"
+    },
+    {
+        "label": "LDA:FF024",
+        "value": "好的，现在整个北海都没有危险了。我们可以向整个欧洲心灵网络的中枢——敖德萨传送部队了。",
+        "translated": "Now the entire North Sea is safe. We can send troops to Odessa, the hub of the European psychic network."
+    },
+    {
+        "label": "LDA:FZC",
+        "value": "我们应该做足了准备去直捣欧洲心灵控制网络的中枢——敖德萨了。准备迎接决战吧，指挥官。",
+        "translated": "We are fully prepared to go to Odessa, the hub of the European psychic network. Get ready, Commander."
+    },
+    {
+        "label": "LDA:FF025",
+        "value": "额外的海豚小队已经到达。",
+        "translated": "Additional dolphin squads have arrived."
+    },
+    {
+        "label": "LDA:E023",
+        "value": "比利时银行已经归我们所有了。银行定期获得的放贷收入会是一笔不小的战争经费。",
+        "translated": "The Belgian bank is in our possession. The lending revenue is a considerable amount of funding for us."
+    },
+    {
+        "label": "LDS:C001",
+        "value": "苏联，莫斯科。",
+        "translated": "Moscow, USSR."
+    },
+    {
+        "label": "LDS:C002",
+        "value": "「尤里：“你又来了，林德拉克。我就知道你会来的。”」",
+        "translated": "Yuri: \"You're here again, Rynderack. I knew you would come.\""
+    },
+    {
+        "label": "LDS:C003",
+        "value": "「尤里：“我会拿出你最喜欢的东西，好好招待你的。”」",
+        "translated": "Yuri: \"I will bring out your favorite things and serve you well.\""
+    },
+    {
+        "label": "LDS:C004",
+        "value": "我们的先头部队已经进入超时空传送器。援军即将到达。",
+        "translated": "Our reconnaissance force has entered the Chronosphere. Reinforcements are coming soon."
+    },
+    {
+        "label": "LDS:C005",
+        "value": "古姆商场附近似乎是一个好的超时空投放点。打个他们措手不及吧！",
+        "translated": "Near GUM Mall seems to be a good place to drop Chrono. Catch them off guard!."
+    },
+    {
+        "label": "LDS:C006",
+        "value": "「林德拉克：“尤里没有办法对付我们的铁幕的！尽情倾泄炮火吧！”」",
+        "translated": "Rynderack: \"Yuri has no way to deal with our Iron Curtain! Feel free to vent your cannon fire!\""
+    },
+    {
+        "label": "LDS:C007",
+        "value": "现在看来莫斯科的防御十分空虚，但是尤里也正在加紧布防。",
+        "translated": "Now it seems that Moscow's defense is very empty, but Yuri is also stepping up his defense."
+    },
+    {
+        "label": "LDS:C008",
+        "value": "叛徒尤里就藏匿在克里姆林宫里。为了保证他不再作乱，我们必须占领克里姆林宫以抓捕他。",
+        "translated": "The traitor Yuri is hiding in the Kremlin. We must capture the Kremlin and arrest him."
+    },
+    {
+        "label": "LDS:C009",
+        "value": "任务目标 - 占领克里姆林宫。",
+        "translated": "Mission Objective - Capture the Kremlin."
+    },
+    {
+        "label": "Name:HARBIN01",
+        "value": "防洪纪念塔",
+        "translated": "Flood Control Memorial Tower"
+    },
+    {
+        "label": "LDA:FV006",
+        "value": "任务目标 - 原地待命并保护直升机。",
+        "translated": "Mission Objective - Stay in place and protect the helicopter."
+    },
+    {
+        "label": "LDA:FV007",
+        "value": "警告 - 检测到被控制的苏联波罗的海舰队正在接近！",
+        "translated": "Warning - Approaching Soviet Baltic Fleet detected!"
+    },
+    {
+        "label": "LDA:FV008",
+        "value": "警告 - 又一支苏联舰队正在接近！",
+        "translated": "Warning - Another Soviet fleet is approaching!"
+    },
+    {
+        "label": "LDA:FV009",
+        "value": "丧失关键部队 - 间谍阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - spy killed, mission failed."
+    },
+    {
+        "label": "LDA:FV010",
+        "value": "这里有一艘废弃的补给船。我们也许能够拿到有用的东西。",
+        "translated": "There is an abandoned supply ship here. We might be able to get something useful."
+    },
+    {
+        "label": "LDA:FV011",
+        "value": "我们已经成功定位北大西洋的心灵信标。",
+        "translated": "We have successfully located a Psychic Beacon in the North Atlantic."
+    },
+    {
+        "label": "LDA:FV012",
+        "value": "这座心灵信标位于法罗群岛中的一座火山岛上。",
+        "translated": "This Psychic Beacon is located on a volcanic island in the Faroe Islands."
+    },
+    {
+        "label": "LDA:FV013",
+        "value": "用直升机中的间谍渗透它，我们就可以得到欧洲心灵控制网络核心的位置了。",
+        "translated": "By infiltrating it with spies, we can learn the location of the hub of the European psychic network."
+    },
+    {
+        "label": "LDA:FV014",
+        "value": "任务目标 - 用间谍渗透心灵信标。",
+        "translated": "Mission Objective - Infiltrate the Psychic Beacon with spies."
+    },
+    {
+        "label": "LDA:FV015",
+        "value": "我们已经获取了关于驻法罗群岛苏军部队的一些信息，请查收。",
+        "translated": "We have obtained some information about the Soviet troops in the Faroe Islands, please check it out."
+    },
+    {
+        "label": "LDA:FV016",
+        "value": "丧失关键建筑物 - 心灵信标被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - Psychic Beacon destroyed, mission failed."
+    },
+    {
+        "label": "LDA:HExtra",
+        "value": "难度 - ？？？",
+        "translated": "Difficulty - ???"
+    },
+    {
+        "label": "LDA:FV017",
+        "value": "已成功击退苏军海军舰队的进攻。",
+        "translated": "The attack of the Soviet naval fleet was successfully repelled."
+    },
+    {
+        "label": "LDA:FV018",
+        "value": "已成功渗透心灵信标。有关欧洲心灵控制网络的数据资料已经传送回欧盟总部。",
+        "translated": "Successfully infiltrated the Psychic Beacon. Data has been sent back to EU headquarters."
+    },
+    {
+        "label": "LDA:FV019",
+        "value": "接下来，摧毁这座心灵信标，我们就可以接管这座岛屿上的苏军部队了。",
+        "translated": "Next, destroy this Psychic Beacon, and we can take over the Soviet troops on this island."
+    },
+    {
+        "label": "LDA:FV020",
+        "value": "干得漂亮，现在我们可以在这座岛屿上部署超时空传送器，前往整个欧洲的任何一个地方……",
+        "translated": "Well done, now we can deploy a Chronosphere on this island and travel to anywhere in Europe..."
+    },
+    {
+        "label": "LDA:FV021",
+        "value": "任务目标 - 摧毁心灵信标。",
+        "translated": "Mission Objective - Destroy the Psychic Beacon."
+    },
+    {
+        "label": "LDA:FV022",
+        "value": "修复这座桥梁，就能接近火山口了。",
+        "translated": "Repair the bridge and you'll be able to access the volcano crater."
+    },
+    {
+        "label": "LDA:FV023",
+        "value": "提示 - 寻找苏联人的兵营，或许可以找到能够征用的工程师。",
+        "translated": "Hint - Look for Soviet barracks, you may be able to find engineers you can recruit."
+    },
+    {
+        "label": "LDA:FV024",
+        "value": "「“这里的火山就像维京人熊熊燃烧的火炬一样，象征着他们的勇敢。”」",
+        "translated": "\"The volcanoes here are like the blazing torches of the Vikings, symbolizing their bravery.\""
+    },
+    {
+        "label": "THEME:Zest",
+        "value": "Zest - Venemy",
+        "translated": "Zest - Venemy"
+    },
+    {
+        "label": "THEME:WhenTheRain",
+        "value": "When The Rain - electro planet",
+        "translated": "When The Rain - electro planet"
+    },
+    {
+        "label": "THEME:RynderackProject",
+        "value": "Rynderack Project - Heli",
+        "translated": "Rynderack Project - Heli"
+    },
+    {
+        "label": "THEME:DragonSlayer",
+        "value": "Dragon Slayer - 鷺巣詩郎",
+        "translated": "Dragon Slayer - Shiro Sagasaki"
+    },
+    {
+        "label": "LDA:G022",
+        "value": "提示 - 静滞力场可以干扰心灵控制增幅器的充能。尽可能频繁的使用它。",
+        "translated": "Hint - Immobilization Fields can interfere with the Psychic Amplifier. Use it as often as possible."
+    },
+    {
+        "label": "LDA:G023",
+        "value": "成功占领了一座铁幕装置。",
+        "translated": "Successfully captured an Iron Curtain device."
+    },
+    {
+        "label": "LDA:G024",
+        "value": "又一批援军通过超时空传送到达。",
+        "translated": "Another batch of reinforcements arrived via Chronosphere."
+    },
+    {
+        "label": "LDA:G025",
+        "value": "这座铁幕装置内部有奇怪的能量反馈装置，大概需要专业的人员才能启动。",
+        "translated": "There is a strange device inside this Iron Curtain device. It probably requires professional personnel."
+    },
+    {
+        "label": "LDA:FV025",
+        "value": "舰队全军覆没，无法护送直升机，任务失败。",
+        "translated": "The fleet was completely wiped out, unable to escort the helicopter, mission failed."
+    },
+    {
+        "label": "LDS:BB001",
+        "value": "博斯普鲁斯海峡。",
+        "translated": "Bosporus."
+    },
+    {
+        "label": "LDS:BB002",
+        "value": "我们必须找到快速反攻莫斯科的方法，而不是在黑海上漂泊。",
+        "translated": "We must find a way to quickly counterattack Moscow instead of drifting on the Black Sea."
+    },
+    {
+        "label": "LDS:BB003",
+        "value": "「林德拉克：“伊斯坦布尔有一座超时空传送器，我想我们可以借来用用。”」",
+        "translated": "Rynderack: \"There is a Chronosphere in Istanbul. I think we can borrow it.\""
+    },
+    {
+        "label": "LDS:BB004",
+        "value": "伊斯坦布尔被遭受心灵控制的土耳其军队严密保护着。可是我们没有退路了。",
+        "translated": "Istanbul is heavily guarded by the mind-controlled Turkish military. But we have no way back."
+    },
+    {
+        "label": "LDS:BB005",
+        "value": "黑海舰队已经全体出发前往伊斯坦布尔。舰队主力会随后到达。",
+        "translated": "The Black Sea Fleet has all set off for Istanbul. The main force of the fleet will arrive later."
+    },
+    {
+        "label": "LDS:BB006",
+        "value": "同志，请先利用我们的先头部队与敌人周旋，等待舰队主力集结。",
+        "translated": "Comrade, use our reconnaissance force to deal with the enemy and wait for the main force of the fleet."
+    },
+    {
+        "label": "LDS:BB007",
+        "value": "任务目标 - 等待黑海舰队在博斯普鲁斯海峡集结。",
+        "translated": "Mission Objective - Wait for the Black Sea Fleet to assemble in the Bosporus."
+    },
+    {
+        "label": "LDS:BB008",
+        "value": "舰队主力到达时间",
+        "translated": "Arrival time of the main fleet"
+    },
+    {
+        "label": "LDS:BB009",
+        "value": "登陆部队到达时间",
+        "translated": "Arrival time of landing troops"
+    },
+    {
+        "label": "LDS:BB010",
+        "value": "黑海舰队主力已经抵达博斯普鲁斯海峡。",
+        "translated": "The main force of the Black Sea Fleet has arrived in the Bosporus."
+    },
+    {
+        "label": "LDS:BB011",
+        "value": "提示 - 瓦解君士坦丁要塞的防御，然后我们可以在那里空投一些伞兵。",
+        "translated": "Hint - Disintegrate the defenses of Constantine Fortress and then we can drop some paratroopers there."
+    },
+    {
+        "label": "LDS:BB012",
+        "value": "「林德拉克：“登陆部队已经到达。是时候强行开始这笔交易了！”」",
+        "translated": "Rynderack: \"The landing force has arrived. Time to force the deal!\""
+    },
+    {
+        "label": "LDS:BB013",
+        "value": "任务目标 - 清除超时空传送器周围的卫队。",
+        "translated": "Mission Objective - Clear out the guards around the Chronosphere."
+    },
+    {
+        "label": "LDS:BB014",
+        "value": "君士坦丁要塞的防御已经瓦解，空降部队稍后到达。",
+        "translated": "The defenses of Constantine's fortress had collapsed, and airborne troops will arrive soon."
+    },
+    {
+        "label": "LDS:BB015",
+        "value": "「动员兵：“我们又一次踏上了这片神奇的土地！来吧，凛冬将至！”」",
+        "translated": "Conscript: \"We once again set foot on this magical land! Come on, winter is coming!\""
+    },
+    {
+        "label": "LDS:BB016",
+        "value": "快摧毁那些机场！这些安卡拉雄鹰时时刻刻威胁着我们的舰队！",
+        "translated": "Destroy those airports! These Ankara Eagles threaten our fleet at all times!"
+    },
+    {
+        "label": "LDS:BB017",
+        "value": "警告 - 土耳其舰队正在先我们一步集结！",
+        "translated": "Warning - the Turkish fleet is gathering ahead of us!"
+    },
+    {
+        "label": "LDS:BB018",
+        "value": "关键部队丧失 - 林德拉克阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Rynderack killed, mission failed."
+    },
+    {
+        "label": "LDS:BB019",
+        "value": "关键建筑丧失 - 超时空传送器被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - the Chronosphere was destroyed, mission failed."
+    },
+    {
+        "label": "LDS:BB020",
+        "value": "干得漂亮，同志，我们已经成功的控制了伊斯坦布尔的超时空传送器。",
+        "translated": "Well done, comrade, we have successfully taken control of Istanbul's Chronosphere."
+    },
+    {
+        "label": "LDS:BB021",
+        "value": "「林德拉克：“尤里不会给我们留下太多时间。接下来我们要直击莫斯科了。”」",
+        "translated": "Rynderack: \"Yuri won't leave us much time. Next we have to attack Moscow directly.\""
+    },
+    {
+        "label": "LDS:BB022",
+        "value": "我们的登陆部队还在路上，请等待他们继续集结。",
+        "translated": "Our landing force is still on the way, please wait for them to continue to assemble."
+    },
+    {
+        "label": "Name:YSTP01",
+        "value": "君士坦丁要塞",
+        "translated": "Fortress of Constantine"
+    },
+    {
+        "label": "THEME:Warlords",
+        "value": "Warlords of Atlantis - Diverse System",
+        "translated": "Warlords of Atlantis - Diverse System"
+    },
+    {
+        "label": "LDS:D001",
+        "value": "中国，哈尔滨。",
+        "translated": "China, Harbin."
+    },
+    {
+        "label": "LDS:D002",
+        "value": "同志，我们接收到来自中国的黑客特工——天枢的紧急求援信号。",
+        "translated": "Comrade, we have received an urgent request for help from the Chinese hacker agent Tianshu."
+    },
+    {
+        "label": "LDS:D003",
+        "value": "我们的一支伞兵部队已经赶来。",
+        "translated": "One of our paratroopers has arrived."
+    },
+    {
+        "label": "LDS:D004",
+        "value": "「动员兵：“这里发生了什么紧急状况？似乎一切正常啊。”」",
+        "translated": "Conscript: \"What emergency is happening here? Everything seems to be fine.\""
+    },
+    {
+        "label": "LDS:D005",
+        "value": "「天枢：“嘘！小声点，我在太阳岛上发现了一座心灵信标。”」",
+        "translated": "Tianshu: \"Shh! Keep your voice down, I found a Psychic Beacon on Sun Island.\""
+    },
+    {
+        "label": "LDS:D006",
+        "value": "「天枢：“至于我们的军队是否已经被它控制了，我不清楚。”」",
+        "translated": "Tianshu: \"As for whether our army has been controlled by it, I don't know.\""
+    },
+    {
+        "label": "LDS:D007",
+        "value": "「天枢：“但是我的直觉告诉我，我必须破坏它，否则会有更大的危险降临。”」",
+        "translated": "Tianshu: \"But my intuition tells me that I must destroy it, otherwise greater danger will come.\""
+    },
+    {
+        "label": "LDS:D008",
+        "value": "任务目标 - 破坏太阳岛上的心灵信标。",
+        "translated": "Mission Objective - Destroy the Psychic Beacon on Sun Island."
+    },
+    {
+        "label": "LDS:D009",
+        "value": "任务目标 - 保护天枢。",
+        "translated": "Mission Objective - Keep Tianshu alive."
+    },
+    {
+        "label": "LDS:D010",
+        "value": "提示 - 天枢对车辆单位使用静滞射线，可以在很远的距离上令敌人寸步难行。",
+        "translated": "Hint - Tianshu uses Immobilization ray on vehicle units, which can disable enemies at a long distance."
+    },
+    {
+        "label": "LDS:D011",
+        "value": "提示 - 天枢可以对敌人建筑进行黑客入侵，使它们为我们所用。",
+        "translated": "Hint - Tianshu can hack enemy structures to make them ours."
+    },
+    {
+        "label": "LDS:D012",
+        "value": "提示 - 虽然天枢需要靠近建筑才能进行黑客入侵，但是隔着围墙进行入侵。",
+        "translated": "Hint - Although Tianshu needs to be close to the building to hack, hacking ignores the walls."
+    },
+    {
+        "label": "LDS:D013",
+        "value": "提示 - 天枢无法对付敌人步兵。请使用其它单位来对付。",
+        "translated": "Hint - Tianshu cannot deal with enemy infantry. Please use other units to deal with them."
+    },
+    {
+        "label": "LDS:BN001",
+        "value": "苏联附加任务 - 「喧闹的春天」",
+        "translated": "Soviet hidden mission - \"Noisy Spring\""
+    },
+    {
+        "label": "LDS:BN002",
+        "value": "捷克斯洛伐克，布拉格。",
+        "translated": "Prague, Czechoslovakia."
+    },
+    {
+        "label": "LDS:BN003",
+        "value": "「罗曼诺夫：“尤里是我们共同的敌人，我们会为布拉格的欧盟反抗军提供必要的援助。”」",
+        "translated": "Romanov: \"Yuri is our common enemy, and we will provide necessary assistance to the EU in Prague.\""
+    },
+    {
+        "label": "LDS:BN004",
+        "value": "布拉格正处在心灵控制器的威胁下，我们必须解救我们的欧洲盟友。",
+        "translated": "Prague is under threat from a Psychic Dominator and we must free our European allies."
+    },
+    {
+        "label": "LDS:BN005",
+        "value": "我们没有时间了，现在布拉格能够调动的只有这些装甲部队了。",
+        "translated": "We are running out of time, these armored units is all we can mobilize in Prague."
+    },
+    {
+        "label": "LDS:BN006",
+        "value": "所幸我们找到了一艘在此地检修的基洛夫空艇。护送它，炸毁那座破烂玩意！",
+        "translated": "Fortunately we found a Kirov airship being repaired here. Escort it and blow up that crap!"
+    },
+    {
+        "label": "LDS:BN007",
+        "value": "位于敖德萨的四座铁幕装置已经与指挥系统连接。希望关键时刻能够派上用场。",
+        "translated": "The four Iron Curtain devices in Odessa are operational. Hope it comes in handy at critical moments."
+    },
+    {
+        "label": "LDS:BN008",
+        "value": "「“什么，达瓦里希，你是说那艘基洛夫空艇的动力系统还没完全修好？难怪它飞的这么慢……”」",
+        "translated": "\"What, Davarich, the power system has not been fully repaired? No wonder it flies so slowly...\""
+    },
+    {
+        "label": "LDS:BN009",
+        "value": "任务目标 - 护送基洛夫空艇炸毁心灵控制器。",
+        "translated": "Mission Objective - Escort the Kirov airship to blow up the psychic dominator."
+    },
+    {
+        "label": "LDS:E001",
+        "value": "日本，东京湾。",
+        "translated": "Japan, Tokyo Bay."
+    },
+    {
+        "label": "LDS:E002",
+        "value": "根据天枢的情报，尤里就藏匿在东京。",
+        "translated": "According to Tianshu's intel, Yuri is hiding in Tokyo."
+    },
+    {
+        "label": "LDS:E003",
+        "value": "东京港的防御固若金汤，日本在这里部署的军力远非我们能比，除非我们这样……",
+        "translated": "The defense of Tokyo Port is impregnable, and the Japaness forces here is far beyond ours, unless ..."
+    },
+    {
+        "label": "LDS:E004",
+        "value": "先磁化这座东京塔，把它变成一个巨大的磁暴线圈。我们的登陆部队稍后到达。",
+        "translated": "First, energize the Tokyo Tower and turn it into a huge Tesla Coil."
+    },
+    {
+        "label": "LDS:E005",
+        "value": "任务目标 - 使用磁暴步兵磁化东京塔。",
+        "translated": "Mission Objective - Use Tesla Troopers to energize Tokyo Tower."
+    },
+    {
+        "label": "LDS:E006",
+        "value": "东京塔已经成为我们巨大的磁暴线圈。请时刻保持有磁暴步兵为其充电。",
+        "translated": "Tokyo Tower has become our giant Tesla Coil."
+    },
+    {
+        "label": "LDS:F001",
+        "value": "中国，西昌卫星发射中心。",
+        "translated": "China, Xichang Satellite Launch Center."
+    },
+    {
+        "label": "LDS:F002",
+        "value": "「天枢：“特工编码TSU001，代号天枢，请求进入。”」",
+        "translated": "Tianshu: \"Agent code TSU001, code name Tianshu, requesting entry.\""
+    },
+    {
+        "label": "LDS:F003",
+        "value": "「警卫：“对不起，你已经被除名，没有进入管制区域的权限。”」",
+        "translated": "Guard: \"Sorry, your access have been revoked, and you are not permitted to enter the controlled area.\""
+    },
+    {
+        "label": "LDS:F004",
+        "value": "「天枢：“哦，如果我这样呢？”」",
+        "translated": "Tianshu: \"Oh, what if I do this?\""
+    },
+    {
+        "label": "LDS:F005",
+        "value": "「林德拉克：“该死……！只能强行阻止火箭发射了吗？”」",
+        "translated": "Rynderack: \"Damn...! We have stop the rocket from launching by force?!\""
+    },
+    {
+        "label": "LDS:F006",
+        "value": "「天枢：“情报显示，尤里通过超时空逃离了东京，从这里搭乘火箭逃往了月球。”」",
+        "translated": "Tianshu: \"Intel shows that Yuri escaped Tokyo via Chronosphere and took a rocket to the moon from here.\""
+    },
+    {
+        "label": "LDS:F007",
+        "value": "「林德拉克：“现在还有更多的火箭等待发射。鬼知道尤里在搞什么诡计！”」",
+        "translated": "Rynderack: \"There are more rockets waiting to be launched. Who knows what trick Yuri is up to!\""
+    },
+    {
+        "label": "LDS:G001",
+        "value": "月球，风暴洋。",
+        "translated": "Moon, Oceanus Procellarum."
+    },
+    {
+        "label": "LDS:G002",
+        "value": "空降仓已经接近该区域。",
+        "translated": "The drop pod is approaching the area."
+    },
+    {
+        "label": "LDS:G003",
+        "value": "我们的先头部队已经到达月球表面。",
+        "translated": "Our reconnaissance force has reached the lunar surface."
+    },
+    {
+        "label": "LDS:G004",
+        "value": "尤里先我们一步建立了基地。我们需要寻找一片合适的区域以传送基地车。",
+        "translated": "Yuri established the base before us. We need to find a suitable area to teleport the MCV."
+    },
+    {
+        "label": "LDS:G005",
+        "value": "这个地点似乎不错。",
+        "translated": "This location seems good."
+    },
+    {
+        "label": "LDS:G006",
+        "value": "传送基地车时间",
+        "translated": "Teleport MCV time"
+    },
+    {
+        "label": "LDS:G007",
+        "value": "警告 - 尤里的部队正在接近！",
+        "translated": "Warning - Yuri's forces are approaching!"
+    },
+    {
+        "label": "LDS:BN010",
+        "value": "我们想办法把一些潜艇弄进了伏尔塔瓦河。利用它们清理一下水面上的防空火力吧。",
+        "translated": "We managed to get some submarines into the Vltava River. Use them to clear out enemy anti-aircraft."
+    },
+    {
+        "label": "LDS:BB023",
+        "value": "伊斯坦布尔的外围防御已经完全崩溃。乘胜追击，击败他们！",
+        "translated": "Istanbul's peripheral defenses had completely collapsed. Take advantage of the victory and defeat them!"
+    },
+    {
+        "label": "Name:Speeder",
+        "value": "三轮",
+        "translated": "Tricycle"
+    },
+    {
+        "label": "Name:HARBIN02",
+        "value": "啤酒厂",
+        "translated": "brewery"
+    },
+    {
+        "label": "LDS:A030",
+        "value": "「林德拉克：“接下来我会对西侧的铁幕装置进行充能。”」",
+        "translated": "Rynderack: \"Next, I will charge the Iron Curtain device on the west side.\""
+    },
+    {
+        "label": "LDS:A031",
+        "value": "「林德拉克：“现在可以同时使用两座铁幕装置了。继续充能！”」",
+        "translated": "Rynderack: \"Now it is possible to use two Iron Curtain devices at the same time. Keep charging!\""
+    },
+    {
+        "label": "LDS:A032",
+        "value": "「林德拉克：“实验快成功了，准备为第四座铁幕装置充能！”」",
+        "translated": "Rynderack: \"The experiment is almost done, ready to charge the fourth Iron Curtain device!\""
+    },
+    {
+        "label": "LDS:A033",
+        "value": "距南侧铁幕装置上线时间",
+        "translated": "Time until the southern Iron Curtain device comes online"
+    },
+    {
+        "label": "LDS:A034",
+        "value": "距东侧铁幕装置上线时间",
+        "translated": "Time until the eastern Iron Curtain device comes online"
+    },
+    {
+        "label": "LDS:A035",
+        "value": "「林德拉克：“我们做到了！同时在战场上部署四座铁幕装置！”」",
+        "translated": "Rynderack: \"We did it! We deployed four Iron Curtain devices on the battlefield at the same time!\""
+    },
+    {
+        "label": "LDS:A036",
+        "value": "罗曼诺夫正在调集黑海舰队来支援敖德萨。我们需要继续坚守等待汇合。",
+        "translated": "Romanov was mobilizing the Black Sea Fleet to support Odessa. We need to hold and wait for the rendezvous."
+    },
+    {
+        "label": "LDS:A037",
+        "value": "黑海舰队到达预估时间",
+        "translated": "Estimated arrival time of the Black Sea Fleet"
+    },
+    {
+        "label": "LDS:A038",
+        "value": "警告 - 尤里正在东侧发动登陆作战！",
+        "translated": "Warning - Yuri is launching a landing operation on the east side!"
+    },
+    {
+        "label": "LDS:A039",
+        "value": "警告 - 检测到大量尤里的镭射幽浮！",
+        "translated": "Warning - Large numbers of Yuri's Floating Disc detected!"
+    },
+    {
+        "label": "LDS:A040",
+        "value": "任务目标 - 消灭被心灵控制的欧洲联盟友军。",
+        "translated": "Mission Objective - to eliminate the mind-controlled forces of the European Union."
+    },
+    {
+        "label": "LDS:A041",
+        "value": "尤里的部队似乎已经全员撤离敖德萨。",
+        "translated": "Yuri's troops appear to have all evacuated Odessa."
+    },
+    {
+        "label": "LDS:A042",
+        "value": "敖德萨安全了？并不是吧，也许仍有一座心灵信标在影响着这里。",
+        "translated": "Is Odessa safe? No, maybe there is still a Psychic Beacon affecting this place."
+    },
+    {
+        "label": "LDS:A043",
+        "value": "这座心灵信标显然不是控制欧盟部队的那一座，但是我们的工程师从其中获得了一些有用的信息。",
+        "translated": "This is obviously not the one controlling EU forces, but our engineers have gained some intel from it."
+    },
+    {
+        "label": "LDS:AC",
+        "value": "敖德萨仍然处于心灵控制的阴影笼罩之下，我们应当带着多重铁幕科技立即转移。",
+        "translated": "Odessa is still under the shadow, We should move immediately with multi-Iron-Curtain technologies."
+    },
+    {
+        "label": "LDS:ZEmpty",
+        "value": "",
+        "translated": ""
+    },
+    {
+        "label": "LDS:BC",
+        "value": "我们已经控制了超时空传送器，现在我们可以利用它直击尤里的老巢莫斯科。",
+        "translated": "We have taken control of the Chronosphere. We can now launch attack directly into Yuri's lair, Moscow."
+    },
+    {
+        "label": "LDS:C010",
+        "value": "尤里正在召集斯摩棱斯克的近卫军团。请做好准备应付他们的背后袭击。",
+        "translated": "Yuri is gathering the Smolensk Guards. Please be prepared for attacks from behind."
+    },
+    {
+        "label": "LDS:C011",
+        "value": "近卫军团到达预估时间",
+        "translated": "Estimated arrival time of the Guards"
+    },
+    {
+        "label": "LDS:C012",
+        "value": "提示 - 请做好准备应对斯摩棱斯克近卫军团的袭击。我们预计他们会从这里进入战场。",
+        "translated": "Hint - Be prepared for an attack from the Smolensk Guards. We expect them to enter the battle from here."
+    },
+    {
+        "label": "LDS:C013",
+        "value": "警告 - 我们已经检测到他们的先头部队接近了。请做好应对突袭的准备。",
+        "translated": "Warning - We have detected the approach of their reconnaissance force. Please be prepared."
+    },
+    {
+        "label": "LDS:C014",
+        "value": "警告 - 尤里的斯摩棱斯克近卫军团已经到达。",
+        "translated": "Warning - Yuri's Smolensk Guards has arrived."
+    },
+    {
+        "label": "LDS:C015",
+        "value": "「林德拉克：“虽然我们没法部署核弹，但现在我们已经能够建造多座铁幕装置了。”」",
+        "translated": "Rynderack: \"Although we can't deploy nuclear missiles, we can now build multiple Iron Curtain devices.\""
+    },
+    {
+        "label": "LDS:C016",
+        "value": "「林德拉克：“呼吸到家乡的空气真是令人心情舒畅。”」",
+        "translated": "Rynderack: \"It's so refreshing to breathe the air of my hometown.\""
+    },
+    {
+        "label": "LDS:C017",
+        "value": "「尤里：“我是尤里，服从我……”」",
+        "translated": "Yuri: \"I am Yuri, obey me...\"\""
+    },
+    {
+        "label": "LDS:C018",
+        "value": "「罗曼诺夫：“啊，那是我的核弹，不要乱动！”」",
+        "translated": "Romanov: \"Ah, that's my nuclear missile, don't touch it!"
+    },
+    {
+        "label": "LDS:C019",
+        "value": "「尤里：“你真以为我会躲在这个鬼地方不敢出门？我早已经远走高飞了。”」",
+        "translated": "Yuri: \"Do you really think I will hide in this place? I have already moved away.\""
+    },
+    {
+        "label": "LDS:C020",
+        "value": "「尤里：“反正莫斯科我也不想要了，就留给你们吧。”」",
+        "translated": "Yuri: \"I don't want Moscow anyway, so I'll leave it to you.\""
+    },
+    {
+        "label": "LDS:C021",
+        "value": "关键部队丧失 - 克里姆林宫需要被占领，不能被摧毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - the Kremlin needs to be captured and cannot be destroyed, mission failed."
+    },
+    {
+        "label": "LDS:C022",
+        "value": "「罗曼诺夫：“我的办公室！我的办公室！！”」",
+        "translated": "Romanov: \"My office!\""
+    },
+    {
+        "label": "LDS:C023",
+        "value": "额外的武装直升机小队已经到达。",
+        "translated": "Additional Siege Chopper squads have arrived."
+    },
+    {
+        "label": "LDS:C024",
+        "value": "我方入侵部队全部阵亡，任务失败。",
+        "translated": "All our invading troops were killed, mission failed."
+    },
+    {
+        "label": "LDS:CC",
+        "value": "虽然尤里并不在克里姆林宫，但是我们已经收复了苏维埃大部分力量。接下来我们要追查尤里的下落了。",
+        "translated": "We have regained most of the Soviet power. Next, we will track down Yuri's whereabouts."
+    },
+    {
+        "label": "LDS:D014",
+        "value": "松花江大桥的正面防御十分严密，我们得想办法从这里渗透过去。",
+        "translated": "The defense of the Songhua River Bridge is tight, and we have to find a way to penetrate from here."
+    },
+    {
+        "label": "LDS:D015",
+        "value": "警告 - 发现磁暴线圈，极度危险！",
+        "translated": "Warning - Tesla Coil detected, extremely dangerous!"
+    },
+    {
+        "label": "LDS:D016",
+        "value": "警告 - 发现中国巡逻部队，极度危险！",
+        "translated": "Warning - Chinese patrol spotted, extremely dangerous!"
+    },
+    {
+        "label": "LDS:D017",
+        "value": "额外的恐怖机器人部队已经抵达。",
+        "translated": "Additional terror drones have arrived."
+    },
+    {
+        "label": "LDS:D018",
+        "value": "「天枢：“等等，情况有些不对劲……”」",
+        "translated": "Tianshu: \"Wait a minute, something is wrong...\""
+    },
+    {
+        "label": "LDS:D019",
+        "value": "天枢搞错了！中国军队根本没有被心灵控制，这座心灵信标是他们向尤里「购买」的！",
+        "translated": "Tianshu made a mistake! The Chinese army is not mind-controlled at all. They \"purchased\" this Psychic Beacon from Yuri!"
+    },
+    {
+        "label": "LDS:D020",
+        "value": "同志，请带领天枢寻找安全的地方，我们的接应部队马上到达。",
+        "translated": "Comrade, please lead Tianshu to find a safe place. Our response team will arrive soon."
+    },
+    {
+        "label": "LDS:D021",
+        "value": "请避免与中国军队发生冲突，总理特使会马上到达，我们会用外交手段解决这次事件。",
+        "translated": "Please avoid conflict with the Chinese army. We will use diplomatic means to resolve this incident."
+    },
+    {
+        "label": "LDS:D022",
+        "value": "总理特使到达时间",
+        "translated": "Arrival time of the Prime Minister's Special Envoy"
+    },
+    {
+        "label": "LDS:D023",
+        "value": "警告 - 松花江南岸检测到尤里的部队！",
+        "translated": "Warning - Yuri's troops detected on the south bank of the Songhua River!"
+    },
+    {
+        "label": "LDS:D024",
+        "value": "关键部队丧失 - 天枢阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Tianshu was killed, mission failed."
+    },
+    {
+        "label": "LDS:D025",
+        "value": "警告 - 尤里在松花江南岸建立了不止一座基地！",
+        "translated": "Warning - Yuri has established more than one base on the south bank of the Songhua River!"
+    },
+    {
+        "label": "LDS:D026",
+        "value": "「天枢：“不要再打了！不要再打了！这是一场误会！”」",
+        "translated": "Tianshu: \"Stop fighting! Stop fighting! This is a misunderstanding!\""
+    },
+    {
+        "label": "LDS:D027",
+        "value": "总理特使已到达。",
+        "translated": "The Prime Minister's envoy has arrived."
+    },
+    {
+        "label": "LDS:D028",
+        "value": "中国军队与我们达成停火协议，一同对尤里作战。",
+        "translated": "The Chinese army reached a ceasefire agreement with us and fought together against Yuri."
+    },
+    {
+        "label": "LDS:D029",
+        "value": "同志，我们在松花江南岸检测到一座未完工的心灵控制器。",
+        "translated": "Comrade, we have detected an unfinished Psychic Dominator on the south bank of the Songhua River."
+    },
+    {
+        "label": "LDS:D030",
+        "value": "「天枢：“我想我可以骇入那座心灵控制器，从而获得有价值的情报。”」",
+        "translated": "Tianshu: \"I think I can hack into the Psychic Dominator and obtain valuable information.\""
+    },
+    {
+        "label": "LDS:D031",
+        "value": "已成功骇入心灵控制器。",
+        "translated": "The Psychic Dominator has been successfully hacked."
+    },
+    {
+        "label": "LDS:D032",
+        "value": "任务目标 - 使用天枢骇入心灵控制器。",
+        "translated": "Mission Objective - Use Tianshu to hack into the Psychic Dominator."
+    },
+    {
+        "label": "LDS:D033",
+        "value": "「林德拉克：“怎么样？有什么有价值的信息吗？”」",
+        "translated": "Rynderack: \"How's it going?\""
+    },
+    {
+        "label": "LDS:D034",
+        "value": "「天枢：“我可以逆向追查这座心灵控制器的控制后台……”」",
+        "translated": "Tianshu: \"I can backtrack the control backend of this Psychic Dominator...\""
+    },
+    {
+        "label": "LDS:D035",
+        "value": "我们的任务是潜入，最好不要去招惹中国的基地。",
+        "translated": "Our mission is to infiltrate, preferably without provoking the Chinese military bases."
+    },
+    {
+        "label": "LDS:D036",
+        "value": "我们得想办法清理一下那些巡逻的武装直升机。",
+        "translated": "We have to find a way to clean up those patrolling Siege choppers."
+    },
+    {
+        "label": "LDS:D037",
+        "value": "「动员兵：“还是要想办法绕过中国军队防守最严密的区域。”」",
+        "translated": "Conscript: \"We still have to find a way to bypass the most heavily defended areas of the Chinese army.\""
+    },
+    {
+        "label": "LDS:D038",
+        "value": "中国军队在心灵信标周围的防御已经探明。",
+        "translated": "The Chinese military's defenses around the Psychic Beacon have been explored."
+    },
+    {
+        "label": "LDS:D039",
+        "value": "接应部队已经到达。尽快建立一座基地吧。",
+        "translated": "Relief forces have arrived. Establish a base as soon as possible."
+    },
+    {
+        "label": "Name:SpecialAgent",
+        "value": "总理特使",
+        "translated": "Prime Minister's Special Envoy"
+    },
+    {
+        "label": "LDS:DC",
+        "value": "我们与中国军队产生了一点小摩擦，不过最终我们还是并肩作战了。天枢通过黑客技术查到心灵控制器的后台在东京，那么尤里就可能在那里。",
+        "translated": "We had some friction with the Chinese army, but in the end we fought side by side. Tianshu found out through hacking that the backend of the Psychic Dominator is in Tokyo, so Yuri might be there."
+    },
+    {
+        "label": "LDS:D040",
+        "value": "「天枢：“……等等？信号来自东京？”」",
+        "translated": "Tianshu: \"...wait? The signal comes from Tokyo?\""
+    },
+    {
+        "label": "Name:SUBB",
+        "value": "北风导弹潜艇",
+        "translated": "Bofeng guided missile submarine"
+    },
+    {
+        "label": "LDS:D041",
+        "value": "关键建筑丧失 - 我们本该使用天枢骇入这座心灵控制器的。",
+        "translated": "CRITICAL STRUCTURE LOST - We were supposed to use Tianshu to hack into this Psychic Dominator."
+    },
+    {
+        "label": "LDS:BN011",
+        "value": "摧毁那些爱国者飞弹！不要给它们机会攻击我们的基洛夫空艇！",
+        "translated": "Destroy those Patriot missiles! Don't give them a chance to attack our Kirov airship!"
+    },
+    {
+        "label": "LDS:BN012",
+        "value": "同志，前面这座桥梁被人为的破坏了。",
+        "translated": "Comrade, the bridge in front of us has been artificially damaged."
+    },
+    {
+        "label": "LDS:HExtra",
+        "value": "难度 - ？？？",
+        "translated": "Difficulty - ???"
+    },
+    {
+        "label": "Name:BRAG01",
+        "value": "布拉格之春纪念馆",
+        "translated": "Prague Spring Memorial Museum"
+    },
+    {
+        "label": "LDS:BN013",
+        "value": "我想我们可以从旁边绕过去，继续清理沿途的防空火力。",
+        "translated": "I think we can go around and continue clearing the anti-aircraft fire along the way."
+    },
+    {
+        "label": "LDS:BN014",
+        "value": "应当注意，被控制的欧盟部队在这里布置了严密的防御。",
+        "translated": "It should be noted that the mind-controlled EU forces deployed heavy defenses here."
+    },
+    {
+        "label": "LDS:BN015",
+        "value": "尤里已经对我们的突击行动有所察觉了。他正在调集被控制的欧盟军队赶来。",
+        "translated": "Yuri is already aware of our assault. He is mobilizing the mind-controlled EU forces to come."
+    },
+    {
+        "label": "LDS:BN016",
+        "value": "关键部队丧失 - 基洛夫空艇被击落，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Kirov airship shot down, mission failed."
+    },
+    {
+        "label": "LDS:BN017",
+        "value": "心灵控制器已经被摧毁。",
+        "translated": "The Psychic Dominator has been destroyed."
+    },
+    {
+        "label": "LDS:BN018",
+        "value": "布拉格的欧洲盟军都得到了解放，他们将加入我们的战斗中！",
+        "translated": "The European Allies in Prague are freed and will join us in the fight!"
+    },
+    {
+        "label": "LDS:BN019",
+        "value": "「三轮：“小老弟，你怎么在这里？”」",
+        "translated": "Tricycle: \"Little brother, why are you here?\""
+    },
+    {
+        "label": "LDS:BN020",
+        "value": "警告 - 基洛夫空艇正在受到攻击！",
+        "translated": "Warning - Kirov airship is under attack!"
+    },
+    {
+        "label": "LDS:E007",
+        "value": "入侵东京湾的舰队已经到达，让尤里感受我们的怒火吧！",
+        "translated": "The invading fleet invading has arrived, let Yuri feel our wrath!"
+    },
+    {
+        "label": "LDS:E008",
+        "value": "这个港口很适合登陆，请在这附近建立一座基地。",
+        "translated": "This port is good for landing, please build a base nearby."
+    },
+    {
+        "label": "LDS:E009",
+        "value": "任务目标 - 在指定地点建立基地。",
+        "translated": "Mission Objective - establish a base at the designated location."
+    },
+    {
+        "label": "LDS:E010",
+        "value": "警告 - 东京湾的天气控制器已经启动！",
+        "translated": "Warning - The weather control device in Tokyo Bay has been activated!"
+    },
+    {
+        "label": "LDS:E011",
+        "value": "同志，我们坚信尤里一定藏在东京湾的某个地方。我们掘地三尺也要抓住他。",
+        "translated": "Comrade, we believe that Yuri must be hiding somewhere in Tokyo Bay. We will arrest him no matter the cost."
+    },
+    {
+        "label": "LDS:E012",
+        "value": "任务目标 - 消灭东京湾的所有敌人。",
+        "translated": "Mission Objective - Destroy all enemies in Tokyo Bay."
+    },
+    {
+        "label": "LDS:E013",
+        "value": "「尤里：“哦，我真是受够了这种猫鼠游戏了……如果你想我的话，不如来月亮上找我？”」",
+        "translated": "Yuri: \"Oh, I'm really tired with this cat-mouse game... If you miss me, why don't you come to the moon?\""
+    },
+    {
+        "label": "LDS:E014",
+        "value": "关键建筑丧失 - 东京塔已经被摧毁。",
+        "translated": "CRITICAL STRUCTURE LOST - Tokyo Tower has been destroyed."
+    },
+    {
+        "label": "LDS:E015",
+        "value": "「尤里：“哦，多么美妙的闪电啊。”」",
+        "translated": "Yuri: \"Oh, what a wonderful lightning.\""
+    },
+    {
+        "label": "LDS:E016",
+        "value": "同志，如你所见，尤里并没有躲藏在这个区域。",
+        "translated": "Comrade, as you can see, Yuri is not hiding in this area."
+    },
+    {
+        "label": "LDS:E017",
+        "value": "我们应该换别处找。",
+        "translated": "We should look elsewhere."
+    },
+    {
+        "label": "LDS:E018",
+        "value": "该死，也不在这里。他躲不到哪里去的！",
+        "translated": "Damn, not here either. There's nowhere for him to hide!"
+    },
+    {
+        "label": "LDS:E019",
+        "value": "虽然我们难以说清尤里部队与日本军队有什么交易，但显然他不在这里。",
+        "translated": "While it's hard to tell the dealings between Yuri's and Japanese military, it's clear he's not here."
+    },
+    {
+        "label": "LDS:E020",
+        "value": "该死，还是没有！尤里也许根本不在东京港，或者早就从东京逃掉了。",
+        "translated": "Damn, still not! Yuri may not be in Tokyo Port at all, or he may have escaped from Tokyo long ago."
+    },
+    {
+        "label": "LDS:E021",
+        "value": "等等，同志，这里有一条天枢发来的紧急消息……",
+        "translated": "Wait, comrade, here is an urgent message from Tianshu..."
+    },
+    {
+        "label": "Name:Radar",
+        "value": "雷达扫描",
+        "translated": "Radar Scan"
+    },
+    {
+        "label": "LDS:E022",
+        "value": "东京湾的日本军队正在尝试反扑，然而这是无用的。",
+        "translated": "The Japanese forces in Tokyo Bay were trying to counterattack, but this was futile."
+    },
+    {
+        "label": "LDS:E023",
+        "value": "在苏维埃的铁蹄之下，他们必将屈服！",
+        "translated": "Under the iron heel of the Soviets, they will succumb!"
+    },
+    {
+        "label": "LDS:E024",
+        "value": "额外的舰队已经到达。",
+        "translated": "Additional fleets have arrived."
+    },
+    {
+        "label": "Name:XICHANG01",
+        "value": "火箭发动机燃料厂房",
+        "translated": "Rocket engine fuel plant"
+    },
+    {
+        "label": "Name:XICHANG02",
+        "value": "登月火箭发射平台",
+        "translated": "Moon rocket launch platform"
+    },
+    {
+        "label": "LDS:F008",
+        "value": "「鲍里斯：“希望我能帮上忙。”」",
+        "translated": "Boris: \"I hope I can help.\""
+    },
+    {
+        "label": "LDS:F009",
+        "value": "提示 - 骇入或者摧毁这座火箭发射装置，阻止它的发射。",
+        "translated": "Hint - Hack or destroy the rocket launchpad to prevent it from launching."
+    },
+    {
+        "label": "LDS:F010",
+        "value": "任务目标 - 不能让任何一座登月火箭发射。",
+        "translated": "Mission Objective - Prevent all moon landing rockets from launching."
+    },
+    {
+        "label": "LDS:F011",
+        "value": "任务目标 - 至少夺取一座登月火箭发射台。",
+        "translated": "Mission Objective - Capture at least one moon rocket launch pad."
+    },
+    {
+        "label": "LDS:F012",
+        "value": "任务目标 - 林德拉克和天枢必须存活。",
+        "translated": "Mission Objective - Rynderack and Tianshu must survive."
+    },
+    {
+        "label": "LDS:F013",
+        "value": "提示 - 中国部队在此地区占有数量上的优势，不要把他们惹毛了。",
+        "translated": "Hint - Chinese troops have a numerical advantage in this area, don't piss them off."
+    },
+    {
+        "label": "LDS:F014",
+        "value": "提示 - 想办法夺取中国的生产建筑，建立自己的力量。",
+        "translated": "Hint - Find ways to capture China's production buildings to build your own power."
+    },
+    {
+        "label": "LDS:F015",
+        "value": "警告 - 尤里部队正在突破中国军队的防线！",
+        "translated": "Warning - Yuri troops are breaking through the Chinese defense lines!"
+    },
+    {
+        "label": "LDS:F016",
+        "value": "「林德拉克：“事情变得越来越有趣了。”」",
+        "translated": "Rynderack: \"Things are getting interesting.\""
+    },
+    {
+        "label": "LDS:F017",
+        "value": "警告 - 尤里部队正在此区域建立基地！",
+        "translated": "Warning - Yuri forces are establishing a base in this area!"
+    },
+    {
+        "label": "LDS:F018",
+        "value": "「天枢：“该死……我不会允许任何人侵略我的家乡！”」",
+        "translated": "Tianshu: \"Damn it... I will not allow anyone to invade my hometown!\""
+    },
+    {
+        "label": "LDS:F019",
+        "value": "注意 - 又有一座登月火箭发射台上线了！",
+        "translated": "Attention - another rocket launch pad is online!"
+    },
+    {
+        "label": "LDS:F020",
+        "value": "未能阻止目标 - 有一座登月火箭发射了，任务失败。",
+        "translated": "Failed to stop target - A moon landing rocket was launched, mission failed."
+    },
+    {
+        "label": "LDS:F021",
+        "value": "提示 - 你已经可以生产雌鹿运输直升机，用做跨地形步兵投放。",
+        "translated": "Hint - You can already produce Hind transport helicopters for infantry delivery across terrain."
+    },
+    {
+        "label": "LDS:F022",
+        "value": "注意 - 中国的基洛夫空艇部队正在接近！",
+        "translated": "Attention - Chinese Kirov airships are approaching!"
+    },
+    {
+        "label": "LDS:F023",
+        "value": "「鲍里斯：“我尽力了……请务必继续战斗下去！”」",
+        "translated": "Boris: \"I tried my best... please keep fighting!\""
+    },
+    {
+        "label": "LDS:F024",
+        "value": "关键部队丧失 - 林德拉克阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Rynderack killed, mission failed."
+    },
+    {
+        "label": "LDS:F025",
+        "value": "关键部队丧失 - 天枢阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Tianshu killed, mission failed."
+    },
+    {
+        "label": "LDS:F026",
+        "value": "关键部队丧失 - 全部登月火箭被毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - all moon landing rockets destroyed, mission failed."
+    },
+    {
+        "label": "LDS:F027",
+        "value": "登月火箭发射",
+        "translated": "Moon rocket launch"
+    },
+    {
+        "label": "LDS:F028",
+        "value": "成功阻止了一枚登月火箭发射。",
+        "translated": "Successfully prevented the launch of a moon landing rocket."
+    },
+    {
+        "label": "Name:YROCK",
+        "value": "登月火箭",
+        "translated": "Moon Landing Rocket"
+    },
+    {
+        "label": "LDS:E025",
+        "value": "关键部队丧失 - 失去了所有磁暴步兵，任务失败。",
+        "translated": "CRITICAL UNIT LOST - All Tesla Troops lost, mission failed."
+    },
+    {
+        "label": "LDS:E026",
+        "value": "我方全军覆没，任务失败。",
+        "translated": "Our entire army was wiped out, the mission failed."
+    },
+    {
+        "label": "LDS:F029",
+        "value": "「警卫：“管制区域被突破！拉警报！！”」",
+        "translated": "Guard: \"The controlled area has been breached! Sound the alarm!\""
+    },
+    {
+        "label": "LDS:F030",
+        "value": "阻止了1枚火箭发射，还剩6枚。",
+        "translated": "Prevented 1 rocket from launching, 6 more left."
+    },
+    {
+        "label": "LDS:F031",
+        "value": "阻止了2枚火箭发射，还剩5枚。",
+        "translated": "Prevented 2 rockets from launching, 5 more left."
+    },
+    {
+        "label": "LDS:F032",
+        "value": "阻止了3枚火箭发射，还剩4枚。",
+        "translated": "Prevented 3 rockets from launching, 4 more left."
+    },
+    {
+        "label": "LDS:F033",
+        "value": "阻止了4枚火箭发射，还剩3枚。",
+        "translated": "Prevented 4 rockets from launching, 3 more left."
+    },
+    {
+        "label": "LDS:F034",
+        "value": "阻止了5枚火箭发射，还剩2枚。",
+        "translated": "Prevented 5 rocket from launching, 2 more left."
+    },
+    {
+        "label": "LDS:F035",
+        "value": "阻止了6枚火箭发射，还剩最后1枚。",
+        "translated": "Prevented 6 rocket from launching, only 1 more left."
+    },
+    {
+        "label": "LDS:F036",
+        "value": "警告 - 敌人摧毁了我们夺取的一座发射台，我们需夺取另一座。",
+        "translated": "Warning - The enemy has destroyed one of the launch pads we captured and we need to capture another."
+    },
+    {
+        "label": "LDS:F037",
+        "value": "警告 - 只剩最后一座火箭发射台了，我们必须夺取它而不是摧毁它。",
+        "translated": "Warning - There is only one last rocket launch pad left, and we must capture it rather than destroy it."
+    },
+    {
+        "label": "LDS:F038",
+        "value": "警告 - 尤里部队正在突破这座桥梁！",
+        "translated": "Warning - Yuri forces are breaching this bridge!"
+    },
+    {
+        "label": "LDS:F039",
+        "value": "警告 - 检测到中国的基洛夫空艇部队！",
+        "translated": "Warning - Chinese Kirov Airships Detected!"
+    },
+    {
+        "label": "LDS:F040",
+        "value": "等等，这些基洛夫空艇似乎专注于攻击尤里的基地，你可以避开它们。",
+        "translated": "Wait, these Kirov airships seem to be focused on attacking Yuri's base, you can avoid them."
+    },
+    {
+        "label": "LDS:F041",
+        "value": "已经阻止所有火箭发射。",
+        "translated": "All rocket launches have been blocked."
+    },
+    {
+        "label": "LDS:F042",
+        "value": "「天枢：“好了，我们下一步该怎么办？”」",
+        "translated": "Tianshu: \"Okay, what should we do next?\""
+    },
+    {
+        "label": "LDS:F043",
+        "value": "警告 - 检测到巨大不明能量场！",
+        "translated": "Warning - Huge unknown energy field detected!"
+    },
+    {
+        "label": "LDS:F044",
+        "value": "警告 - 静滞力场已经启动！",
+        "translated": "Warning - Immobilization Field has been activated!"
+    },
+    {
+        "label": "LDS:F045",
+        "value": "「威灵顿：“十分抱歉，我们来晚了……希望来的没有太晚！”」",
+        "translated": "Wellington: \"I'm so sorry, we're late... I hope it's not too late!\""
+    },
+    {
+        "label": "LDS:F046",
+        "value": "「林德拉克：“是我们的欧洲朋友们！一点也不晚，正正好好！”」",
+        "translated": "Rynderack: \"It's our European friends! Not too late at all, just right!\""
+    },
+    {
+        "label": "LDS:F047",
+        "value": "「天枢：“太好了，我们该准备去月球消灭尤里的最后基地了。”」",
+        "translated": "Tianshu: \"Great, we should prepare to go to the moon to eliminate Yuri's last base.\""
+    },
+    {
+        "label": "LDS:FC",
+        "value": "苏联部队与欧盟部队成功在西昌卫星发射中心实现会师，接下来该出发去月球进行最后的决战了。",
+        "translated": "The Soviet and the EU successfully joined forces at the Xichang Satellite Launch Center, and now it's time to set off for the final battle on the moon."
+    },
+    {
+        "label": "LDS:E027",
+        "value": "关键部队丧失 - 失去了基地车，任务失败。",
+        "translated": "CRITICAL UNIT LOST - MCV lost, mission failed."
+    },
+    {
+        "label": "Name:LETOWR",
+        "value": "能源传递站",
+        "translated": "Resource Transfer Station"
+    },
+    {
+        "label": "LDS:G008",
+        "value": "提示 - 占领这里的能源传递站，可以获得额外的资金来源。",
+        "translated": "Hint - Capture the Resource Transfer Station to gain an additional source of funds."
+    },
+    {
+        "label": "LDS:G009",
+        "value": "注意 - 静滞力场已经启动！",
+        "translated": "Attention - Immobilization Field has been activated!"
+    },
+    {
+        "label": "LDS:G010",
+        "value": "「尤里：“啊，你们还是追过来了，真是很有耐心呢。”」",
+        "translated": "Yuri: \"Ah, you guys still chased me, you are so patient.\""
+    },
+    {
+        "label": "LDS:G011",
+        "value": "「尤里：“不过，你应该认得这是什么玩具吧。”」",
+        "translated": "Yuri: \"But you should recognize what toy this is.\""
+    },
+    {
+        "label": "LDS:G012",
+        "value": "「尤里：“在无数条时间线中，我赢了，而你们的机会并不多哦。”」",
+        "translated": "Yuri: \"In countless timelines, I won, and you don't have many chances.\""
+    },
+    {
+        "label": "LDS:G013",
+        "value": "「天枢：“该死，你这样会搞乱时间轴的！”」",
+        "translated": "Tianshu: \"Damn it, you're going to mess up the timeline!\""
+    },
+    {
+        "label": "LDS:G014",
+        "value": "「尤里：“已经要赢了，还何必在乎手段呢？”」",
+        "translated": "Yuri: \"I am about to win, why do I care about means?"
+    },
+    {
+        "label": "LDS:G015",
+        "value": "尤里一定是疯了！他正在从其它时间线传送忠于他自己的部队前来！",
+        "translated": "Yuri must be crazy! He is sending troops from other timelines!"
+    },
+    {
+        "label": "LDS:G016",
+        "value": "同志，我们的最后机会！把时间机器抢夺过来，纠正这个混乱的时空！",
+        "translated": "Comrade, our last chance! Take over the time machine and correct this chaos!"
+    },
+    {
+        "label": "LDS:G017",
+        "value": "任务目标 - 占领时间机器。",
+        "translated": "Mission Objective - capture the time machine."
+    },
+    {
+        "label": "LDS:G018",
+        "value": "任务目标 - 保护时间机器，直到时间轴纠正。",
+        "translated": "Mission Objective - Protect the time machine until the timeline is corrected."
+    },
+    {
+        "label": "LDS:G019",
+        "value": "我们正在更改时间机器的程序。你所需要的是不惜一切代价保护它！",
+        "translated": "We are changing the program of the time machine. All you need is to protect it at all costs!"
+    },
+    {
+        "label": "LDS:G020",
+        "value": "时间轴纠正",
+        "translated": "Timeline correction"
+    },
+    {
+        "label": "LDS:G021",
+        "value": "警告 - 检测到时间轴波动！",
+        "translated": "Warning - Timeline fluctuation detected!"
+    },
+    {
+        "label": "LDS:G022",
+        "value": "警告 - 检测到强烈的时间轴波动！！",
+        "translated": "Warning - Violent timeline fluctuations detected!"
+    },
+    {
+        "label": "LDS:G023",
+        "value": "警告 - 检测到异常猛烈的时间轴波动！！！",
+        "translated": "Warning - Unusually violent timeline fluctuations detected!"
+    },
+    {
+        "label": "LDS:G024",
+        "value": "警告 - 检测到……时间轴检测仪器由于信号过于强烈已经失灵！！！！",
+        "translated": "Warning - ... The timeline detection instrument has failed due to the insurmountable fluctuations!"
+    },
+    {
+        "label": "LDS:G025",
+        "value": "静滞力场持续时间",
+        "translated": "Immobilization field duration"
+    },
+    {
+        "label": "LDS:G026",
+        "value": "注意 - 由于月球的重力场较低，我们的坦克很容易被掀翻，当然敌人的也一样。",
+        "translated": "Note - Due to the Moon's low gravity field, our tanks can easily be overturned, so is the enemy's."
+    },
+    {
+        "label": "LDS:G027",
+        "value": "传送区域已经净空，我们的基地车很快会到达。请先原地进行防御。",
+        "translated": "The teleport area has been cleared and our MCV will arrive soon. Please defend in place first."
+    },
+    {
+        "label": "LDS:G028",
+        "value": "基地车已经抵达。",
+        "translated": "The MCV has arrived."
+    },
+    {
+        "label": "LDS:G029",
+        "value": "警告 - 检测到心灵控制器！",
+        "translated": "Warning - Psychic Dominator Detected!"
+    },
+    {
+        "label": "LDS:G030",
+        "value": "警告 - 检测到另一座心灵控制器！",
+        "translated": "Warning - Another Psychic Dominator detected!"
+    },
+    {
+        "label": "LDS:G031",
+        "value": "我方登月部队被全部消灭，任务失败。",
+        "translated": "Our moon landing troops were all wiped out, mission failed."
+    },
+    {
+        "label": "LDS:G032",
+        "value": "已占领能源传递站。它会在电力充足时为我们提供额外的资金。",
+        "translated": "The Resource Transfer Station has been captured. It will provide additional funds when power is available."
+    },
+    {
+        "label": "LDS:G033",
+        "value": "这些陨石坑中有丰富的稀有矿产资源。",
+        "translated": "These craters are rich in rare mineral resources."
+    },
+    {
+        "label": "LDS:G034",
+        "value": "关键建筑丧失 - 时间机器被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - time machine destroyed, mission failed."
+    },
+    {
+        "label": "LDS:G035",
+        "value": "「尤里：“不！这不可能！……”」",
+        "translated": "Yuri: \"No! This is impossible! ...\""
+    },
+    {
+        "label": "LDS:G036",
+        "value": "正在启动时间轴纠正程序……",
+        "translated": "Starting timeline correction process..."
+    },
+    {
+        "label": "LDS:GC",
+        "value": "时间轴已经被成功纠正。即便如此，我们将会面对怎样的一个世界呢？……",
+        "translated": "The timeline has been successfully corrected. Even so, what kind of world will we face? ..."
+    },
+    {
+        "label": "LDS:G037",
+        "value": "一队超时空军团兵小队已经准备好听您调遣。",
+        "translated": "A squad of Chrono Legionnaires are ready at your disposal."
+    },
+    {
+        "label": "LDS:G038",
+        "value": "干得好！我们已经成功占领了时间机器。",
+        "translated": "Well done! We have successfully captured the time machine."
+    }
+]

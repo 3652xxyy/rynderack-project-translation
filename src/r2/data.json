@@ -1,0 +1,3867 @@
+[
+    {
+        "label": "Name:YURIE",
+        "value": "尤里改",
+        "translated": "Yuri Prime"
+    },
+    {
+        "label": "Name:CYURI",
+        "value": "心灵部队",
+        "translated": "Psychic Troops"
+    },
+    {
+        "label": "Name:TQU",
+        "value": "天权",
+        "translated": "Tianquan"
+    },
+    {
+        "label": "Name:CHINAFLAG",
+        "value": "中国国旗",
+        "translated": "Chinese Flag"
+    },
+    {
+        "label": "Name:AD11",
+        "value": "苏联红军不可战胜",
+        "translated": "The Soviet Red Army is invincible"
+    },
+    {
+        "label": "Name:AD12",
+        "value": "伟大的革命领袖斯大林",
+        "translated": "Great revolutionary leader Stalin"
+    },
+    {
+        "label": "Name:AD13",
+        "value": "加入保卫祖国的光荣行列",
+        "translated": "Join us to defend the motherland with glory"
+    },
+    {
+        "label": "Name:AD14",
+        "value": "富强、民主、文明、和谐\n自由、平等、公正、法治\n爱国、敬业、诚信、友善",
+        "translated": "<Translator Note: Socialist Core Value>"
+    },
+    {
+        "label": "Name:ATH01",
+        "value": "巴特农神庙",
+        "translated": "Parthenon"
+    },
+    {
+        "label": "Name:ATH02",
+        "value": "胜利女神像",
+        "translated": "Statue of Victory"
+    },
+    {
+        "label": "Name:PWRX",
+        "value": "停电信标",
+        "translated": "Blackout Beacon"
+    },
+    {
+        "label": "Name:TITAN",
+        "value": "泰坦机甲",
+        "translated": "Titan"
+    },
+    {
+        "label": "Name:TINSY",
+        "value": "北海巨妖",
+        "translated": "Kraken"
+    },
+    {
+        "label": "LDY:0",
+        "value": "林德拉克计划 - 尤里篇：命运之瞳的觉醒",
+        "translated": "Rynderack Project - Yuri: Awakening of the Eye of Fate"
+    },
+    {
+        "label": "LDC:0",
+        "value": "林德拉克计划 - 中国篇：巨龙的奋力一击",
+        "translated": "Rynderack Project - China: The Dragon's Mighty Blow"
+    },
+    {
+        "label": "LDY:C001",
+        "value": "希腊，雅典。",
+        "translated": "Athens, Greece."
+    },
+    {
+        "label": "LDY:C002",
+        "value": "「尤里： “看来这里集结的就是欧盟的全部主力部队了？”」",
+        "translated": "Yuri: \"It seems that the entire EU forces is gathered here?\""
+    },
+    {
+        "label": "LDY:C003",
+        "value": "「尤里： “哦，真是方便呢。正好可以一网打尽。”」",
+        "translated": "Yuri: \"Oh, that's convenient. Just catch them all in one go.\""
+    },
+    {
+        "label": "LDY:C004",
+        "value": "教徒，主人需要你去找到并摧毁欧盟最具威胁的战争机器。",
+        "translated": "Proselyte, the Master needs you to find and destroy the EU's most threatening war machine."
+    },
+    {
+        "label": "LDY:C005",
+        "value": "我们的部队已经在爱琴海集结。先在雅典卫城登陆并建立一座基地。",
+        "translated": "Our troops have been assembled in the Aegean Sea. Land on the Acropolis and build a base."
+    },
+    {
+        "label": "LDY:C006",
+        "value": "任务目标 - 清理登陆区并建立一座基地。",
+        "translated": "Mission Objective - Clear the landing zone and establish a base."
+    },
+    {
+        "label": "LDY:HEasy",
+        "value": "难度 - 休闲",
+        "translated": "Difficulty - Casual"
+    },
+    {
+        "label": "LDY:HMid",
+        "value": "难度 - 正常",
+        "translated": "Difficulty - Normal"
+    },
+    {
+        "label": "LDY:HHard",
+        "value": "难度 - 脑死",
+        "translated": "Difficulty - Brain Dead"
+    },
+    {
+        "label": "LDC:HEasy",
+        "value": "难度 - 休闲",
+        "translated": "Difficulty - Casual"
+    },
+    {
+        "label": "LDC:HMid",
+        "value": "难度 - 正常",
+        "translated": "Difficulty - Normal"
+    },
+    {
+        "label": "LDC:HHard",
+        "value": "难度 - 长征",
+        "translated": "Difficulty - Long March"
+    },
+    {
+        "label": "LDY:ZCtrl",
+        "value": "--作战控制连线--",
+        "translated": "--Battle Control Online--"
+    },
+    {
+        "label": "LDC:ZCtrl",
+        "value": "--作战控制连线--",
+        "translated": "--Battle Control Online--"
+    },
+    {
+        "label": "LDY:C007",
+        "value": "丧失关键部队 - 基地车被毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - mobile construction vehicle destroyed, mission failed."
+    },
+    {
+        "label": "LDY:C008",
+        "value": "教徒，这是尤里改，主人至高心灵力量接近完美的克隆体。",
+        "translated": "Proselyte, this is Yuri Prime, a near-perfect clone of the master's supreme psychic power."
+    },
+    {
+        "label": "LDY:C009",
+        "value": "他们可以利用心灵力量悬浮着漂洋过海，或者从更远的距离支配敌人。",
+        "translated": "They can levitate across water or mind control enemies from greater distances."
+    },
+    {
+        "label": "LDY:C010",
+        "value": "已成功建立基地。等待主人的下一步指示。",
+        "translated": "The base has been established. Waiting for the further instructions from the master."
+    },
+    {
+        "label": "LDY:C011",
+        "value": "「尤里： “这些愚蠢的人们相信他们的神能够带领他们取得胜利。把它化为一堆瓦砾吧。”」",
+        "translated": "Yuri: \"These foolish people believe their gods can lead them to victory. Reduce them to rubble.\""
+    },
+    {
+        "label": "LDY:C012",
+        "value": "任务目标 - 摧毁胜利女神像。",
+        "translated": "Mission Objective - Destroy the Statue of Victory."
+    },
+    {
+        "label": "LDY:C013",
+        "value": "「尤里： “还有这两台战争机器，最好帮我弄回来，弄不回来就摧毁掉。”」",
+        "translated": "Yuri: \"For these two war machines, it's best to bring them back for me. If not, destroy them.\""
+    },
+    {
+        "label": "LDY:C014",
+        "value": "任务目标 - 摧毁或控制北海巨妖和泰坦机甲。",
+        "translated": "Mission Objective - Destroy or mind-control the Kraken and Titan."
+    },
+    {
+        "label": "LDY:C015",
+        "value": "「尤里： “这台超时空传送器也很麻烦……你知道该做什么的，教徒。”」",
+        "translated": "Yuri: \"This Chronosphere is also troublesome... You know what to do, proselyte.\""
+    },
+    {
+        "label": "LDY:C016",
+        "value": "任务目标 - 摧毁超时空传送仪。",
+        "translated": "Mission Objective - Destroy the Chronosphere."
+    },
+    {
+        "label": "LDY:C017",
+        "value": "警告 - 检测到巨大的能量场！",
+        "translated": "Warning - Massive power surge detected!"
+    },
+    {
+        "label": "LDY:C018",
+        "value": "警告 - 静滞力场已启动！",
+        "translated": "Warning - Immobilization Field activated!"
+    },
+    {
+        "label": "LDY:C019",
+        "value": "教徒，我们的电力崩溃，空军坠毁，陆军无法移动，通讯也中断了！",
+        "translated": "Proselytes, our power is down, our air force is lost, our army can't move, and communications are down!"
+    },
+    {
+        "label": "LDY:C020",
+        "value": "能检测到能量是从这座实验室里发出来的。这应该就是他们最后的王牌了，摧毁它！",
+        "translated": "Energy can be detected coming from this laboratory. This should be their last trump card, destroy it!"
+    },
+    {
+        "label": "LDY:C022",
+        "value": "动力和通讯已经恢复。注意静滞力场似乎正在重新充能，我们该抓紧时间了。",
+        "translated": "Power and communications have been restored. Note that the Immobilization Field still appears to be recharging, it's time to hurry."
+    },
+    {
+        "label": "LDY:C023",
+        "value": "注意 - 静滞力场还有1分钟启动！",
+        "translated": "Attention - Immobilization Field activates in 1 minute!"
+    },
+    {
+        "label": "LDY:C024",
+        "value": "基因突变器被毁，需要重新建造才能继续使用。",
+        "translated": "The Genetic Mutator was destroyed and needs to be rebuilt."
+    },
+    {
+        "label": "LDY:C025",
+        "value": "当基因突变器重新建立，我们就可以立刻重新为它的武器充能了。",
+        "translated": "Once the Genetic Mutator is rebuilt, we can immediately recharge this weapon."
+    },
+    {
+        "label": "LDY:C026",
+        "value": "教徒，尤里改已经可以通过兵营来训练。",
+        "translated": "Proselytes, Yuri Prime can be trained through the barracks."
+    },
+    {
+        "label": "LDY:C027",
+        "value": "虽然他们价格昂贵，但是这些投入绝对是值得的。",
+        "translated": "Although they are expensive, the investment is definitely worth it."
+    },
+    {
+        "label": "LDY:C028",
+        "value": "「尤里： “愚蠢的人们啊，你们已经不再需要神庙。忘掉过去，供奉我作为新的神吧。”」",
+        "translated": "Yuri: \"Foolish people, you need no temple. Forget the past and worship me as your new god.\""
+    },
+    {
+        "label": "LDY:C029",
+        "value": "提示 - 这座武器工厂可以降低车辆、舰船和防御建筑的生产成本。",
+        "translated": "Hint - This weapon factory reduces the production cost of vehicles, ships and defensive structures."
+    },
+    {
+        "label": "LDY:C030",
+        "value": "任务目标 - 摧毁起源科技实验室。",
+        "translated": "Mission Objective - Destroy the Origin Technology Laboratory."
+    },
+    {
+        "label": "LDY:C031",
+        "value": "注意 - 欧盟启动了力场护盾来保护他们的关键建筑。",
+        "translated": "Attention - The EU has activated force shields Protect their key structures."
+    },
+    {
+        "label": "LDY:C032",
+        "value": "警告 - 欧盟舰队正在集结！",
+        "translated": "Warning - the EU fleet is gathering!"
+    },
+    {
+        "label": "LDY:C033",
+        "value": "干得漂亮，教徒。你已经解决了威灵顿的基地。",
+        "translated": "Well done, Proselyte. You've taken care of Wellington's base."
+    },
+    {
+        "label": "LDY:C034",
+        "value": "麦斯维尔的基地被摧毁了，他手下的部队不会再抵抗太久的。",
+        "translated": "Maxwell's base was destroyed. His troops wouldn't hold out much longer."
+    },
+    {
+        "label": "LDY:C035",
+        "value": "起源科技实验室被摧毁，静滞力场已被关闭。",
+        "translated": "The Origin Technology Laboratory has been destroyed and the immobilization field has been shut down."
+    },
+    {
+        "label": "LDY:C036",
+        "value": "我们现在可以毫无顾忌的使用镭射幽浮了。",
+        "translated": "We can now use floating discs without any worries."
+    },
+    {
+        "label": "LDY:C037",
+        "value": "教徒，我必须提醒你。",
+        "translated": "Proselyte, I must warn you."
+    },
+    {
+        "label": "LDY:C038",
+        "value": "如果你没有做好摧毁起源科技实验室的准备，它发射的静滞力场能直接击落战场上的所有镭射幽浮。",
+        "translated": "If you are not prepared to destroy the Origin Technology Laboratory, the immobilization field it launches will destroy all floating discs."
+    },
+    {
+        "label": "LDY:C039",
+        "value": "泰坦机甲的威胁已经解除。",
+        "translated": "The threat from the Titan has been eliminated."
+    },
+    {
+        "label": "LDY:C040",
+        "value": "北海巨妖的威胁已经解除。",
+        "translated": "The threat from the Kraken has been eliminated."
+    },
+    {
+        "label": "LDY:C041",
+        "value": "超时空传送仪被摧毁，超时空传送已关闭。",
+        "translated": "The Chronosphere was destroyed."
+    },
+    {
+        "label": "LDY:C042",
+        "value": "注意 - 欧盟正在向雅典城区传送装甲部队。",
+        "translated": "Attention - The EU is sending armored troops to the city of Athens via Chronosphere."
+    },
+    {
+        "label": "LDY:C043",
+        "value": "「尤里： “欧盟的军事力量已经被几乎完全摧毁，没有人能够阻止我们在欧洲大陆的攻势了。”」",
+        "translated": "Yuri: \"The EU's forces has almost been wiped out. Nobody can stop our assult on the European continent.\""
+    },
+    {
+        "label": "LDY:C044",
+        "value": "「尤里： “剩下的敌人已经不足以妨碍我的计划。很快，他们也将服从于我。”」",
+        "translated": "Yuri: \"The remaining enemies are no longer a threat. Soon, they too will obey me.\""
+    },
+    {
+        "label": "LDY:C045",
+        "value": "更多的镭射幽浮已经到达。",
+        "translated": "More floating discs have arrived."
+    },
+    {
+        "label": "THEME:UniqueMoment",
+        "value": "Unique Moment (green mix) - Koan",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:Entropy",
+        "value": "Entropy - John Stanford",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:EyeOfFate",
+        "value": "Eye of Fate - Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:RynderackProjectRemix",
+        "value": "Rynderack Project 2 - Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:TheWatchers",
+        "value": "The Watchers - John Stanford",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:SolarEchoes",
+        "value": "Solar Echoes - John Stanford",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:stigma",
+        "value": "stigma - 削除",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:AmbushFromAllSides",
+        "value": "Ambush From All Sides - Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:Oriens",
+        "value": "Oriens - ginkiha",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:Catanoph",
+        "value": "Catanoph - An",
+        "translated": "TODO"
+    },
+    {
+        "label": "Name:TQUF",
+        "value": "巡航导弹定位器",
+        "translated": "Cruise Missile Controller"
+    },
+    {
+        "label": "Name:CDMISL",
+        "value": "巡航导弹",
+        "translated": "Cruise Missile"
+    },
+    {
+        "label": "Name:SNREACT",
+        "value": "快中子注入装置",
+        "translated": "Fast Neutron Reactor"
+    },
+    {
+        "label": "LDC:D001",
+        "value": "中国，绵阳核子研究中心。",
+        "translated": "Mianyang Nuclear Research Center, China."
+    },
+    {
+        "label": "LDC:D002",
+        "value": "钚-239转化剩余进度（11x倍速）",
+        "translated": "Remaining progress of plutonium-239 conversion (11x speed)"
+    },
+    {
+        "label": "THEME:TheEndOfRenaissance",
+        "value": "The End of Renaissance - void",
+        "translated": "TODO"
+    },
+    {
+        "label": "Name:EOF",
+        "value": "命运之瞳",
+        "translated": "Eye of Fate"
+    },
+    {
+        "label": "LDY:DE001",
+        "value": "「尤里附加任务 - 倒戈」",
+        "translated": "Yuri Hidden Mission - Mutiny"
+    },
+    {
+        "label": "LDY:DE002",
+        "value": "英国，利物浦。",
+        "translated": "Liverpool, UK."
+    },
+    {
+        "label": "LDY:D001",
+        "value": "法国，巴黎。",
+        "translated": "Paris, France."
+    },
+    {
+        "label": "LDY:A001",
+        "value": "苏联，列宁格勒。",
+        "translated": "Leningrad, Soviet Union."
+    },
+    {
+        "label": "LDY:B001",
+        "value": "乌克兰，塞瓦斯托波尔。",
+        "translated": "Sevastopol, Ukraine."
+    },
+    {
+        "label": "LDY:E001",
+        "value": "日本，福井。",
+        "translated": "Fukui, Japan."
+    },
+    {
+        "label": "LDY:DE003",
+        "value": "教徒，欧盟把他们的这两台战争机器就这样拱手送给了我们。",
+        "translated": "Proselyte, the EU gave us these two war machines."
+    },
+    {
+        "label": "LDY:DE004",
+        "value": "既然这样，就多陪他们玩一玩吧。",
+        "translated": "In this case, just have some fun with them."
+    },
+    {
+        "label": "LDY:DE005",
+        "value": "任务目标 - 消灭在利物浦的英国部队。",
+        "translated": "Mission Objective - Eliminate British troops in Liverpool."
+    },
+    {
+        "label": "LDY:DE006",
+        "value": "提示 - 泰坦机甲能够使用汲取光束吸收敌人的能量，以恢复自身的装甲。",
+        "translated": "Hint - The Titan can use a drain beam to restore its hit point."
+    },
+    {
+        "label": "LDY:DE007",
+        "value": "提示 - 命令北海巨妖锁定那艘战列舰，就可以轻松对付它。",
+        "translated": "Hint - Order the Kraken to lock onto that battleship to easily deal with it."
+    },
+    {
+        "label": "LDY:DE008",
+        "value": "注意 - 一支苏联部队正在利物浦建立基地。他们似乎和英国人达成了同盟。",
+        "translated": "Attention - Soviet forces is building a base in Liverpool. They seemed to allied with the British."
+    },
+    {
+        "label": "LDY:DE009",
+        "value": "任务目标 - 消灭在利物浦的苏联部队。",
+        "translated": "Mission Objective - Eliminate Soviet troops in Liverpool."
+    },
+    {
+        "label": "LDY:DE010",
+        "value": "提示 - 命令泰坦机甲在空闲时攻击路边的建筑物，以使用汲取光束恢复装甲。",
+        "translated": "Hint - Order the Titan to attack buildings to restore hit points using the drain beam."
+    },
+    {
+        "label": "LDY:DE011",
+        "value": "提示 - 命令北海巨妖在水中行动，这样可以有效的避开敌人地面部队的攻击。",
+        "translated": "Hint - Order the Kraken to move in the water, to effectively avoid attacks of enemy ground troops."
+    },
+    {
+        "label": "LDY:DE012",
+        "value": "丧失关键部队 - 泰坦机甲被毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Titan destroyed, mission failed."
+    },
+    {
+        "label": "LDY:DE013",
+        "value": "丧失关键部队 - 北海巨妖被毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Kraken destroyed, mission failed."
+    },
+    {
+        "label": "LDY:HExtra",
+        "value": "难度 - ???",
+        "translated": "Difficulty - ???"
+    },
+    {
+        "label": "LDY:DE014",
+        "value": "这些苏联人很碍事，主人命令你顺便也消灭他们。",
+        "translated": "These Soviets are a annoying, and the master orders you to eliminate them as well."
+    },
+    {
+        "label": "LDY:DE015",
+        "value": "任务目标 - 泰坦机甲和北海巨妖不能被摧毁。",
+        "translated": "Mission Objective - Titan and Kraken cannot be destroyed."
+    },
+    {
+        "label": "LDY:DE016",
+        "value": "注意 - 检测到英国人的巨炮阵地！",
+        "translated": "Attention - British Grand Cannon emplacement detected!"
+    },
+    {
+        "label": "LDY:DE017",
+        "value": "已成功摧毁一座英国人的基地。",
+        "translated": "Successfully destroyed a British base."
+    },
+    {
+        "label": "LDY:DE018",
+        "value": "已成功摧毁苏联人的基地。",
+        "translated": "Successfully destroyed the Soviet base."
+    },
+    {
+        "label": "LDY:DC",
+        "value": "欧洲战场已经告一段落，是时候实施下一步计划了。",
+        "translated": "The battle in European has come to an end. It is time for the next move."
+    },
+    {
+        "label": "LDY:CC",
+        "value": "我们在雅典一举全歼了欧盟的主力部队，这让他们所谓的希望化为泡影。",
+        "translated": "We wiped out the main EU forces in Athens in one fell swoop, dashing their so-called hopes."
+    },
+    {
+        "label": "LDY:EC",
+        "value": "很好，在这场博弈中，只有我们是赢家。\n命运之瞳已经在福井就绪，准备飞向北极点。",
+        "translated": "Very good, we are the only winners in this game.\nThe Eye of Fate is ready in Fukui, ready to fly to the North Pole."
+    },
+    {
+        "label": "LDY:FC",
+        "value": "命运之瞳成功进入北极圈，现在只等好消息了……\n……",
+        "translated": "The Eye of Fate successfully entered the Arctic Circle. Now we are just waiting for the good news...\n..."
+    },
+    {
+        "label": "LDY:GC",
+        "value": "最大的麻烦——天枢，已经被除掉了。\n可是，下一步计划是什么呢……",
+        "translated": "The biggest threat, Tianshu, has been eliminated. \nBut, what is the next move..."
+    },
+    {
+        "label": "LDY:AC",
+        "value": "绝大多数的苏联高层人物都已经在我们的掌握之中了。\n他们都臣服于尤里的意志，为尤里主人而服务。",
+        "translated": "Most of the top Soviet figures are already under our control.\nThey all surrendered to Yuri's will and served Master Yuri."
+    },
+    {
+        "label": "LDY:BC",
+        "value": "我们让林德拉克逃掉了，不过他的部下已经被我们悉数消灭。\n现在他只是光杆司令了，看起来情况还不坏。",
+        "translated": "Rynderack has escaped, but all his men were wiped out.\nNow that he's on his own, things don't look too bad."
+    },
+    {
+        "label": "LDC:A001",
+        "value": "中国，雅鲁藏布江大峡谷。",
+        "translated": "Brahmaputra Valley, China."
+    },
+    {
+        "label": "LDC:B001",
+        "value": "苏联，符拉迪沃斯托克。",
+        "translated": "Vladivostok, Soviet Union."
+    },
+    {
+        "label": "LDC:C001",
+        "value": "中国，澳门。",
+        "translated": "Macao, China."
+    },
+    {
+        "label": "LDC:DE001",
+        "value": "中国附加任务 - 「破碎的红莲花」",
+        "translated": "China Hidden Mission - Broken Red Lotus"
+    },
+    {
+        "label": "LDC:E001",
+        "value": "韩国，釜山。",
+        "translated": "Pusan, South Korea."
+    },
+    {
+        "label": "LDC:F001",
+        "value": "日本，名古屋。",
+        "translated": "Nagoya, Japan."
+    },
+    {
+        "label": "LDC:G001",
+        "value": "北极冰盖。",
+        "translated": "Arctic ice cap."
+    },
+    {
+        "label": "LDC:AC",
+        "value": "来自天枢的加密消息已经回传。\n突击队员天权，请注意自身安全，随时待命。完毕。",
+        "translated": "The encrypted message from Tianshu has been transmitted.\nCommando Tianquan, please pay attention to your own safety and standby. Over."
+    },
+    {
+        "label": "LDC:BC",
+        "value": "我们已经确认了同尤里进行交易的危险性，我们会立刻终止与尤里的合作并加以警惕。\n突击队员天权，请立刻动身转移至东北战区，以准备应对可能的事变。完毕。",
+        "translated": "We have realized the danger of trading with Yuri. We will immediately stop working with Yuri and be vigilant.\nCommando Tianquan, please move to the Northeast Theater to prepare for possible incidents. Over."
+    },
+    {
+        "label": "LDC:CC",
+        "value": "林德拉克帮助我们阻止了尤里在澳门使心灵信标过载的计划。\n突击队员天权，随时注意筛查人员，防止尤里对我情报网络的渗透。完毕。",
+        "translated": "Rynderack helped us prevented the Psychic Beacon from overloading in Macau.\nCommando Tianquan, always pay attention to screening personnel, to prevent Yuri from infiltrating our intelligence network. Over."
+    },
+    {
+        "label": "LDC:DC",
+        "value": "一代又一代人为着祖国前赴后继，我们是不会让他们白白牺牲的。\n突击队员天权，立即乘坐直升机前往韩国釜山准备执行任务。完毕。",
+        "translated": "Generations of people have fought for the motherland. We will not let their sacrifices be in vain.\nCommando Tianquan, took the helicopter immediately to Pusan in South Korea to prepare for the mission. Over."
+    },
+    {
+        "label": "LDC:EC",
+        "value": "我们成功的夺取了有关尤里“最终意志”计划的机密资料，并重创了尤里的海军力量。\n突击队员天权，请即刻动身前往名古屋同林德拉克会面。完毕。",
+        "translated": "We captured confidential information about Yuri's plan - \"The Final Spirit\" and severely crippled Yuri's naval power.\nCommando Tianquan, please leave immediately for Nagoya to meet with Rynderack. Over."
+    },
+    {
+        "label": "LDC:FC",
+        "value": "我们成功挫败了尤里的泰坦机甲量产计划，并解密了有关命运之瞳的一些信息。\n突击队员天权，请做好前往北极作战的准备，这会是我们最后的一战。完毕。",
+        "translated": "We successfully thwarted Yuri's Titan mass production and decrypted some information about the Eye of Fate.\nCommando Tianquan, please prepare to fight in the Arctic. This will be our last battle. Over."
+    },
+    {
+        "label": "LDC:GC",
+        "value": "战争结束了。我们获得了，或者说至少暂时获得了和平。\n突击队员天权，你已获准休假。你现在可以随时前往塘沽基地办理休假手续。完毕。",
+        "translated": "The war is over. We had peace, or at least temporarily.\nCommando Tianquan, you have been granted leave. You can take your vacation anytime from Tanggu base. Over."
+    },
+    {
+        "label": "LDY:DE019",
+        "value": "我们成功了！教徒！英国人和苏联人被他们自己所研制的战争机器打的抱头鼠窜。",
+        "translated": "We succeeded! Proselyte! The British and the Soviets were overwhelmed by the war machines they developed."
+    },
+    {
+        "label": "LDY:DE020",
+        "value": "这充分说明了：一切战争机器都是工具，只有尤里的意志才是永恒的。",
+        "translated": "This all illustrates that, all war machines are tools, and only Yuri's will is eternal."
+    },
+    {
+        "label": "LDY:ZEmpty",
+        "value": "",
+        "translated": ""
+    },
+    {
+        "label": "THEME:FarthestEnd",
+        "value": "FarthestEnd - 削除",
+        "translated": "TODO"
+    },
+    {
+        "label": "Name:AD15",
+        "value": "澳门首家线上赌场上线啦！",
+        "translated": "Macau's first online casino is now online!"
+    },
+    {
+        "label": "Name:AD16",
+        "value": "要兔子吗？",
+        "translated": "Want a rabbit?"
+    },
+    {
+        "label": "Name:AD17",
+        "value": "Explosion！",
+        "translated": "Explosion!"
+    },
+    {
+        "label": "Name:AD18",
+        "value": "你可真是个小天使",
+        "translated": "You are such a little angel"
+    },
+    {
+        "label": "Name:AD19",
+        "value": "屯屯屯屯屯屯屯",
+        "translated": "tun tun tun tun tun tun tun"
+    },
+    {
+        "label": "Name:AD20",
+        "value": "工作996，生病ICU",
+        "translated": "Work 996, sick in ICU"
+    },
+    {
+        "label": "LDY:C046",
+        "value": "武器工厂\n防御建筑造价降低20%\n战车舰船造价降低20%",
+        "translated": "Weapons Factory\nReduce the cost of Defense structure by 20%\nReduce the cost of vehicles and ships reduced by 20%"
+    },
+    {
+        "label": "LDY:A002",
+        "value": "「罗曼诺夫： “这是胜利的一天！我们伟大祖国母亲的荣耀！”」",
+        "translated": "Romanov: \"This is a day of victory! The glory of our great motherland!\""
+    },
+    {
+        "label": "LDY:A003",
+        "value": "「罗曼诺夫： “我们的敌人已经不复存在，整个世界都会被苏维埃的光辉所笼罩。”」",
+        "translated": "Romanov: \"Our enemy no longer exists, and the whole world will be enveloped in the glory of the Soviet Union.\""
+    },
+    {
+        "label": "LDY:A004",
+        "value": "教徒，如你所见，愚蠢的罗曼诺夫在这里召开了盛大的胜利日阅兵庆祝活动。",
+        "translated": "Proselyte, as you can see, stupid Romanov is holding a Victory Day parade here."
+    },
+    {
+        "label": "LDY:A005",
+        "value": "可是他没有料到，欧盟并没有被击败，他们已经集结部队准备来搅局了。",
+        "translated": "But he didn't expect that the EU had not been defeated. They are already preparing an assult."
+    },
+    {
+        "label": "LDY:A006",
+        "value": "我们英明的主人认为罗曼诺夫没有能力领导这个国家，他和他的走狗们应该在阅兵结束后接受我们的审判。",
+        "translated": "Our wise masters believe that Romanov is incapable of leading this country. He and his men should face our trial after the parade."
+    },
+    {
+        "label": "LDY:A007",
+        "value": "可是这要等他们到齐。这需要一些时间。",
+        "translated": "But that will have to wait until they all arrive. This will take some time."
+    },
+    {
+        "label": "LDY:A008",
+        "value": "在此之前，罗曼诺夫不希望他伟大的阅兵仪式受到干扰。让他开心。",
+        "translated": "Until then, Romanov did not want his great military parade to be disrupted. Make him happy."
+    },
+    {
+        "label": "LDY:A009",
+        "value": "苏联高级官员到齐预估时间",
+        "translated": "Estimated time for senior Soviet officials to arrive"
+    },
+    {
+        "label": "LDY:A010",
+        "value": "任务目标 - 保证阅兵式不被干扰。",
+        "translated": "Mission Objective - Ensure that the military parade is not disrupted."
+    },
+    {
+        "label": "LDY:A011",
+        "value": "提示 - 派遣任意步兵进入生化反应炉，可以提高生化反应炉提供的电力。",
+        "translated": "Hint - Send any infantry into the bio-reactor to increase the power output."
+    },
+    {
+        "label": "LDY:A012",
+        "value": "提示 - 修复复制中心以增加步兵克隆速度。",
+        "translated": "Hint - Capture the cloning vat to increase infantry production rate."
+    },
+    {
+        "label": "LDY:A013",
+        "value": "「罗曼诺夫： “该死……欧盟部队怎么来了？弗拉基米尔、尤里，帮我挡住他们！”」",
+        "translated": "Romanov: \"Damn... why are EU forces here? Vladimir, Yuri, help me stop them!\""
+    },
+    {
+        "label": "LDY:A014",
+        "value": "「罗曼诺夫： “我伟大的阅兵式不能被这样毁了！”」",
+        "translated": "Romanov: \"My great military parade cannot be ruined like this!\""
+    },
+    {
+        "label": "LDY:A015",
+        "value": "注意 - 城中可能有间谍活动。要提防他们对电力系统的破坏。",
+        "translated": "Caution - There may be spys in the city. Beware of their sabotage to the electrical system."
+    },
+    {
+        "label": "LDY:A016",
+        "value": "提示 - 我们为你派来了额外的伞兵部队。",
+        "translated": "Hint - We've got extra paratroopers for you."
+    },
+    {
+        "label": "LDY:A017",
+        "value": "警告 - 不要派你的部队闯入阅兵区域，否则会直接导致我们的计划败露！",
+        "translated": "Warning - Do not send your troops into the parade area, otherwise our plan will be exposed!"
+    },
+    {
+        "label": "LDY:A018",
+        "value": "警告 - 欧盟部队正在闯入阅兵区域！不能让他们得逞！",
+        "translated": "Warning - EU forces are invading the parade area! We can't let them succeed!"
+    },
+    {
+        "label": "LDY:A019",
+        "value": "未能达成目标 - 我方部队干扰了阅兵，任务失败。",
+        "translated": "Objective failed - our troops interfered with the parade, mission failed."
+    },
+    {
+        "label": "LDY:A020",
+        "value": "未能达成目标 - 欧盟部队干扰了阅兵，任务失败。",
+        "translated": "Objective failed - EU troops disrupted the parade, mission failed."
+    },
+    {
+        "label": "LDY:A021",
+        "value": "救世主滴血大教堂\n罗曼诺夫总理的驻地\n关键目标，不可摧毁",
+        "translated": "Cathedral of the Savior on Spilled Blood\nPremier Romanov's residence\nCritical Structure, DO NOT DESTROY"
+    },
+    {
+        "label": "LDY:A022",
+        "value": "冬宫",
+        "translated": "Hermitage"
+    },
+    {
+        "label": "LDY:A023",
+        "value": "注意 - 受阅部队的先头队伍已经接近阅兵核心区域。",
+        "translated": "Attention - The leading group of troops being reviewed has approached the core area of the parade."
+    },
+    {
+        "label": "LDY:A024",
+        "value": "教徒！你在干什么！主人的命令明明是要使用心灵信标控制总理，你却杀了他！",
+        "translated": "Proselyte! What are you doing! The master's order was to use a psychic beacon to control the Premier, but you killed him!"
+    },
+    {
+        "label": "LDY:A025",
+        "value": "丧失关键建筑 - 救世主滴血大教堂被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - the Cathedral of the Savior on Spilled Blood was destroyed, mission failed."
+    },
+    {
+        "label": "LDY:A026",
+        "value": "警告 - 欧盟部队正在从涅瓦河沿水路进攻。",
+        "translated": "Warning - EU forces are attacking along the waterway from the Neva River."
+    },
+    {
+        "label": "LDY:A027",
+        "value": "总理的近卫军会挡住他们的舰船，但你要提防他们的登陆部队。",
+        "translated": "The Chancellor's Guards will hold off their ships, but you'll want to watch out for their landing forces."
+    },
+    {
+        "label": "LDY:A028",
+        "value": "提示 - 有一支额外的坦克部队从涅瓦河大桥而来。利用好它们！",
+        "translated": "Hint - there is an extra tank force coming from the Neva Bridge. Take advantage of them!"
+    },
+    {
+        "label": "LDY:A029",
+        "value": "苏联高级官员",
+        "translated": "Senior Soviet Official"
+    },
+    {
+        "label": "LDY:A030",
+        "value": "未能达成目标 - 阅兵受到干扰，任务失败。",
+        "translated": "Objectives failed - the parade was disrupted, mission failed."
+    },
+    {
+        "label": "LDY:A031",
+        "value": "注意 - 欧盟派出了遥控坦克参与对列宁格勒的进攻。这种机器无法被心灵控制。",
+        "translated": "Attention - The EU sent robot tanks to attack on Leningrad. This type of tank cannot be mind controlled."
+    },
+    {
+        "label": "LDY:A032",
+        "value": "「罗曼诺夫： “尤里！你在干什么！”」",
+        "translated": "Romanov: \"Yuri! What are you doing!\""
+    },
+    {
+        "label": "LDY:A033",
+        "value": "「弗拉基米尔： “我的防线快撑不下去了！快支援我，尤里！”」",
+        "translated": "Vladimir: \"I can't hold the line anymore! Help me, Yuri!\""
+    },
+    {
+        "label": "LDY:A034",
+        "value": "好的，教徒，看样子苏联的高级官员都已经到达了。",
+        "translated": "Okay, proselytes, it looks like all senior Soviet officials have arrived."
+    },
+    {
+        "label": "LDY:A035",
+        "value": "接下来我们要使用一名工程师启动这座心灵信标，控制他们的心智。",
+        "translated": "Next, we need to use an engineer to activate this psychic beacon and control their minds."
+    },
+    {
+        "label": "LDY:A036",
+        "value": "但请注意，我们一旦闯入阅兵区域，一定会引起罗曼诺夫的警觉，并可能受到警卫队的攻击。",
+        "translated": "But please note that once we get into the parade area, we will alert Romanov and may be attacked by the guards."
+    },
+    {
+        "label": "LDY:A037",
+        "value": "所以请多加小心，教徒。",
+        "translated": "So please be careful, proselytes."
+    },
+    {
+        "label": "LDY:A038",
+        "value": "任务目标 - 使用工程师启动心灵信标。",
+        "translated": "Mission Objective - Use the Engineer to activate the Psychic Beacon."
+    },
+    {
+        "label": "LDY:A039",
+        "value": "「罗曼诺夫： “尤里做出了未授权的行动！全体戒备，准备应对可能的状况！”」",
+        "translated": "Romanov: \"Yuri took an unauthorized action! Everyone is on alert and prepared to deal with possible situations!\""
+    },
+    {
+        "label": "LDY:A040",
+        "value": "丧失关键建筑 - 心灵信标被摧毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - Psychic Beacon destroyed, mission failed."
+    },
+    {
+        "label": "LDY:A041",
+        "value": "工程师已经成功进入心灵信标，心灵信标准备启动……",
+        "translated": "The engineer has successfully entered the psychic beacon. The psychic beacon is ready to be activated..."
+    },
+    {
+        "label": "LDY:A042",
+        "value": "「尤里： “意志羸弱的罗曼诺夫不足以领导这个强大的国家！我们的计划就从这里开始吧。”」",
+        "translated": "Yuri: \"The weak-willed Romanov is incapable to lead this country! Our plan starts here.\""
+    },
+    {
+        "label": "LDY:A043",
+        "value": "丧失关键部队 - 苏联高级官员遇袭，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Senior Soviet officials are attacked, mission failed."
+    },
+    {
+        "label": "THEME:Saika",
+        "value": "Saika - Rabpit",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:WindItUp",
+        "value": "Wind It Up - John Stanford",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:OneHundredHunters",
+        "value": "One Hundred Hunters - John Stanford",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:Automatica",
+        "value": "Automatica - John Stanford",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:StepIntoInfinity",
+        "value": "Step Into Infinity - Alwone",
+        "translated": "TODO"
+    },
+    {
+        "label": "Name:SCANNON",
+        "value": "塞瓦斯托波尔要塞炮",
+        "translated": "the cannon of Sevastopol Fortress"
+    },
+    {
+        "label": "LDY:B002",
+        "value": "教徒，我们的登陆部队已经抵达。",
+        "translated": "Proselyte, our landing force has arrived."
+    },
+    {
+        "label": "LDY:B003",
+        "value": "心灵观测显示，林德拉克可能不仅仅是在塞瓦斯托波尔度假那么简单，他似乎已经洞悉了我们的计划。",
+        "translated": "Rynderack may be more than just vacationing in Sevastopol. He seemed to know our plans."
+    },
+    {
+        "label": "LDY:B004",
+        "value": "他一定会尝试把他的资料从港口运出，通过空运或者海运。",
+        "translated": "He will definitely try to get his resources out of the port, by air or sea."
+    },
+    {
+        "label": "LDY:B005",
+        "value": "主人要你彻底封锁这座港口，连一只苍蝇都不能逃出去！",
+        "translated": "The master wants you to completely block this port so that not even a fly can escape!"
+    },
+    {
+        "label": "LDY:B006",
+        "value": "任务目标 - 摧毁所有船坞，并击沉港口内所有货轮。",
+        "translated": "Mission Objective - Destroy all shipyards and sink all cargo ships in the port."
+    },
+    {
+        "label": "LDY:B007",
+        "value": "任务目标 - 摧毁或占领机场，并摧毁港口内所有运输直升机。",
+        "translated": "Mission Objective - Destroy or capture the airport and destroy all transport helicopters in the port."
+    },
+    {
+        "label": "LDY:B008",
+        "value": "任务目标 - 不能让任何一艘货轮或运输直升机离开港口。",
+        "translated": "Mission Objective - Prevent cargo ships or transport helicopter from leaving the port."
+    },
+    {
+        "label": "LDY:B009",
+        "value": "注意 - 有一艘货轮从船坞出发了，请时刻注意它的动向！",
+        "translated": "Attention - A cargo ship has set off from the dock. Please pay attention to its movements!"
+    },
+    {
+        "label": "LDY:B010",
+        "value": "注意 - 有一架运输直升机从机场出发了，请时刻注意它的动向！",
+        "translated": "Attention - A transport helicopter is departing from the airport. Please pay attention to its movements!"
+    },
+    {
+        "label": "LDY:B011",
+        "value": "警告 - 一艘货轮正在逃离港口！如果它逃脱了，任务就失败了！",
+        "translated": "Warning - A cargo ship is leaving the port! The mission would fail should it escap!"
+    },
+    {
+        "label": "LDY:B012",
+        "value": "警告 - 一架运输直升机正在逃离港口！如果它逃脱了，任务就失败了！",
+        "translated": "Warning - A transport helicopter is leaving the port! The mission would fail should it escap!"
+    },
+    {
+        "label": "LDY:B013",
+        "value": "未能拦截目标 - 有一艘货轮逃离了港口，任务失败。",
+        "translated": "Failed to intercept target - A cargo ship escaped from the port, mission failed."
+    },
+    {
+        "label": "LDY:B014",
+        "value": "未能拦截目标 - 有一架运输直升机逃离了港口，任务失败。",
+        "translated": "Failed to intercept target - A transport helicopter escaped from the port, mission failed."
+    },
+    {
+        "label": "LDY:B015",
+        "value": "注意 - 林德拉克已经启用了塞瓦斯托波尔要塞的古老大炮。",
+        "translated": "Attention - Rynderack has activated the cannon of Sevastopol Fortress."
+    },
+    {
+        "label": "LDY:B016",
+        "value": "虽然是十分古老的武器，但它们仍然威胁巨大。远离它们，或者尽早解决掉它们吧。",
+        "translated": "Although it's an old weapon, they are still a huge threat. Stay away, or get rid of them."
+    },
+    {
+        "label": "LDY:B017",
+        "value": "警告 - 大批苏联坦克部队正在附近集结！快使用神经突击车让他们自相残杀。",
+        "translated": "Warning - A large number of Soviet tanks are massing nearby! Use the Chaos Drones to make them kill each other."
+    },
+    {
+        "label": "LDY:B018",
+        "value": "提示 - 依据主人的指示，更多的雷鸣潜艇正在赶来协助封锁港口。",
+        "translated": "Hint - Per the master's instructions, more Boomer submarines are arriving to help blockade the port."
+    },
+    {
+        "label": "LDY:B019",
+        "value": "下一次脱逃行动预估时间",
+        "translated": "Estimated time for next escape"
+    },
+    {
+        "label": "LDY:B020",
+        "value": "教徒，我们会随时关注他们的心灵，并尝试给出他们进行下一次脱逃行动的预估时间。",
+        "translated": "Proselytes, we will keep an eye on their minds and try to give them an estimated time for their next escape attempt."
+    },
+    {
+        "label": "LDY:B021",
+        "value": "塞瓦斯托波尔机场已经陷落，苏联人没办法再发送雌鹿运输直升机了。",
+        "translated": "Sevastopol airfield had fallen. Soviets could no longer send Hind transport helicopters."
+    },
+    {
+        "label": "LDY:B022",
+        "value": "已经成功摧毁了一座船坞。",
+        "translated": "A shipyard has been successfully destroyed."
+    },
+    {
+        "label": "LDY:B023",
+        "value": "塞瓦斯托波尔已经不再有船坞，这座港口事实上成为死港。",
+        "translated": "Sevastopol no longer has shipyard. The port has become a de facto dead port."
+    },
+    {
+        "label": "LDY:B024",
+        "value": "所有的雌鹿运输直升机都已经被摧毁。",
+        "translated": "All Hind transport helicopters have been destroyed."
+    },
+    {
+        "label": "LDY:B025",
+        "value": "所有的货轮都已经被击沉。",
+        "translated": "All cargo ships have been sunk."
+    },
+    {
+        "label": "LDY:B026",
+        "value": "等等！教徒，这里，我们还漏掉了一艘船！",
+        "translated": "Wait! Proselytes, we missed a ship!"
+    },
+    {
+        "label": "LDY:B027",
+        "value": "「林德拉克： “到刚才为止你还干得不错，但是，到此为止吧。我要乘这艘船离开这里。”」",
+        "translated": "Rynderack: \"You have done well so far, but let's stop here. I'm taking this ship out of here.\""
+    },
+    {
+        "label": "LDY:B028",
+        "value": "警告 - 林德拉克使用铁幕保护了货轮！",
+        "translated": "Warning - Rynderack protects the ship with the Iron Curtain!"
+    },
+    {
+        "label": "LDY:B029",
+        "value": "该死，只能这么让他逃掉了吗……",
+        "translated": "Damn it, we have to let him escape..."
+    },
+    {
+        "label": "LDY:B030",
+        "value": "我方部队全部被消灭，任务失败。",
+        "translated": "All our troops were wiped out, mission failed."
+    },
+    {
+        "label": "GUI:RandomWar",
+        "value": "箱子战争",
+        "translated": "TODO"
+    },
+    {
+        "label": "GUI:Mine",
+        "value": "惊吓礼物",
+        "translated": "TODO"
+    },
+    {
+        "label": "GUI:Clearness",
+        "value": "一览无遗",
+        "translated": "TODO"
+    },
+    {
+        "label": "GUI:Challenge",
+        "value": "挑战模式",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:ModeRandomWar",
+        "value": "在「箱子战争」中，随机工具箱出现的更多，且效果更不确定。",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:ModeMine",
+        "value": "在「惊吓礼物」中，所有的升级工具箱都是炸弹，且大量生成。",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:ModeClearness",
+        "value": "在「一览无遗」模式中，玩家开局即拥有全部视野。",
+        "translated": "TODO"
+    },
+    {
+        "label": "STT:ModeChallenge",
+        "value": "在「挑战模式」中，您可以挑战一些非对称的特殊场景。",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:MEGALOBOX",
+        "value": "MEGALOBOX - Mabauna",
+        "translated": "TODO"
+    },
+    {
+        "label": "LDY:A044",
+        "value": "注意 - 更多的欧盟部队正在进入超时空传送器，很快就会有更多的坦克部队进入列宁格勒郊区。",
+        "translated": "Attention - More EU troops are entering the Chronosphere. More tanks will be entering the outskirts of Leningrad soon."
+    },
+    {
+        "label": "LDY:A045",
+        "value": "「弗拉基米尔： “妈的，谁把电闸拉了！我的防御建筑都没法运行了！”」",
+        "translated": "Vladimir: \"Damn it, who pulled the breaker! None of my defensive structures are working!\""
+    },
+    {
+        "label": "LDY:A046",
+        "value": "「弗拉基米尔： “在城里抓奸细这种事是你的事，你最好给我好好用心！”」",
+        "translated": "Vladimir: \"It's your responsibility to catch spies in the city. You'd better pay attention!\""
+    },
+    {
+        "label": "LDY:A047",
+        "value": "提示 - 使用部队回收厂回收更多被控制的敌人单位以获取资金。",
+        "translated": "Hint - Use the Grinder to recycle mind-controlled enemy units for funds."
+    },
+    {
+        "label": "LDY:A048",
+        "value": "警告 - 我们感应到大量光棱坦克进入了欧盟的超时空传送器！",
+        "translated": "Warning - We sense a large number of Prism Tanks entering the EU's Chronosphere!"
+    },
+    {
+        "label": "LDY:A049",
+        "value": "欧盟正在集结部队做最后一搏，他们快要失败了！",
+        "translated": "The EU is gathering forces for a last attempt. They are about to fail!"
+    },
+    {
+        "label": "LDY:A050",
+        "value": "注意 - 罗曼诺夫正在命令他的警卫队和弗拉基米尔的部队攻击我们！",
+        "translated": "Attention - Romanov is ordering his guards and Vladimir's troops to attack us!"
+    },
+    {
+        "label": "LDY:A051",
+        "value": "「罗曼诺夫： “任何人都要对我永远忠诚，否则结局就是死亡！”」",
+        "translated": "Romanov: \"Everyone must be loyal to me forever, otherwise the consequence is death!\""
+    },
+    {
+        "label": "LDY:A052",
+        "value": "「尤里： “哦，那就看看到底该对谁忠诚吧。”」",
+        "translated": "Yuri: \"Oh, let's see who we should be loyal to.\""
+    },
+    {
+        "label": "Name:CIND01",
+        "value": "污水处理池",
+        "translated": "Sewage Treatment Tank"
+    },
+    {
+        "label": "Name:CIND02",
+        "value": "风力发电机",
+        "translated": "Wind Turbines"
+    },
+    {
+        "label": "Name:CIND03",
+        "value": "太阳能电池板",
+        "translated": "Solar Panels"
+    },
+    {
+        "label": "Name:CIND05",
+        "value": "风源",
+        "translated": "Wind power"
+    },
+    {
+        "label": "Name:PARAYURI",
+        "value": "心灵空投",
+        "translated": "Psychic Paradrop"
+    },
+    {
+        "label": "Name:PARACAOS",
+        "value": "混乱空投",
+        "translated": "Chaos Paradrop"
+    },
+    {
+        "label": "LDY:C047",
+        "value": "胜利女神尼姬已经化为一堆瓦砾。在主人的意志面前，没有什么神能够庇护他们了。",
+        "translated": "Niki, the goddess of victory, has been reduced to rubble. In the face of the master's will, no god can protect them."
+    },
+    {
+        "label": "LDY:C048",
+        "value": "我方部队不敌欧盟部队，进入撤退程序……",
+        "translated": "Our troops were defeated by the EU troops. Proceed to withdraw..."
+    },
+    {
+        "label": "THEME:RedCrisis",
+        "value": "Red Crisis - Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "Name:NACLC",
+        "value": "征召中心",
+        "translated": "Recruitment Center"
+    },
+    {
+        "label": "Name:MACAU01",
+        "value": "大三巴牌坊",
+        "translated": "Ruins of St. Paul's"
+    },
+    {
+        "label": "Name:MACAU03",
+        "value": "新葡京酒店",
+        "translated": "Grand Lisboa Hotel"
+    },
+    {
+        "label": "Name:MACAU04",
+        "value": "澳门塔",
+        "translated": "Macau Tower"
+    },
+    {
+        "label": "LDY:D002",
+        "value": "欧洲的仅剩反抗势力龟缩在巴黎，但是他们龟缩不了多久了。",
+        "translated": "The only remaining resistance in Europe were huddled in Paris. But they could not stay there for long."
+    },
+    {
+        "label": "LDY:D003",
+        "value": "巴黎的城市防御十分坚固，尤其有这些大炮环绕四周。",
+        "translated": "The city of Paris is very well defended, especially with these cannons surrounding it."
+    },
+    {
+        "label": "LDY:D004",
+        "value": "主人并不想为此浪费太多兵力。我们应该渗透这座城市，让他们在无声中消失。",
+        "translated": "The master does not want to waste too many troops. We should infiltrate the city and make them disappear silently."
+    },
+    {
+        "label": "LDY:D005",
+        "value": "渗透小队已经抵达。善用他们，教徒。",
+        "translated": "The infiltration team has arrived. Use them wisely, proselytes."
+    },
+    {
+        "label": "LDY:D006",
+        "value": "任务目标 - 渗透整座城市，并消灭所有城防部队。",
+        "translated": "Mission Objective - Infiltrate the city and eliminate all city defense forces."
+    },
+    {
+        "label": "LDY:D007",
+        "value": "提示 - 我们似乎可以想办法渡过塞纳河，来寻找更多的突破口。",
+        "translated": "Hint - It seems that we can find a way to cross the Seine to find more breakthroughs."
+    },
+    {
+        "label": "LDY:D008",
+        "value": "警告 - 我们的尤里复制人和病毒狙击手都无法对付这些碉堡。避开它们。",
+        "translated": "Warning - Our Yuri clones and virus snipers are useless against these bunkers. Avoid them."
+    },
+    {
+        "label": "LDY:D009",
+        "value": "提示 - 避开这些在塞纳河巡逻的遥控坦克，或者摧毁它们的控制中心让它们失效。",
+        "translated": "Hint - Avoid these robot tanks patrolling the Seine, or disable them by destroying their control centers."
+    },
+    {
+        "label": "LDY:D010",
+        "value": "提示 - 尝试使用敌人的生产设施训练间谍切断他们的电力，然后我们的总攻部队就可以安全到达。",
+        "translated": "Hint - Try to use the enemy's production facilities to train spies to cut off their power. Then our attack force can arrive safely."
+    },
+    {
+        "label": "LDY:D011",
+        "value": "教徒，对这座城市的总攻部队已经准备就绪。",
+        "translated": "Proselyte, the attack force on this city is ready."
+    },
+    {
+        "label": "LDY:D012",
+        "value": "我们的支援武器也已经上线。务必善加利用它们，你将不会获得更多的支援了。",
+        "translated": "Our support weapons are also online. Be sure to take advantage of them. Yyou won't get any additional support."
+    },
+    {
+        "label": "LDY:D013",
+        "value": "渗透小队全灭，任务失败。",
+        "translated": "The infiltration team was completely wiped, mission failed."
+    },
+    {
+        "label": "LDY:D014",
+        "value": "我们已经做好了切断防御部队电力的准备。",
+        "translated": "We are ready to cut off power to the defense forces."
+    },
+    {
+        "label": "LDY:D015",
+        "value": "教徒，我们的心灵感测范围已经覆盖了整个巴黎。现在他们的一举一动都在我们的注视下了。",
+        "translated": "Proselyte, our psychic sensing has covered the entire Paris. Now their every move is under our watchful eye."
+    },
+    {
+        "label": "LDY:D016",
+        "value": "呃，我想，那边会是一个不错的登陆地点。",
+        "translated": "Well, I thought, that would be a good place to land."
+    },
+    {
+        "label": "LDY:D017",
+        "value": "那座作战实验室应该会帮上大忙，想办法占领它吧。",
+        "translated": "That battle laboratory should be of great help. Let's find a way to capture it."
+    },
+    {
+        "label": "LDY:D018",
+        "value": "这里好像正在发生一场火灾。我们还没有进攻，他们就自乱阵脚了吗？",
+        "translated": "There seems to be a fire going on here. Did they get into chaos before we even attacked?"
+    },
+    {
+        "label": "Name:PARS12",
+        "value": "巴黎圣母院",
+        "translated": "Notre Dame de Paris"
+    },
+    {
+        "label": "LDY:D019",
+        "value": "这里有许多集中的敌人，让他们尝尝病毒传染的滋味吧。",
+        "translated": "There are many enemies concentrated here, let them taste the virus infection."
+    },
+    {
+        "label": "LDY:D020",
+        "value": "注意 - 敌人警戒等级提升，他们会出动更多的部队搜索城内的破坏者。",
+        "translated": "Attention - Enemy alert level increases. They will dispatch more troops to search for saboteurs in the city."
+    },
+    {
+        "label": "LDY:D021",
+        "value": "注意 - 敌人警戒等级提升，他们会出动主力部队搜索城内的破坏者。",
+        "translated": "Attention - Enemy alert level increases. They will actively dispatch troops to search for saboteurs in the city."
+    },
+    {
+        "label": "LDY:D022",
+        "value": "注意 - 敌人警戒等级提升，他们会出动空军部队搜索城内的破坏者。",
+        "translated": "Attention - Enemy alert level increases. They will dispatch air units to search for saboteurs in the city."
+    },
+    {
+        "label": "LDY:D023",
+        "value": "注意 - 敌人警戒等级提升，他们会出动高科技部队搜索城内的破坏者。",
+        "translated": "Attention - Enemy alert level increases. They will dispatch high-tech units to search for saboteurs in the city."
+    },
+    {
+        "label": "LDY:D024",
+        "value": "我们已经攻陷了巴黎的最后防线，欧洲的最后一点反抗力量也被抹平了。",
+        "translated": "We have broken the last line of defense in Paris. The last bit of resistance in Europe has been wiped out."
+    },
+    {
+        "label": "LDY:D025",
+        "value": "至于剩下的残兵败将们，主人肯定会仁慈的接受他们的投降，然后把他们送进部队回收厂吧。",
+        "translated": "As for the remains, the master will definitely accept their surrender and send them to the grinder."
+    },
+    {
+        "label": "LDY:D026",
+        "value": "控制中心被摧毁，敌人的遥控坦克都无法行动了。",
+        "translated": "The control center was destroyed, the enemy's robot tanks offline."
+    },
+    {
+        "label": "LDY:D027",
+        "value": "提示 - 塞纳河附近防御薄弱，尝试在这个方向寻找敌人的破绽。",
+        "translated": "Hint - The defenses near the Seine are weak, try to find an opening in this direction."
+    },
+    {
+        "label": "LDY:D028",
+        "value": "高卢人傲慢的象征——埃菲尔铁塔，也已经在熊熊烈火中不复存在了。",
+        "translated": "The Eiffel Tower, the symbol of Gaulish arrogance, ceased to exist in the blazing fire."
+    },
+    {
+        "label": "LDY:D029",
+        "value": "凯旋？是他们的末日才对吧。",
+        "translated": "Triumph? This is the end of them, right?"
+    },
+    {
+        "label": "LDY:E002",
+        "value": "警告 - 检测到中国巡航导弹来袭！",
+        "translated": "Warning - Incoming Chinese cruise missile detected!"
+    },
+    {
+        "label": "LDY:E003",
+        "value": "教徒，我们的主人正在这里和日本人进行一笔交易。",
+        "translated": "Proselyte, our master is making a deal with the Japanese here."
+    },
+    {
+        "label": "LDY:E004",
+        "value": "日本人会帮助我们研发一项秘密科技，而我们许诺提供我们的基因武器进行交换。",
+        "translated": "The Japanese will help us develop a secret technology, and we promise to provide our genetic weapons in exchange."
+    },
+    {
+        "label": "LDY:E005",
+        "value": "心灵探测显示，中国舰队正在日本海集结，他们的目标可能就是福井。",
+        "translated": "Psychic sensing shows that the Chinese fleet is gathering in the Sea of Japan. Their target may be Fukui."
+    },
+    {
+        "label": "LDY:E006",
+        "value": "一旦心灵控制器被毁，我们的计划就全泡汤了。",
+        "translated": "Should the Psychic Dominator be destroyed, all our plans would be ruined."
+    },
+    {
+        "label": "LDY:E007",
+        "value": "任务目标 - 保护心灵控制器，直到新科技研发完成。",
+        "translated": "Mission Objective - Protect the Psychic Dominator until new technology is developed."
+    },
+    {
+        "label": "LDY:E008",
+        "value": "新科技研发预估时间",
+        "translated": "Estimated time for new technology R&D"
+    },
+    {
+        "label": "LDY:E009",
+        "value": "显然，我们的主人并不想把基因技术这样轻易交给日本人。",
+        "translated": "Obviously, our masters do not want to hand over genetic technology to the Japanese so easily."
+    },
+    {
+        "label": "LDY:E010",
+        "value": "研发完成后的最优选择，还是把他们也一起干掉。",
+        "translated": "After the R&D is completed, the best option is to kill them too."
+    },
+    {
+        "label": "LDY:E011",
+        "value": "不过我们最好缓一缓再动手，毕竟他们还能作为抵挡中国人的炮灰。",
+        "translated": "But we'd better take it slow. After all, they can still be used as cannon fodder to resist the Chinese."
+    },
+    {
+        "label": "LDY:E012",
+        "value": "警告 - 检测到更多巡航导弹来袭！",
+        "translated": "Warning - More incoming cruise missiles detected!"
+    },
+    {
+        "label": "LDY:E013",
+        "value": "教徒，我们必须准备充足的防空力量来对付这些长程飞弹。",
+        "translated": "Proselyte, we must prepare sufficient air defense to deal with these long-range missiles."
+    },
+    {
+        "label": "LDY:E014",
+        "value": "随着中国人对战场信息的测绘，他们的巡航导弹一定会越来越准确的击中目标。",
+        "translated": "As the Chinese maps the battlefield, their cruise missiles will surely be more accurate."
+    },
+    {
+        "label": "LDY:E015",
+        "value": "警告 - 中国军队正在出动海蝎来掩护潜艇的进攻！",
+        "translated": "Warning - The Chinese military is sending out Sea Scorpions to cover submarine attacks!"
+    },
+    {
+        "label": "LDY:E016",
+        "value": "警告 - 我们的雷达被黑客侵入了！我们失去了对战场的心灵感测！",
+        "translated": "Warning - Our radar has been hacked! We've lost psychic reveal on the battlefield!"
+    },
+    {
+        "label": "LDY:E017",
+        "value": "「天枢： “就是这里！瞄准点，给我炸了那座心灵控制器！”」",
+        "translated": "Tianshu: \"Here it is! Aim here and blow up that Psychic Dominator for me!\""
+    },
+    {
+        "label": "LDY:E018",
+        "value": "警告 - 中国正在福井工业区南部发动登陆作战！",
+        "translated": "Warning - China is landing at the south of the Fukui Industrial District!"
+    },
+    {
+        "label": "LDY:E019",
+        "value": "警告 - 中国人已经在福井南部建立了基地！",
+        "translated": "Warning - the Chinese have established a base south of Fukui!"
+    },
+    {
+        "label": "LDY:E020",
+        "value": "警告 - 更多的中国坦克部队正在福井南部集结！",
+        "translated": "Warning - More Chinese tanks are massing south of Fukui!"
+    },
+    {
+        "label": "LDY:E021",
+        "value": "「天枢： “里面的日本朋友，听好了！整座港口已经完全被中国潜艇包围了！”」",
+        "translated": "Tianshu: \"Japanese friends inside, listen up! The entire port has been completely surrounded by Chinese submarines!\""
+    },
+    {
+        "label": "LDY:E022",
+        "value": "「天枢： “尤里是我们共同的敌人。只要调转枪口攻击尤里的下属，你们就是我们的朋友！”」",
+        "translated": "Tianshu: \"Yuri is our common enemy. As long as you turn your guns against Yuri, you will be our friends!\""
+    },
+    {
+        "label": "LDY:E023",
+        "value": "「……」",
+        "translated": "\"...\""
+    },
+    {
+        "label": "LDY:E024",
+        "value": "「天枢： “没有回应。那么，开始全面进攻吧！”」",
+        "translated": "Tianshu: \"No response. So, let's start attack!\""
+    },
+    {
+        "label": "LDY:E025",
+        "value": "我们已经可以建造尤里雕像来防御基地。",
+        "translated": "We can already build Yuri statues to defend the base."
+    },
+    {
+        "label": "LDY:E026",
+        "value": "它的每一束目光都聚集了主人的意志，可以对远距离的敌人造成重创。",
+        "translated": "Each of its gaze concentrates the master's will, inflicting heavy damage to enemies from a distance."
+    },
+    {
+        "label": "LDY:E027",
+        "value": "新科技已经成功研发完成。",
+        "translated": "New technology has been successfully developed."
+    },
+    {
+        "label": "LDY:E028",
+        "value": "「天枢： “那……那他妈的是什么玩意？”」",
+        "translated": "Tianshu: \"Oh...what the hell is that?\""
+    },
+    {
+        "label": "LDY:E029",
+        "value": "教徒，这就是我们主人的杰作，飞行的心灵控制器——「命运之瞳」。",
+        "translated": "Proselytes, this is the masterpiece of our master, the flying psychic dominator - \"Eye of Fate\"."
+    },
+    {
+        "label": "LDY:E030",
+        "value": "警告 - 福井港口检测到水下敌人！",
+        "translated": "Warning - Underwater enemies detected in Fukui Port!"
+    },
+    {
+        "label": "LDY:E031",
+        "value": "警告 - 检测到大型空中目标！",
+        "translated": "Warning - Large aero target detected!"
+    },
+    {
+        "label": "LDY:E032",
+        "value": "「尤里： “去吧，教徒，用命运之瞳击毁他们最后的希望。”」",
+        "translated": "Yuri: \"Go, proselytes, use the Eye of Fate to destroy their last hope.\""
+    },
+    {
+        "label": "LDY:E033",
+        "value": "「尤里： “我们没有盟友，也不需要盟友。让他们在命运的审判中哀嚎吧。”」",
+        "translated": "Yuri: \"We have no allies and we don't need them. Let them wail in the judgment of their fate.\""
+    },
+    {
+        "label": "LDY:E034",
+        "value": "注意 - 我们几乎可以确信日本人会在研发完成以后向我们开火。请做好与他们决裂的准备。",
+        "translated": "Attention - We are almost certain that the Japanese will open fire on us once development is completed. Be prepared to deal with them."
+    },
+    {
+        "label": "LDY:E035",
+        "value": "「天枢： “停止对日本人开火！让我们一起对付那个大家伙！”」",
+        "translated": "Tianshu: \"Stop firing on the Japanese! Let's deal with that big thing together!\""
+    },
+    {
+        "label": "LDY:E036",
+        "value": "「天枢： “停止发射巡航导弹，撤走舰队！我们需要更多的防空力量支援！”」",
+        "translated": "Tianshu: \"Stop launching cruise missiles and withdraw the fleet! We need more anti air support!\""
+    },
+    {
+        "label": "LDY:E037",
+        "value": "丧失关键建筑 - 心灵控制器被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - Psychic Dominator destroyed, mission failed."
+    },
+    {
+        "label": "LDY:E038",
+        "value": "丧失关键单位 - 命运之瞳被毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Eye of Fate destroyed, mission failed."
+    },
+    {
+        "label": "LDY:E039",
+        "value": "提示 - 命运之瞳可以心灵控制多个敌方地面或空中单位，并从中汲取能量修复自身损伤。",
+        "translated": "Hint - The Eye of Fate can mind control multiple enemy ground or air units and self-repair in the process."
+    },
+    {
+        "label": "LDY:E040",
+        "value": "提示 - 部署命运之瞳，会在其正下方产生猛烈的心灵震荡波，造成不分敌友的伤害。",
+        "translated": "Hint - Deploy the Eye of Fate will generate a violent psychic shockwave directly below it, causing damage regardless of friend or foe."
+    },
+    {
+        "label": "LDY:E041",
+        "value": "「尤里： “最精妙的杰作也顺利完成了，现在我的计划只剩最后一部分了。”」",
+        "translated": "Yuri: \"The most exquisite masterpiece has been successfully completed, and now only the last step of my plan remains.\""
+    },
+    {
+        "label": "LDY:F001",
+        "value": "苏联，新西伯利亚。",
+        "translated": "Novosibirsk, Soviet Union."
+    },
+    {
+        "label": "LDY:G001",
+        "value": "中国，墨脱。",
+        "translated": "Medog, China."
+    },
+    {
+        "label": "LDY:G002",
+        "value": "心灵感应监测到大量中国军队在此地集结。",
+        "translated": "Psychic sensing detects a large number of Chinese troops gathering here."
+    },
+    {
+        "label": "LDY:G003",
+        "value": "教徒，命运之瞳因为被黑客入侵而无法启动，而中国黑客天枢公开声称对此事件负责。",
+        "translated": "Proselyte, the Eye of Fate was hacked and cannot be activated. The Chinese hacker Tianshu publicly claimed responsibility for the incident."
+    },
+    {
+        "label": "LDY:G004",
+        "value": "主人无法容忍这样的挑衅行为。他命令我们尽快除掉天枢。",
+        "translated": "The master cannot tolerate such provocative behavior. He ordered us to get rid of Tianshu ASAP."
+    },
+    {
+        "label": "LDY:G005",
+        "value": "如果心灵感应观测的结果没有错，那么天枢一定就藏在雅鲁藏布江大峡谷。",
+        "translated": "If the Psychic sensing results are correct, Tianshu must be hidden in the Brahmaputra Valley."
+    },
+    {
+        "label": "LDY:G006",
+        "value": "我们的入侵部队已经到达。",
+        "translated": "Our invasion force has arrived."
+    },
+    {
+        "label": "LDY:G007",
+        "value": "任务目标 - 找到并杀死天枢。",
+        "translated": "Mission Objective - Find and kill Tianshu."
+    },
+    {
+        "label": "LDY:E042",
+        "value": "任务目标 - 消灭所有敌对势力。",
+        "translated": "Mission Objective - Eliminate all hostile forces."
+    },
+    {
+        "label": "LDY:F002",
+        "value": "教徒，按照我们主人的计划，命运之瞳需要穿过西伯利亚，径直飞向北极点。",
+        "translated": "Proselyte, according to our master's plan, the Eye of Fate needs to fly through Siberia and directly to the North Pole."
+    },
+    {
+        "label": "LDY:F003",
+        "value": "但心灵感测发现，林德拉克已经在路上建立防线等着我们了。",
+        "translated": "But Psychic sensing showed that Rynderack had already set up a defensive line on the road waiting for us."
+    },
+    {
+        "label": "LDY:F004",
+        "value": "「尤里： “不要让我的计划受到任何阻碍。撕碎他们的防线，为我扫清道路。”」",
+        "translated": "Yuri: \"Don't let anything hinders my plan. Tear apart their defenses and clear the way for me.\""
+    },
+    {
+        "label": "LDY:F005",
+        "value": "任务目标 - 等待命运之瞳到达，并集结一支部队。",
+        "translated": "Mission Objective - Assemble an army and wait for the Eye of Fate to arrive."
+    },
+    {
+        "label": "LDY:F006",
+        "value": "任务目标 - 护送命运之瞳通过此区域。",
+        "translated": "Mission Objective - Escort the Eye of Fate through this area."
+    },
+    {
+        "label": "LDY:F007",
+        "value": "命运之瞳到达预估时间",
+        "translated": "Estimated arrival time of the Eye of Fate"
+    },
+    {
+        "label": "LDY:F008",
+        "value": "注意 - 命运之瞳会径直朝北极点飞去，请确保你的部队跟得上它。",
+        "translated": "Attention - The Eye of Fate will fly straight towards the North Pole, make sure your troops can keep up with it."
+    },
+    {
+        "label": "LDY:F009",
+        "value": "战术空投系统已经上线。现在你可以快速的空投新兵和尤里复制人到前线。",
+        "translated": "The tactical airdrop system is now online. Now you can quickly airdrop initiates and Yuri clones to the frontline."
+    },
+    {
+        "label": "LDY:F010",
+        "value": "更多的援军正在抵达新西伯利亚。",
+        "translated": "More reinforcements are arriving in Novosibirsk."
+    },
+    {
+        "label": "LDY:F011",
+        "value": "命运之瞳的心灵控制武器系统已经上线。",
+        "translated": "The Psychic Dominator on the Eye of Fate online."
+    },
+    {
+        "label": "LDY:F012",
+        "value": "注意 - 林德拉克又启动了一座铁幕装置！",
+        "translated": "Attention - Rynderack has activated another Iron Curtain device!"
+    },
+    {
+        "label": "LDY:E043",
+        "value": "福井港口的所有的敌对势力都已经被肃清。",
+        "translated": "All hostile forces in Fukui Port have been eliminated."
+    },
+    {
+        "label": "LDY:E044",
+        "value": "教徒，我们还没来得及隔离入侵心灵探测器的黑客程序，现在建造多座心灵探测器毫无用处。",
+        "translated": "Proselytes, it's useless to build multiple psychic radars until we can isolate the hacks."
+    },
+    {
+        "label": "LDY:E045",
+        "value": "化工厂",
+        "translated": "Chemical Plant"
+    },
+    {
+        "label": "LDY:F013",
+        "value": "这片区域无法部署基地车，教徒。继续向城区推进寻找合适的地点。",
+        "translated": "Mobile Construction Vehicle cannot be deployed in this area, proselytes. Continue to move into the city to find a suitable location."
+    },
+    {
+        "label": "LDY:F014",
+        "value": "基地已部署。请尽快集结一支部队以做好护送命运之瞳的准备。",
+        "translated": "MCV deployed. Please assemble a force ASAP to be ready to escort the Eye of Fate."
+    },
+    {
+        "label": "LDY:F015",
+        "value": "「林德拉克： “好的，四座铁幕装置已经同步运行了。”」",
+        "translated": "Rynderack: \"Okay, four Iron Curtain devices have been running simultaneously.\""
+    },
+    {
+        "label": "LDY:F016",
+        "value": "「林德拉克： “现在该让敌人尝尝我们的厉害了。”」",
+        "translated": "Rynderack: \"Now it's time to let the enemy have a taste of our power.\""
+    },
+    {
+        "label": "LDY:F017",
+        "value": "「“我们遇到什么困难，也不要怕！”」",
+        "translated": "\"Don't be afraid of any difficulties we encounter!\""
+    },
+    {
+        "label": "LDY:F018",
+        "value": "「“微笑着面对它！”」",
+        "translated": "\"Face it with a smile!\""
+    },
+    {
+        "label": "LDY:F019",
+        "value": "「“消除恐惧的最好办法，就是面对恐惧！”」",
+        "translated": "\"The best way to eliminate fear is to face it!\""
+    },
+    {
+        "label": "LDY:F020",
+        "value": "「“坚持，才是胜利！ 加油！ 奥里给！ ！ ！”」",
+        "translated": "\"Persistence is victory! Come on!\""
+    },
+    {
+        "label": "LDY:F021",
+        "value": "已摧毁一座铁幕装置。",
+        "translated": "An Iron Curtain device has been destroyed."
+    },
+    {
+        "label": "LDY:F022",
+        "value": "警告 - 命运之瞳正在受到猛烈的攻击！",
+        "translated": "Warning - The Eye of Fate is under heavy attack!"
+    },
+    {
+        "label": "LDY:F023",
+        "value": "警告 - 命运之瞳快要撑不住了！一旦它被摧毁，任务就失败了！",
+        "translated": "Warning - Eyes of Destiny is about to burst! Should it be destroyed, the mission would failed!"
+    },
+    {
+        "label": "LDY:F024",
+        "value": "最后一批护航的镭射幽浮部队已经抵达。",
+        "translated": "The last escort of Floating Discs has arrived."
+    },
+    {
+        "label": "LDY:F025",
+        "value": "命运之瞳已经抵达战场。",
+        "translated": "The Eye of Fate has arrived on the battlefield."
+    },
+    {
+        "label": "LDY:F026",
+        "value": "「尤里： “我们所剩时间不多了。教徒，击破他们的防线，让命运之瞳安全通过。”」",
+        "translated": "Yuri: \"We don't have much time left. Proselytes, break through their defenses and let the Eye of Fate pass safely.\""
+    },
+    {
+        "label": "LDY:F027",
+        "value": "丧失关键单位 - 命运之瞳被毁，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Eye of Fate destroyed, mission failed."
+    },
+    {
+        "label": "LDY:F028",
+        "value": "「林德拉克： “该死……我失败了，我没能拦住他们。”」",
+        "translated": "Rynderack: \"Damn it... I failed, I couldn't stop them.\""
+    },
+    {
+        "label": "LDY:F029",
+        "value": "「林德拉克： “全靠你了，天枢。”」",
+        "translated": "Rynderack: \"It's all up to you, Tianshu.\""
+    },
+    {
+        "label": "LDY:F030",
+        "value": "「林德拉克： “不！不！！！”」",
+        "translated": "Rynderack: \"No! No!!!\""
+    },
+    {
+        "label": "LDY:DP001",
+        "value": "罗马尼亚，德古拉要塞。",
+        "translated": "Romania, Dracula's Fortress."
+    },
+    {
+        "label": "LDY:DP002",
+        "value": "教徒，心灵感应器检测到主人的护卫队出现了异常。",
+        "translated": "Proselyte, the psychic radar detected something abnormal in the master's guard."
+    },
+    {
+        "label": "LDY:DP003",
+        "value": "他们似乎不完全效忠于主人！我们必须尽快前去解围！",
+        "translated": "They don't seem to be loyal to their master! We must go to the rescue ASAP!"
+    },
+    {
+        "label": "LDY:DP004",
+        "value": "一旦主人被杀死了，一切就全完了！！",
+        "translated": "Once the master is killed, everything is over!!"
+    },
+    {
+        "label": "LDY:DP005",
+        "value": "「尤里： “外面好吵闹啊。还是让我来亲自收拾场面吧。”」",
+        "translated": "Yuri: \"It's so noisy outside. Let me clean things up myself.\""
+    },
+    {
+        "label": "LDY:DP006",
+        "value": "提示 - 尤里X可以从远距离对单位和建筑物进行心灵控制，但是无法控制遥控坦克等机器人单位。",
+        "translated": "Hint - Yuri Prime can mind control units and buildings from a distance, but he cannot control robotic units such as robot tanks."
+    },
+    {
+        "label": "LDY:DP007",
+        "value": "提示 - 收集一些仍然忠于主人的部队，可能会为突击行动帮上忙。",
+        "translated": "Hint - Gathering some troops who are still loyal to their master. It may help in the assult."
+    },
+    {
+        "label": "LDY:DP008",
+        "value": "任务目标 - 前往德古拉要塞支援。",
+        "translated": "Mission Objective - Go to Dracula's Fortress to support."
+    },
+    {
+        "label": "LDY:DP009",
+        "value": "任务目标 - 护送尤里X到达集结点。",
+        "translated": "Mission Objective - Escort Yuri Prime to the assembly point."
+    },
+    {
+        "label": "LDY:DP010",
+        "value": "任务目标 - 尤里X不能阵亡。",
+        "translated": "Mission Objective - Keep Yuri Prime alive."
+    },
+    {
+        "label": "LDY:DP011",
+        "value": "注意 - 叛变的亲卫队已经开始大举进攻德古拉要塞了！",
+        "translated": "Attention - The renegade guards has begun a massive assult on Dracula's Fortress!"
+    },
+    {
+        "label": "LDY:DP012",
+        "value": "「尤里： “你们知道吗，背叛是要付出代价的。”」",
+        "translated": "Yuri: \"You know, there is a price to pay for betrayal.\""
+    },
+    {
+        "label": "LDY:DP013",
+        "value": "「尤里： “一旦走上背叛之路，要么交出你们的鲜血，要么交出你们的灵魂，除此之外没有别的选择。”」",
+        "translated": "Yuri: \"Once you embark on the road of betrayal, you will pay with either your blood or your soul. There is no other choice.\""
+    },
+    {
+        "label": "LDY:DP014",
+        "value": "教徒，我们正在联系附近仍然忠于主人的所有部队前来支援。",
+        "translated": "Proselytes, we are contacting all nearby troops still loyal to our masters to come to our aid."
+    },
+    {
+        "label": "LDY:DP015",
+        "value": "先前往德古拉要塞支援，然后我们会尝试把主人带出来。",
+        "translated": "Go to Dracula's Fortress for support first, and then we'll try to bring the master out."
+    },
+    {
+        "label": "LDY:DP016",
+        "value": "注意 - 检测到大量超时空传送部队！",
+        "translated": "Attention - Massive teleported troops from Chronosphere detected!"
+    },
+    {
+        "label": "LDY:DP017",
+        "value": "「威灵顿： “欧盟的最后作战力量已经到达。这回真的是孤注一掷了。”」",
+        "translated": "Wellington: \"EU's last forces has arrived. This time it's all-or-nothing.\""
+    },
+    {
+        "label": "LDY:DP018",
+        "value": "「威灵顿： “我想办法说服了一些尚未被完全心灵控制的敌人，调转枪口和我们一同作战。”」",
+        "translated": "Wellington: \"I managed to convince some enemies who were not yet mind-controlled to turn their guns and fight with us.\""
+    },
+    {
+        "label": "LDY:DP019",
+        "value": "「威灵顿： “这是自由世界的最后一搏了！只要杀死尤里，一切就都结束了！”」",
+        "translated": "Wellington: \"This is the last stand of the free world! Just kill Yuri and everything will be over!\""
+    },
+    {
+        "label": "LDY:G008",
+        "value": "「天枢： “唔，尤里的走狗，没想到你们居然会跟到这里来。”」",
+        "translated": "Tianshu: \"Well, Yuri's lackeys, I didn't expect you to follow me here.\""
+    },
+    {
+        "label": "LDY:G009",
+        "value": "「天枢： “既然来了，那自然就要为你们准备一份大礼。”」",
+        "translated": "Tianshu: \"Since you are here, I will prepare a gift for you.\""
+    },
+    {
+        "label": "LDY:G010",
+        "value": "警告 - 天枢启动了一座核弹发射井！",
+        "translated": "Warning - Tianshu activated a nuclear silo!"
+    },
+    {
+        "label": "LDY:G011",
+        "value": "警告 - 天枢启动了另一座核弹发射井！",
+        "translated": "Warning - Tianshu activated another nuclear silo!"
+    },
+    {
+        "label": "LDY:G012",
+        "value": "警告 - 检测到黑客入侵！",
+        "translated": "Warning - Hacking detected!"
+    },
+    {
+        "label": "LDY:G013",
+        "value": "「天枢： “你们的资金管理程序的加密也太弱了吧。我正好需要借来些军费用用，多谢了啊。”」",
+        "translated": "Tianshu: \"The security of your asset management system is weak. I just need to borrow some money, thank you very much.\""
+    },
+    {
+        "label": "LDY:G014",
+        "value": "「天枢： “所谓的心灵感应雷达也就是那么回事嘛……我先发送些垃圾数据过去。”」",
+        "translated": "Tianshu: \"That's what the so-called psychic radar is... I'll DDoS it first.\""
+    },
+    {
+        "label": "LDY:G015",
+        "value": "「天枢： “像这种把总电源调用接口开关暴露在外的安防程序，还是真少见呢……”」",
+        "translated": "Tianshu: \"It's rare to see a security program that exposes the main power switch outside...\""
+    },
+    {
+        "label": "LDY:G016",
+        "value": "警告 - 天枢骇入了我们的资金管理程序。金钱被转走50%。",
+        "translated": "Warning - Tianshu hacked our asset management system. 50% of the money was transferred away."
+    },
+    {
+        "label": "LDY:G017",
+        "value": "警告 - 天枢骇入了我们的心灵感应雷达。失去雷达视野66秒。",
+        "translated": "Warning - Tianshu hacked our psychic radar. Loss of radar vision for 66 seconds."
+    },
+    {
+        "label": "LDY:G018",
+        "value": "警告 - 天枢骇入了我们的电力设施。电力中断66秒。",
+        "translated": "Warning - Tianshu hacked our electrical infrastructure. Power offline for 66 seconds."
+    },
+    {
+        "label": "LDY:G019",
+        "value": "「天枢： “哦对，多亏你借给我们的技术，我们已经开始训练自己的心灵部队了。”」",
+        "translated": "Tianshu: \"Oh yes, thanks to the technology you provided, we have begun training our own psychic troops.\""
+    },
+    {
+        "label": "LDY:G020",
+        "value": "「天枢： “所以看到你的部队自相残杀的时候，也不要太过惊讶。”」",
+        "translated": "Tianshu: \"So don't be too surprised when you see your troops killing each other.\""
+    },
+    {
+        "label": "LDY:F031",
+        "value": "「尤里： “结束了。已经没有任何力量可以阻止命运之瞳进入北极了。”」",
+        "translated": "Yuri: \"It's over. There is nothing to stop the Eye of Fate from entering the North Pole.\""
+    },
+    {
+        "label": "Name:Empty",
+        "value": "",
+        "translated": ""
+    },
+    {
+        "label": "LDY:G021",
+        "value": "教徒，这里地势不利，建议我们把基地建筑延伸至高地。",
+        "translated": "Proselyte, the terrain here is unfavorable. We should extend the buildings to higher ground."
+    },
+    {
+        "label": "LDY:G022",
+        "value": "出现了！天枢在那里！杀了他！！！",
+        "translated": "Tianshu is there! kill him!!!"
+    },
+    {
+        "label": "LDY:G023",
+        "value": "「天枢： “我突然感到无比轻松……身上背负的可怕的重担，终于可以放下了吧。”」",
+        "translated": "Tianshu: \"I suddenly felt extremely relaxed... The terrible burden I was carrying could finally be let go.\""
+    },
+    {
+        "label": "LDY:G024",
+        "value": "「天枢： “尤里，你听好了，你的罪行会随着我的死讯传遍整个世界，没有人……”」",
+        "translated": "Tianshu: \"Yuri, listen carefully, your crime will spread throughout the world with my death. No one...\""
+    },
+    {
+        "label": "LDY:G025",
+        "value": "「……」",
+        "translated": "\"...\""
+    },
+    {
+        "label": "LDY:G026",
+        "value": "「尤里： “他死了。我们撤退吧。”」",
+        "translated": "Yuri: \"He's dead. Let's retreat.\""
+    },
+    {
+        "label": "LDY:G027",
+        "value": "「尤里： “没必要和中国军队过多纠缠，我们还是把主要精力放在如何修复命运之瞳上吧。”」",
+        "translated": "Yuri: \"There is no need to further struggle with the Chinese army. Let's focus on how to repair the Eye of Fate.\""
+    },
+    {
+        "label": "Name:TSUD",
+        "value": "天枢的尸体",
+        "translated": "Tianshu Body"
+    },
+    {
+        "label": "LDY:G028",
+        "value": "天枢已经成功被刺杀。",
+        "translated": "Tianshu has been successfully assassinated."
+    },
+    {
+        "label": "LDY:G029",
+        "value": "我方部队全部被消灭，任务失败。",
+        "translated": "All our troops were wiped out, mission failed."
+    },
+    {
+        "label": "LDY:DP020",
+        "value": "「盖特坦克： “我们会誓死为主人效忠！”」",
+        "translated": "Gattling Tank: \"We will swear allegiance to our master to the death!\""
+    },
+    {
+        "label": "LDY:DP021",
+        "value": "丧失关键单位 - 尤里X阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Yuri Prime was killed, mission failed."
+    },
+    {
+        "label": "LDC:A002",
+        "value": "「天权： “我已经抵达墨脱市区。这里看来发生过激烈的战斗。有什么情报吗？”」",
+        "translated": "Tianquan: \"I have arrived in the urban area of Medog. It appears that a fierce battle took place here. Any update?\""
+    },
+    {
+        "label": "LDC:A003",
+        "value": "「清芷： “毫无头绪。我们只知道这里有三座基地受到了不明势力的袭击。”」",
+        "translated": "Qingzhi: \"Negative. We only know that three bases here have been attacked by unknown forces.\""
+    },
+    {
+        "label": "LDC:A004",
+        "value": "「清芷： “一有任何战术信息我会立刻通知你，但请你也保持警惕。”」",
+        "translated": "Qingzhi: \"I will notify you immediately as soon as I have any update. Please remain vigilant.\""
+    },
+    {
+        "label": "LDC:A005",
+        "value": "「天权： “该死……希望我没来的太晚。”」",
+        "translated": "Tianquan: \"Damn... I hope I didn't come too late.\""
+    },
+    {
+        "label": "LDC:A006",
+        "value": "任务目标 - 调查失联的三座基地。",
+        "translated": "Mission Objective - Investigate three missing bases."
+    },
+    {
+        "label": "LDC:A007",
+        "value": "提示 - 天权驾驶着轻型车辆行动，可以使用步枪瞄准并射击敌人的步兵。",
+        "translated": "Hint - Tianquan drives a light vehicle and can use his rifle to target enemy infantry."
+    },
+    {
+        "label": "LDC:A008",
+        "value": "「清芷： “天权，你已经有了为巡航导弹标记打击目标的权限。”」",
+        "translated": "Qingzhi: \"Tianquan, you are authorized to mark targets for cruise missiles.\""
+    },
+    {
+        "label": "LDC:A009",
+        "value": "「清芷： “一旦位置确定，我们会发射巡航导弹，帮你炸平敌人的建筑或者坦克小队。”」",
+        "translated": "Qingzhi: \"Once the location is determined, we will launch cruise missiles to help you blow up enemy's buildings or tank squads.\""
+    },
+    {
+        "label": "LDC:A010",
+        "value": "「清芷： “当心狙击手！你的轻型车辆没法为你提供比较好的保护，但可以为你提供速度优势。”」",
+        "translated": "Qingzhi: \"Beware of snipers! Your light vehicle won't provide much protection, but at least it's maneuverabile.\""
+    },
+    {
+        "label": "LDC:D003",
+        "value": "尤里似乎早早就盯上了我们位于绵阳的核工业中心。",
+        "translated": "Yuri seems to have set his sights on our nuclear industry center in Mianyang for a long time."
+    },
+    {
+        "label": "LDC:D004",
+        "value": "十倍于我们的敌人正在附近集结。时间只够我们转移科研人员，只能背水一战了。",
+        "translated": "Enemies ten times our size are gathering nearby. We only have enough time to evacuate research personnel. We have no choice but to fight against the odds."
+    },
+    {
+        "label": "LDC:D005",
+        "value": "等等，天子仁将军在线上。他有话要和你讲。",
+        "translated": "Wait, General Tianziren is online. He has something to tell you."
+    },
+    {
+        "label": "LDC:D006",
+        "value": "「天子仁： “既然我们已经没有退路，我倒是有一个大胆的想法。”」",
+        "translated": "Tianziren: \"Since we have no retreat, I have a bold idea.\""
+    },
+    {
+        "label": "LDC:D007",
+        "value": "「天子仁： “就是利用这些快中子注入装置，转化大量的钚-239，制造一场大爆炸，与敌人同归于尽。”」",
+        "translated": "Tianziren: \"Using these reactors to produce a large amount of plutonium-239, we can create an explosion to perish together with the enemy.\""
+    },
+    {
+        "label": "LDC:D008",
+        "value": "「天子仁： “敌人似乎不想摧毁这些设备，而是占领它们。这就是我们的机会。”」",
+        "translated": "Tianziren: \"They don't want to destroy these devices, but to capture them. This is our chance.\""
+    },
+    {
+        "label": "LDC:D009",
+        "value": "「天子仁： “不论代价如何，我觉得可以这样试试看。”」",
+        "translated": "Tianziren: \"No matter what the cost, I think you can give it a try.\""
+    },
+    {
+        "label": "LDC:D010",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until a sufficient amount of plutonium is produced."
+    },
+    {
+        "label": "LDC:D011",
+        "value": "任务目标 - 不能让尤里占领任何一座快中子注入装置。",
+        "translated": "Mission Objective - Prevent Yuri from capturing any fast neutron reactor."
+    },
+    {
+        "label": "LDC:D012",
+        "value": "注意 - 有几座快中子注入装置在地图上，右下角的剩余时间就会以几倍速度流逝。",
+        "translated": "Attention - The remaining time will pass at the rate proportional to the number of remaining reactors."
+    },
+    {
+        "label": "LDC:D013",
+        "value": "注意 - 敌人不会攻击快中子注入装置，但是会尝试占领它们。当你无法保护时，请亲手炸毁。",
+        "translated": "Attention - Enemies will attempt to capture reactors rather than attacking them. Please blow them up when you can no longer protect."
+    },
+    {
+        "label": "LDC:D014",
+        "value": "提示 - 我们的核武库已经完全解封。你可以建造并使用两座核弹发射井。",
+        "translated": "Hint - Our nuclear arsenal has been unlocked. You can build and use up to two nuclear silos."
+    },
+    {
+        "label": "LDC:D015",
+        "value": "「清芷： “一些装载着核废料的卡车正在赶来。希望它们能够帮助你拖延时间。”」",
+        "translated": "Qingzhi: \"Some trucks carrying nuclear waste are coming. Hopefully they will help you to hold.\""
+    },
+    {
+        "label": "LDC:D016",
+        "value": "任务目标 - 引爆所有的快中子注入装置，与敌人同归于尽。",
+        "translated": "Mission Objective - Detonate all fast neutron reactors and perish together with the enemy."
+    },
+    {
+        "label": "THEME:TideofIron",
+        "value": "Tide of Iron - Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "THEME:Crossroad",
+        "value": "Crossroad - Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDTitle",
+        "value": "「林德拉克计划 2：命运之瞳」 制作人员",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDIntroduction1",
+        "value": "「Rynderack Project 2 : Eye of Fate」 is based on the original Red Alert 2 Yuri's Revenge",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDIntroduction2",
+        "value": "created by Heli",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDDesign",
+        "value": "任务制作",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDTesting",
+        "value": "任务测试",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDmishi",
+        "value": "迷失",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDduanshengsanbing",
+        "value": "断绳伞兵",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDCokoUp",
+        "value": "CokoUp天影羽",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDMystia",
+        "value": "米斯蒂娅脆骨君",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDThanks",
+        "value": "Thank you for playing!",
+        "translated": "TODO"
+    },
+    {
+        "label": "LDY:DP022",
+        "value": "提示 - 敌人的心灵控制塔对已经被心灵控制的单位毫无威胁。",
+        "translated": "Hint - Enemy Psychic towers pose no threat to units that are already mind controlled."
+    },
+    {
+        "label": "LDY:DP023",
+        "value": "警告 - 狂兽人不能被心灵控制。小心对付他们。",
+        "translated": "Warning - Brutes cannot be mind controlled. Be careful with them."
+    },
+    {
+        "label": "LDY:DP024",
+        "value": "教徒，我不认为我们的部队能够攻破桥对岸的防御。应该寻找其它的道路。",
+        "translated": "Proselyte, I don't think our troops can break through the defenses on the other side of the bridge. We should use other paths."
+    },
+    {
+        "label": "LDY:DP025",
+        "value": "注意 - 德古拉城堡已经被摧毁。",
+        "translated": "Attention - Dracula's fortress has been destroyed."
+    },
+    {
+        "label": "LDY:DP026",
+        "value": "敌人很快就会注意到尤里大人并没有藏在城堡中。请务必保护好他！",
+        "translated": "The enemy will soon notice that master Yuri is not in the fortress. Please protect him!"
+    },
+    {
+        "label": "LDY:DP027",
+        "value": "德古拉要塞的严密防御似乎超乎了叛军的想象。",
+        "translated": "The tight defense of Dracula's Fortress seems to be beyond the imagination of the rebels."
+    },
+    {
+        "label": "LDY:DP028",
+        "value": "他们应该会暂停这种无意义的消耗行为，转入封锁阶段。",
+        "translated": "They will likely suspend this senseless attrition and attempt to the lock it down."
+    },
+    {
+        "label": "LDY:DP029",
+        "value": "「尤里： “算了，在接下来的计划中，欧洲战场是无关紧要的。”」",
+        "translated": "Yuri: \"Forget it, in the next plan, the European battlefield is irrelevant.\""
+    },
+    {
+        "label": "LDY:DP030",
+        "value": "「尤里： “接下来我会前往日本。至于这边剩下的杂鱼，就让他们自生自灭吧。”」",
+        "translated": "Yuri: \"I will go to Japan next. As for the remains here, let them fend for themselves.\""
+    },
+    {
+        "label": "LDC:C002",
+        "value": "首长，林德拉克提供的情报没有错，我们在澳门的部队已经被尤里心灵控制了。",
+        "translated": "Commander, the intel provided by Rynderack is correct. Our troops in Macau have been mind-controlled by Yuri."
+    },
+    {
+        "label": "LDC:C003",
+        "value": "这是我们从尤里购买并部署的心灵信标，没想到尤里在其中还留了一手……",
+        "translated": "This is the psychic beacon we purchased and deployed from Yuri. Unexpectedly, Yuri also had a hand in it..."
+    },
+    {
+        "label": "LDC:C004",
+        "value": "摧毁它，就能使得一部分的友军部队摆脱心灵控制。",
+        "translated": "Destroying it will free some friendly troops from mind control."
+    },
+    {
+        "label": "LDC:C005",
+        "value": "「林德拉克： “还好事情还没发展到没法收拾的地步，我们来的还不晚。”」",
+        "translated": "Rynderack: \"Fortunately, things haven't gotten out of hand yet, and we're not too late.\""
+    },
+    {
+        "label": "LDC:C006",
+        "value": "「林德拉克： “我们快一点行动吧。一旦心灵信标加大功率，我们怕是也完了。”」",
+        "translated": "Rynderack: \"Let's act quickly. Once the psychic beacon amplifies power, we may be doomed.\""
+    },
+    {
+        "label": "LDC:C007",
+        "value": "任务目标 - 摧毁心灵信标，解救基地。",
+        "translated": "Mission Objective - Destroy the psychic beacon and rescue the base."
+    },
+    {
+        "label": "LDC:C008",
+        "value": "林德拉克受了重伤，暂时无法参与战斗了。",
+        "translated": "Rynderack was seriously injured and unable to participate in the battle."
+    },
+    {
+        "label": "LDC:C009",
+        "value": "我们会送他去治疗，但恐怕要等到下一次军事行动才能看到他了。",
+        "translated": "We will treat him, but I'm afraid we won't be able to see him until the next operation."
+    },
+    {
+        "label": "LDC:C010",
+        "value": "澳门塔",
+        "translated": "Macau Tower"
+    },
+    {
+        "label": "LDC:C011",
+        "value": "澳门博物馆",
+        "translated": "Macau Museum"
+    },
+    {
+        "label": "LDC:C012",
+        "value": "妈祖庙",
+        "translated": "Mazu Temple"
+    },
+    {
+        "label": "LDC:C013",
+        "value": "「清芷： “在澳门市区内检测到更多的心灵信标！”」",
+        "translated": "Qingzhi: \"More Psychic Beacons have been detected in the city of Macau!\""
+    },
+    {
+        "label": "LDC:C014",
+        "value": "这些心灵信标似乎已经开始准备过载。一旦过载成功，我们就完了。",
+        "translated": "These Psychic Beacons seem to be preparing for overload. Once the overload is successful, we're doomed."
+    },
+    {
+        "label": "LDC:C015",
+        "value": "每摧毁一座心灵信标，都可以拖慢过载进程。我们需要与时间赛跑。",
+        "translated": "Each Psychic Beacon destroyed can slow down the overload process. We need to race against time."
+    },
+    {
+        "label": "LDC:C016",
+        "value": "任务目标 - 阻止心灵信标的过载。",
+        "translated": "Mission Objective - Prevent the overload of the Psychic Beacon."
+    },
+    {
+        "label": "LDC:A011",
+        "value": "「清芷： “那边是什么东西？”」",
+        "translated": "Qingzhi: \"What is that over there?\""
+    },
+    {
+        "label": "LDC:A012",
+        "value": "「清芷： “我发现了一些遗留在这里的恐怖机器人。”」",
+        "translated": "Qingzhi: \"We found some terror drones left here.\""
+    },
+    {
+        "label": "LDC:A013",
+        "value": "「清芷： “现在它们已经可以重新接受指挥，供您调遣。”」",
+        "translated": "Qingzhi: \"Now they can be commanded again at your disposal.\""
+    },
+    {
+        "label": "LDC:A014",
+        "value": "「心灵部队： “别开枪！自己人！”」",
+        "translated": "Psychic Troops: \"Don't shoot! Friendly force!\""
+    },
+    {
+        "label": "LDC:A015",
+        "value": "「清芷： “哦对了，我们利用从尤里购买的技术训练了一批心灵部队。”」",
+        "translated": "Qingzhi: \"Oh, by the way, we used the technology purchased from Yuri to train a group of psychic troops.\""
+    },
+    {
+        "label": "LDC:A016",
+        "value": "「清芷： “没想到会在这里遇到，但愿他们能够帮上忙。”」",
+        "translated": "Qingzhi: \"I didn't expect to meet them here. But I hope they can help.\""
+    },
+    {
+        "label": "LDC:A017",
+        "value": "「清芷： “巡航导弹飞过来需要些时间，但是你无须在此期间保持一直锁定目标。”」",
+        "translated": "Qingzhi: \"It will take some time for the cruise missile to fly over, but you don't have to keep locking on the target.\""
+    },
+    {
+        "label": "LDC:A018",
+        "value": "任务目标 - 护送天权前往通讯中心，把加密信息传出。",
+        "translated": "Mission Objective - Escort Tianquan to the communication center to send out encrypted information."
+    },
+    {
+        "label": "LDC:A019",
+        "value": "「天权： “我……赶到了第一座基地。这里已经化为一片废墟。”」",
+        "translated": "Tianquan: \"I... arrived at the first base. This place has been reduced to rubbles.\""
+    },
+    {
+        "label": "LDC:A020",
+        "value": "「清芷： “真是糟糕的状况……快检查一下有没有什么线索吧。”」",
+        "translated": "Qingzhi: \"It's such a bad day... Let's look for clues.\""
+    },
+    {
+        "label": "LDC:A021",
+        "value": "「天权： “这里情况似乎也不妙。”」",
+        "translated": "Tianquan: \"The situation here doesn't seem to be good either.\""
+    },
+    {
+        "label": "LDC:A023",
+        "value": "「天权： “该死……都被摧毁了吗？”」",
+        "translated": "Tianquan: \"Damn it...were they all destroyed?\""
+    },
+    {
+        "label": "LDC:A024",
+        "value": "「天权： “弟弟！弟弟！！我最好的弟弟天枢！！！”」",
+        "translated": "Tianquan: \"Brother! younger brother!! My best brother Tianshu!!!\""
+    },
+    {
+        "label": "LDC:A025",
+        "value": "「天权： “这里究竟发生了什么！！回答我！！！”」",
+        "translated": "Tianquan: \"What on earth happened here!! Answer me!!!\""
+    },
+    {
+        "label": "LDC:A026",
+        "value": "「清芷： “节哀……虽然有些冒犯，但我想你最好翻一翻他身上还有什么随身物品。”」",
+        "translated": "Qingzhi: \"My condolence...Although it's a little offensive, I think you'd better search his belongings.\""
+    },
+    {
+        "label": "LDC:A027",
+        "value": "「清芷： “你的弟弟曾经也是我们国家最好的特工，我相信他会留下一些线索。”」",
+        "translated": "Qingzhi: \"Your brother was once our best agent. I believe he will leave some clues.\""
+    },
+    {
+        "label": "LDC:A028",
+        "value": "「天权： “……”」",
+        "translated": "Tianquan: \"...\""
+    },
+    {
+        "label": "LDC:A029",
+        "value": "「天权： “他的衣服内侧有一块亮闪闪的东西，似乎是被封装好的芯片。”」",
+        "translated": "Tianquan: \"There is a shiny thing on the inside of his clothes, which seems to be a packaged chip.\""
+    },
+    {
+        "label": "LDC:A030",
+        "value": "「清芷： “既然是芯片，我们得想办法读出其中的数据。”」",
+        "translated": "Qingzhi: \"We have to find a way to read the data in it.\""
+    },
+    {
+        "label": "LDC:A031",
+        "value": "「清芷： “请把芯片带到最近的通讯中心，从那里把芯片中的数据传回指挥部。”」",
+        "translated": "Qingzhi: \"Please take the chip to the nearest communication center, and transmit the data to the command center.\""
+    },
+    {
+        "label": "LDC:A032",
+        "value": "丧失关键单位 - 天权阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Tianquan is killed, mission fails."
+    },
+    {
+        "label": "CRD:LDmifenglangniu",
+        "value": "蜜蜂狼牛",
+        "translated": "TODO"
+    },
+    {
+        "label": "LDC:A033",
+        "value": "「天权： “这里似乎发生过战斗，但好像是有谁从这里撤退了一样，一干二净。”」",
+        "translated": "Tianquan: \"There seems to be a battle here, but someone retreated from here, nothing left.\""
+    },
+    {
+        "label": "LDC:A034",
+        "value": "「天权： “这样就行了吧？”」",
+        "translated": "Tianquan: \"Is this okay?\""
+    },
+    {
+        "label": "LDC:A035",
+        "value": "「清芷： “好的。加密数据已经回传，我们情报部门会尽快解读。”」",
+        "translated": "Qingzhi: \"Okay. The encrypted data has been sent back. Our intelligence unit will work on it ASAP.\""
+    },
+    {
+        "label": "LDY:F032",
+        "value": "任务目标 - 摧毁北部的铁幕装置和核子反应堆。",
+        "translated": "Mission Objective - Destroy the Iron Curtain on the north and the nuclear reactor."
+    },
+    {
+        "label": "LDC:ZEmpty",
+        "value": "",
+        "translated": ""
+    },
+    {
+        "label": "LDC:A036",
+        "value": "提示 - 天权对于快速移动的坦克无能为力。寻找别的办法，或者避开他们。",
+        "translated": "Hint - Tianquan is useless against fast moving tanks. Find another way, or avoid them."
+    },
+    {
+        "label": "LDC:B002",
+        "value": "我们绝对无法容忍苏联人在哈尔滨采取的军事行动，首长。",
+        "translated": "We cannot tolerate the military operations taken by the Soviets in Harbin, Commander."
+    },
+    {
+        "label": "LDC:B003",
+        "value": "为了先发制人，中央已经下达指示，对此处的苏联远东舰队进行突袭。",
+        "translated": "To take a preemptive action, the high command has issued order to assult on the Soviet Far East Fleet here."
+    },
+    {
+        "label": "LDC:B004",
+        "value": "安磊将军将会负责指挥海军封锁港口，而您负责指挥登陆部队进攻。",
+        "translated": "General Anlei will be responsible for blocking the port with navy. You will be responsible for commanding the landing troops."
+    },
+    {
+        "label": "LDC:B005",
+        "value": "任务目标 - 突袭符拉迪沃斯托克的苏联基地。",
+        "translated": "Mission Objective - Raid the Soviet base in Vladivostok."
+    },
+    {
+        "label": "LDC:B006",
+        "value": "「基洛夫空艇： “谋划战术的阶段已经过去，让我们开始杀戮吧。”」",
+        "translated": "\"Kirov airship: \"The planning is over, let's start killing.\""
+    },
+    {
+        "label": "LDC:B007",
+        "value": "提示 - 摧毁此处的两座雷达，然后我们会派出登陆部队。",
+        "translated": "Hint - Destroy the two radars here and we'll send in a landing force."
+    },
+    {
+        "label": "LDC:B008",
+        "value": "登陆点威胁解除，登陆部队即将抵达。",
+        "translated": "The threat to the landing site has been eliminated. The landing troops is about to arrive."
+    },
+    {
+        "label": "LDC:B009",
+        "value": "「林德拉克： “这是怎么回事？停火！停火！！我们是朋友！！！”」",
+        "translated": "Rynderack: \"What's going on? Ceasefire! Ceasefire!! We are friends!!!\""
+    },
+    {
+        "label": "LDC:B010",
+        "value": "「……」",
+        "translated": "\"...\""
+    },
+    {
+        "label": "LDC:B011",
+        "value": "「林德拉克： “该死，完全没有回应！这些中国人是疯了吗！”」",
+        "translated": "Rynderack: \"Damn, no response at all! Are these Chinese crazy?\""
+    },
+    {
+        "label": "LDC:B012",
+        "value": "提示 - 摧毁这两座雷达，我们会派出更多登陆部队。",
+        "translated": "Hint - Destroy these two radars. We'll send in more landing troops."
+    },
+    {
+        "label": "LDC:B013",
+        "value": "登陆点威胁解除，第二批登陆部队也即将抵达。",
+        "translated": "The threat to the landing site has been eliminated. The second batch of landing troops is about to arrive."
+    },
+    {
+        "label": "LDC:B014",
+        "value": "集结你的部队，准备继续进攻。",
+        "translated": "Gather your troops and prepare to continue the attack."
+    },
+    {
+        "label": "LDC:B015",
+        "value": "「安磊： “那座铁幕装置可能有些麻烦。”」",
+        "translated": "Anlei: \"That Iron Curtain device may be a bit troublesome.\""
+    },
+    {
+        "label": "LDC:B016",
+        "value": "「安磊： “得拜托你先去摧毁它，我们的舰队才能继续攻入港口。”」",
+        "translated": "Anlei: \"You have to destroy it first, so that our fleet can continue to attack the port.\""
+    },
+    {
+        "label": "LDC:B017",
+        "value": "提示 - 摧毁铁幕装置，瓦解苏联的防御。",
+        "translated": "Hint - Destroy the Iron Curtain device to collapse the Soviet defenses."
+    },
+    {
+        "label": "LDC:B018",
+        "value": "已确认铁幕装置被摧毁。",
+        "translated": "The Iron Curtain device has been destroyed."
+    },
+    {
+        "label": "LDC:B019",
+        "value": "「林德拉克： “你们他妈的都疯了吗！尤里大敌当前，我们居然还在这里自相残杀！”」",
+        "translated": "Rynderack: \"Are you all f**king crazy! Yuri is HERE, but we are still here killing each other!\""
+    },
+    {
+        "label": "LDC:B020",
+        "value": "警告 - 检测到巨大的不明能量！",
+        "translated": "Warning - Massive power surge detected!"
+    },
+    {
+        "label": "LDC:B021",
+        "value": "「林德拉克： “完了，太晚了……”」",
+        "translated": "Rynderack: \"It's over, it's too late...\""
+    },
+    {
+        "label": "LDC:B022",
+        "value": "「清芷： “我这里刚刚接入线路。安磊？能听得到吗？”」",
+        "translated": "Qingzhi: \"I just joined the frequency. Anlei? Do you copy?\""
+    },
+    {
+        "label": "LDC:B023",
+        "value": "「……」",
+        "translated": "\"...\""
+    },
+    {
+        "label": "LDC:B024",
+        "value": "「清芷： “安磊？安磊？？”」",
+        "translated": "Qingzhi: \"Anlei? Anlei? ?\""
+    },
+    {
+        "label": "LDC:B025",
+        "value": "「清芷： “发生了什么？有人解释一下吗？”」",
+        "translated": "Qingzhi: \"What happened? Can someone explain?\""
+    },
+    {
+        "label": "LDC:B026",
+        "value": "「林德拉克： “虽然刚才你们一直以为我是敌人，但现在请你们相信我。”」",
+        "translated": "Rynderack: \"Although you have always thought that I was your enemy, please trust me now.\""
+    },
+    {
+        "label": "LDC:B027",
+        "value": "「清芷： “等一下，你是……林德拉克？还真是难以相信呢……”」",
+        "translated": "Qingzhi: \"Wait, are you... Rynderack? It's really hard to believe...\""
+    },
+    {
+        "label": "LDC:B028",
+        "value": "「林德拉克： “……不论你是否相信，现在我都只能为你们而战了。”」",
+        "translated": "Rynderack: \"...Whether you believe it or not, now I can only fight for you.\""
+    },
+    {
+        "label": "LDC:B029",
+        "value": "「林德拉克： “请带我去符拉迪沃斯托克机场。我们必须快点离开这个地方。”」",
+        "translated": "Rynderack: \"Please take me to Vladivostok Airport. We must leave this place quickly.\""
+    },
+    {
+        "label": "LDC:B030",
+        "value": "任务目标 - 护送林德拉克前往机场。",
+        "translated": "Mission Objective - Escort Rynderack to the airport."
+    },
+    {
+        "label": "LDC:B031",
+        "value": "提示 - 林德拉克的装甲已经装备了核生化防护层，不再受辐射或者毒雾的影响。",
+        "translated": "Hint - Rynderack has been equipped with nuclear battlesuit. He will not be affected by radiation or poisonous mist."
+    },
+    {
+        "label": "LDC:B032",
+        "value": "「清芷： “林德拉克，我记得我们的特工天枢和你有过联系……”」",
+        "translated": "Qingzhi: \"Rynderack, I remember that our agent Tianshu had contact with you...\""
+    },
+    {
+        "label": "LDC:B033",
+        "value": "「林德拉克： “是的。如果让他为你说明一下情况，那是最好的了。”」",
+        "translated": "Rynderack: \"Yes. It would be best if you let him explain the situation to you.\""
+    },
+    {
+        "label": "LDC:B034",
+        "value": "「清芷： “唉……可惜不会再有机会了吧。”」",
+        "translated": "Qingzhi: \"Oh...it's a pity that I won't have another chance.\""
+    },
+    {
+        "label": "LDC:B035",
+        "value": "「清芷： “你的下一步计划如何？”」",
+        "translated": "Qingzhi: \"What's your next plan?\""
+    },
+    {
+        "label": "LDC:B036",
+        "value": "「林德拉克： “我会从这里乘坐直升机前往澳门。那里有需要我的战斗。”」",
+        "translated": "Rynderack: \"I'll take a helicopter from here to Macau. There are battle out there that need me.\""
+    },
+    {
+        "label": "LDC:B037",
+        "value": "丧失关键部队 - 林德拉克阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Rynderack is killed, mission failed."
+    },
+    {
+        "label": "LDC:B038",
+        "value": "突击小队全灭，任务失败。",
+        "translated": "The assault team was wiped out, mission failed."
+    },
+    {
+        "label": "LDC:B039",
+        "value": "「林德拉克： “待会在飞往澳门的航程中，我会把我所知道的一切向你说明。”」",
+        "translated": "Rynderack: \"I will explain everything to you later on the flight to Macau.\""
+    },
+    {
+        "label": "LDC:C017",
+        "value": "提示 - 天子仁将军的部队正在进攻湾仔的心灵信标。",
+        "translated": "Hint - General Tianziren's troops are attacking the Psychic Beacon in Wan Chai."
+    },
+    {
+        "label": "LDC:C018",
+        "value": "「天子仁： “拿出干劲来，年轻人！”」",
+        "translated": "Tianziren: \"Show up your energy, young man!\""
+    },
+    {
+        "label": "LDC:C019",
+        "value": "「天子仁： “听说如果不把这些玩意都及时摧毁的话，我们可就全都完蛋了，对吧？”」",
+        "translated": "Tianziren: \"If these things are not destroyed in time, we are all doomed, right?\""
+    },
+    {
+        "label": "LDC:C020",
+        "value": "「天子仁： “不过不必太过紧张。我会出动空军帮助你分担一部分压力。”」",
+        "translated": "Tianziren: \"But don't be too nervous. I will help you out with air support.\""
+    },
+    {
+        "label": "LDC:C021",
+        "value": "提示 - 摧毁了一座心灵信标。过载预估时间延后8分钟。",
+        "translated": "Hint - For each Psychic Beacon destroyed, the overload time will extend by 8 minutes."
+    },
+    {
+        "label": "LDC:C022",
+        "value": "所有心灵信标都已经被摧毁。",
+        "translated": "All psychic beacons have been destroyed."
+    },
+    {
+        "label": "LDC:C023",
+        "value": "提示 - 没被心灵控制的澳门守备部队正在氹仔重新集结。他们由你来指挥。",
+        "translated": "Hint - The Macau garrison troops that was not mind-controlled is regrouping in Taipa. They are under your command"
+    },
+    {
+        "label": "LDC:B040",
+        "value": "提示 - 安磊将军的潜艇部队已经到达。",
+        "translated": "Hint - General Anlei's submarine fleet has arrived."
+    },
+    {
+        "label": "LDC:B041",
+        "value": "「安磊： “水路交给我，你只需要专心攻击敌人的陆地防御即可。”」",
+        "translated": "Anlei: \"Leave the waterway to me, you only need to focus on attacking the enemy's land defenses.\""
+    },
+    {
+        "label": "LDC:B042",
+        "value": "「安磊： “我的舰队主力已经到达。”」",
+        "translated": "Anlei: \"My main fleet has arrived.\""
+    },
+    {
+        "label": "LDC:B043",
+        "value": "「安磊： “同志，你这是杀红眼了吗！你他娘的打的是友军！！”」",
+        "translated": "Anlei: \"Comrades, are you crazy! You're f**king fighting friendly forces!!\""
+    },
+    {
+        "label": "LDC:D017",
+        "value": "一座快中子注入装置已经被引爆。",
+        "translated": "A fast neutron reactor has been detonated."
+    },
+    {
+        "label": "LDC:D018",
+        "value": "丧失关键目标 - 尤里占领了一座快中子注入装置，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - Yuri captures a fast neutron reactor, mission failed."
+    },
+    {
+        "label": "LDC:D019",
+        "value": "丧失关键目标 - 在转化足够量的钚之前损失了全部快中子注入装置，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - All fast neutron reactors were lost before enough plutonium could be produced, mission failed."
+    },
+    {
+        "label": "LDC:D020",
+        "value": "「清芷： “绵阳最后的精英守备部队已经抵达，连同一辆基地车。”」",
+        "translated": "Qingzhi: \"Mianyang's last elite garrison has arrived, along with a MCV.\""
+    },
+    {
+        "label": "LDC:D021",
+        "value": "「清芷： “从此以后你只能孤军奋战，不再会有支援了。”」",
+        "translated": "Qingzhi: \"From now on you will fight alone, there will no longer be support.\""
+    },
+    {
+        "label": "LDC:B044",
+        "value": "「林德拉克： “我想我们应该避开防守严密的港口和基地。”」",
+        "translated": "Rynderack: \"I think we should avoid the heavily defended ports and bases.\""
+    },
+    {
+        "label": "LDC:D022",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余11）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 11 remaining)."
+    },
+    {
+        "label": "LDC:D023",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余10）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 10 remaining)."
+    },
+    {
+        "label": "LDC:D024",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余9）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 9 remaining)."
+    },
+    {
+        "label": "LDC:D025",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余8）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 8 remaining)."
+    },
+    {
+        "label": "LDC:D026",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余7）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 7 remaining)."
+    },
+    {
+        "label": "LDC:D027",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余6）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 6 remaining)."
+    },
+    {
+        "label": "LDC:D028",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余5）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 5 remaining)."
+    },
+    {
+        "label": "LDC:D029",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余4）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 4 remaining)."
+    },
+    {
+        "label": "LDC:D030",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余3）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 3 remaining)."
+    },
+    {
+        "label": "LDC:D031",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余2）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 2 remaining)."
+    },
+    {
+        "label": "LDC:D032",
+        "value": "任务目标 - 保护至少一座快中子注入装置，直到转化足够量的钚（当前剩余1）。",
+        "translated": "Mission Objective - Protect at least one fast neutron reactor until enough plutonium is produced (currently 1 remaining)."
+    },
+    {
+        "label": "LDC:D033",
+        "value": "「清芷： “注意，尤里正在试图派遣工程师占领一座快中子注入装置！”」",
+        "translated": "Qingzhi: \"Attention, Yuri is trying to capture a fast neutron reactor with engineers!\""
+    },
+    {
+        "label": "LDC:D034",
+        "value": "「天子仁： “所有还在前线奋勇杀敌的同志们！我还有些话想要讲。”」",
+        "translated": "Tianziren: \"All comrades who are still fighting on the front line! I have something to say.\""
+    },
+    {
+        "label": "LDC:D035",
+        "value": "「天子仁： “这应该是我最后的一次讲话了。希望大家认真听完。”」",
+        "translated": "Tianziren: \"This could be my last speech. I hope you all listen carefully to the end.\""
+    },
+    {
+        "label": "LDC:D036",
+        "value": "「天子仁： “一颗两百万吨TNT当量的核弹头已经在引爆区准备完毕。”」",
+        "translated": "Tianziren: \"A nuclear warhead with an equivalent of 2 mega-ton of TNT has been prepared in the detonation zone.\""
+    },
+    {
+        "label": "LDC:D037",
+        "value": "「天子仁： “我们会引爆这颗弹头，与包围我们的、数十倍于我们的敌人同归于尽。”」",
+        "translated": "Tianziren: \"We will detonate this warhead and die together with the enemies that surround us.\""
+    },
+    {
+        "label": "LDC:D038",
+        "value": "「天子仁： “在这场战争面前，我们付出了巨大的代价。我的儿子，天枢，也包含在内。”」",
+        "translated": "Tianziren: \"In the face of this war, we paid a huge price. My son, Tianshu, included.\""
+    },
+    {
+        "label": "LDC:D039",
+        "value": "「天子仁： “虽然得知消息时悲痛万分，但我早已有了付出更大代价的觉悟。”」",
+        "translated": "Tianziren: \"I was deeply saddened when I heard the news, but I have already realized that I may have to pay a greater price.\""
+    },
+    {
+        "label": "LDC:D040",
+        "value": "「天子仁： “因为，我们会用生命向我们的敌人们证明——”」",
+        "translated": "Tianziren: \"Because, we will prove to our enemies, with our lives——\""
+    },
+    {
+        "label": "LDC:D041",
+        "value": "「天子仁： “——这是一片永远也无法被征服的土地。”」",
+        "translated": "Tianziren: \"——This is a land that can never be conquered.\""
+    },
+    {
+        "label": "LDC:C024",
+        "value": "「清芷： “首长，我不觉得往我们自己的国土上发射核弹是一件明智之举。”」",
+        "translated": "Qingzhi: \"Commander, I don't think it is a wise move to use nukes on our own land.\""
+    },
+    {
+        "label": "LDC:C025",
+        "value": "「清芷： “但如果情况危急到必须要这么做，那就不要在意了。”」",
+        "translated": "Qingzhi: \"But if the situation is critical, then don't worry about it.\""
+    },
+    {
+        "label": "LDC:C026",
+        "value": "心灵信标已被摧毁。我们重新获得了对基地的控制权。",
+        "translated": "The psychic beacon has been destroyed. We regained control of the base."
+    },
+    {
+        "label": "LDC:C027",
+        "value": "心灵信标过载预估时间",
+        "translated": "Psychic Beacon Overload Estimated Time"
+    },
+    {
+        "label": "LDC:C028",
+        "value": "心灵信标过载成功，任务失败。",
+        "translated": "The psychic beacon overload was successful, mission failed."
+    },
+    {
+        "label": "LDC:C029",
+        "value": "全民动员状态开启，我们已经可以通过征召民兵来加快步兵训练速度。",
+        "translated": "With the national mobilization, we can speed up infantry training by recruiting militia."
+    },
+    {
+        "label": "LDC:C030",
+        "value": "「征召中心」会提升训练步兵的价格，但是可以使我们一次训练多名步兵。",
+        "translated": "\"Recruitment Center\" will increase the cost of training infantry, but also allow us to train multiple infantry units at once."
+    },
+    {
+        "label": "LDC:C031",
+        "value": "提示 - 在海关附近集结的珠江守备舰队已经脱离心灵控制，供您差遣。",
+        "translated": "Hint - The Pearl River fleet near the customs has been released from mind control."
+    },
+    {
+        "label": "LDC:DE002",
+        "value": "「清芷： “我们已经成功解码了天枢身上的芯片内的信息。”」",
+        "translated": "Qingzhi: \"We have successfully decoded the information on Tianshu's chip.\""
+    },
+    {
+        "label": "LDC:DE003",
+        "value": "「清芷： “首长，请重温他留下的这段行动记录，我想这能解答我们很多疑惑。”」",
+        "translated": "Qingzhi: \"Commander, please review this operation record he left. I think this can answer many of our questions.\""
+    },
+    {
+        "label": "LDC:DE004",
+        "value": "正在加载行动记录，请稍候……",
+        "translated": "Loading operation records, please wait..."
+    },
+    {
+        "label": "LDC:DE005",
+        "value": "1989年2月22日。",
+        "translated": "February 22, 1989."
+    },
+    {
+        "label": "LDC:DE006",
+        "value": "中国，兰州。",
+        "translated": "Lanzhou, China."
+    },
+    {
+        "label": "LDC:DE007",
+        "value": "「天枢： “如果我的情报没有错，在兰州也有一座购买来的心灵信标。”」",
+        "translated": "Tianshu: \"If my intel is correct, there is also a purchased psychic beacon in Lanzhou.\""
+    },
+    {
+        "label": "LDC:DE008",
+        "value": "「天枢： “比起草率的摧毁它，我觉得骇入它并获得情报是更加有价值的。”」",
+        "translated": "Tianshu: \"Rather than destroying it, I think it is more valuable to hack it to obtain intelligence.\""
+    },
+    {
+        "label": "LDC:DE009",
+        "value": "「天枢： “尤里为什么会把心灵信标卖给我们？而我们又为什么要买它？”」",
+        "translated": "Tianshu: \"Why did Yuri sell the psychic beacon to us? And why should we buy it?\""
+    },
+    {
+        "label": "LDC:DE010",
+        "value": "「天枢： “我实在搞不懂这又是什么奇怪的交易了。还是亲自去调查一下吧。对吧，毛毛？”」",
+        "translated": "Tianshu: \"I just don't get it. It's better to investigate it ourselves. Right, Maomao?\""
+    },
+    {
+        "label": "LDC:DE011",
+        "value": "任务目标A - 骇入雷达站A。",
+        "translated": "Mission Objective A - Hack Radar Station A."
+    },
+    {
+        "label": "LDC:DE012",
+        "value": "任务目标B - 骇入雷达站B。",
+        "translated": "Mission Objective B - Hack Radar Station B."
+    },
+    {
+        "label": "LDC:DE013",
+        "value": "任务目标 - 骇入心灵信标。",
+        "translated": "Mission Objective - Hack the Psychic Beacon."
+    },
+    {
+        "label": "LDC:DE014",
+        "value": "任务目标 - 让天枢安全到达撤离点。",
+        "translated": "Mission Objective - Let Tianshu reach the extraction point safely."
+    },
+    {
+        "label": "LDC:DE015",
+        "value": "「天枢： “我可以绕开门口的守卫，靠近并骇入那座哨戒炮，使它为我所用。”」",
+        "translated": "Tianshu: \"I can bypass the guard at the door, get close to, and hack into the sentry gun.\""
+    },
+    {
+        "label": "LDC:DE016",
+        "value": "「天枢： “该死……他们正在启动网络安全系统来检测黑客入侵。”」",
+        "translated": "Tianshu: \"Damn... They are activating the security system to detect hacking.\""
+    },
+    {
+        "label": "LDC:DE017",
+        "value": "「天枢： “安全系统会定时对所有建筑物进行自检，一旦被扫描到，我就暴露了。”」",
+        "translated": "Tianshu: \"The security system will scan all buildings periodically. Once detected, I will be exposed.\""
+    },
+    {
+        "label": "LDC:DE018",
+        "value": "「天枢： “我得在下一次系统检查前，处理掉所有被骇入的建筑物，以免被发现。”」",
+        "translated": "Tianshu: \"I have to sell (or destroy) all the hacked buildings before the next system scan to avoid exposure.\""
+    },
+    {
+        "label": "LDC:DE019",
+        "value": "下一次安全系统自检扫描",
+        "translated": "Next security system scan"
+    },
+    {
+        "label": "LDC:DE020",
+        "value": "注意 - 安全系统自检扫描还有30秒！",
+        "translated": "Note - The security system scan will initiate in 30 seconds!"
+    },
+    {
+        "label": "LDC:DE021",
+        "value": "安全系统自检完毕，没有发现黑客程序。",
+        "translated": "The security system scan was completed. No hacker program was found."
+    },
+    {
+        "label": "LDC:DE022",
+        "value": "警告 - 安全系统自检发现黑客程序！",
+        "translated": "Warning - Security system finds a hacker program!"
+    },
+    {
+        "label": "LDC:DE023",
+        "value": "警告 - 黑客程序已经隔离，正在追溯来源……",
+        "translated": "Warning - The hacker program has been isolated. Tracing source..."
+    },
+    {
+        "label": "LDC:DE024",
+        "value": "「天枢： “我的渗透行动已经暴露了。他们应该很快会来追杀我。”」",
+        "translated": "Tianshu: \"I am exposed. They will coming after me soon.\""
+    },
+    {
+        "label": "Name:MAOMAO",
+        "value": "毛毛",
+        "translated": "MaoMao"
+    },
+    {
+        "label": "Name:NAPCIS",
+        "value": "心灵探测器",
+        "translated": "Psychic Sensor"
+    },
+    {
+        "label": "Name:PARARDLK",
+        "value": "部署林德拉克",
+        "translated": "Deploy Rynderack"
+    },
+    {
+        "label": "LDC:C032",
+        "value": "已成功肃清尤里在澳门的主要部队。",
+        "translated": "Yuri's forces in Macau have been successfully eliminated."
+    },
+    {
+        "label": "LDC:C033",
+        "value": "我们失去了全部的部队，任务失败。",
+        "translated": "We lost all our troops, mission failed."
+    },
+    {
+        "label": "LDC:C034",
+        "value": "「清芷： “干的漂亮。接下来我们要把尤里彻底赶出澳门。”」",
+        "translated": "Qingzhi: \"Great job. Next we have to kick Yuri out of Macau.\""
+    },
+    {
+        "label": "LDC:C035",
+        "value": "任务目标 - 消灭澳门的全部尤里势力。",
+        "translated": "Mission Objective - Eliminate all Yuri forces in Macau."
+    },
+    {
+        "label": "LDC:C036",
+        "value": "「清芷： “我们可以训练更多的心灵部队来对付尤里，以其人之道还治其人之身。”」",
+        "translated": "Qingzhi: \"We can train more psychic troops to deal with Yuri.\""
+    },
+    {
+        "label": "LDC:A037",
+        "value": "「清芷： “什么，你让后勤发射了那么多巡航导弹，就为了炸一座电话亭？”」",
+        "translated": "Qingzhi: \"What, you asked for cruise missiles just to blow up a phone booth?\""
+    },
+    {
+        "label": "LDC:A038",
+        "value": "「天权： “……嘛，我就是想试试看嘛……”」",
+        "translated": "Tianquan: \"...Well, I just want to give it a try...\""
+    },
+    {
+        "label": "LDC:G002",
+        "value": "「尤里： “快结束了，就快要结束了！”」",
+        "translated": "Yuri: \"It's almost over, it's almost over!\""
+    },
+    {
+        "label": "LDC:G003",
+        "value": "「尤里： “在你们浪费时间的时候，命运之瞳已经得到了充分的升级，现在它已经无人可挡。”」",
+        "translated": "Yuri: \"While you were wasting time, the Eye of Fate has been fully upgraded, and now it is unstoppable.\""
+    },
+    {
+        "label": "LDC:G004",
+        "value": "「尤里： “你们会发起徒劳无功的进攻，然后殒命于此。这是我的预言。”」",
+        "translated": "Yuri: \"You will launch a futile attack and die here. This is my prediction.\""
+    },
+    {
+        "label": "LDC:G005",
+        "value": "「清芷： “请稍候，巡航导弹正在锁定目标，准备清理登陆区域。”」",
+        "translated": "Qingzhi: \"Please stand by, cruise missiles are locking on the target, preparing to clear the landing area.\""
+    },
+    {
+        "label": "LDC:G006",
+        "value": "我们的登陆部队已经到达。",
+        "translated": "Our landing force has arrived."
+    },
+    {
+        "label": "LDC:G007",
+        "value": "「天权： “来吧，战斗要开始了！”」",
+        "translated": "Tianquan: \"Come on, the battle is about to begin!\""
+    },
+    {
+        "label": "LDC:G008",
+        "value": "天权的载具无法使用了。在战车工厂中可以重新生产他的载具。",
+        "translated": "Tianquan's vehicle is beyond repair. It can be rebuild in the War Factory."
+    },
+    {
+        "label": "LDC:G009",
+        "value": "林德拉克已经做好通过空降进入战场的准备了。",
+        "translated": "Rynderack was ready to enter the battlefield via airborne."
+    },
+    {
+        "label": "LDC:G010",
+        "value": "「林德拉克： “就是这样，伙计！我会马上空降到你需要的地方去。”」",
+        "translated": "Rynderack: \"That's it! I'll land right where you need me.\""
+    },
+    {
+        "label": "LDC:G011",
+        "value": "林德拉克受了伤。我们会送他去治疗。稍后他就可以返回前线。",
+        "translated": "Rynderack was injured. We will treat him. He will return to the frontline later."
+    },
+    {
+        "label": "LDC:G012",
+        "value": "「清芷： “传感器显示，命运之瞳周围聚集着极高的心灵能量。”」",
+        "translated": "Qingzhi: \"Sensors show that extremely high psychic energy gathered around the Eye of Fate.\""
+    },
+    {
+        "label": "LDC:G013",
+        "value": "「清芷： “我不清楚这座装置的具体作用，但总之，很危险……”」",
+        "translated": "Qingzhi: \"I don't know the purpose of this device, but it is very dangerous...\""
+    },
+    {
+        "label": "LDC:G014",
+        "value": "「天权： “管它什么作用……反正尤里在里面待着，把它炸了就完事了！”」",
+        "translated": "Tianquan: \"Whatever its purpose... Yuri is staying inside anyway, just blow it up and that's it!\""
+    },
+    {
+        "label": "LDC:G015",
+        "value": "任务目标 - 摧毁命运之瞳。",
+        "translated": "Mission Objective - Destroy the Eye of Fate."
+    },
+    {
+        "label": "Name:UAV",
+        "value": "无人机侦查",
+        "translated": "Drone Reconnaissance"
+    },
+    {
+        "label": "LDC:C037",
+        "value": "「尤里： “哦，你们就把希望寄托在那可悲的原子武器上面？”」",
+        "translated": "Yuri: \"Oh, you just place hope on that pathetic nuclear weapon?\""
+    },
+    {
+        "label": "LDC:C038",
+        "value": "「尤里： “真是可笑。我会让你们见识一下心灵的力量究竟有多么强大。”」",
+        "translated": "Yuri: \"That's ridiculous. I will show you how powerful the mind really is.\""
+    },
+    {
+        "label": "LDC:C039",
+        "value": "「清芷： “该死，尤里似乎加强了心灵信标之间的数据传输备份。”」",
+        "translated": "Qingzhi: \"Damn it, Yuri seems to have strengthened the data transmission backups between psychic beacons.\""
+    },
+    {
+        "label": "LDC:C040",
+        "value": "「清芷： “我们破坏每座心灵信标能争取的时间，可能会低于之前的估计。”」",
+        "translated": "Qingzhi: \"The time we can buy by destroying each psychic beacon may be lower than previously estimated.\""
+    },
+    {
+        "label": "LDC:C041",
+        "value": "提示 - 摧毁了一座心灵信标。过载预估时间延后6分钟。",
+        "translated": "Hint - Destroy a Psychic Beacon to extend the overload time by 6 minutes."
+    },
+    {
+        "label": "LDC:D042",
+        "value": "已经转化了足够当量的钚-239。",
+        "translated": "A sufficient amount of plutonium-239 has been produced."
+    },
+    {
+        "label": "LDC:D043",
+        "value": "「天子仁： “全体注意！销毁所有快中子注入装置！！准备引爆！！！”」",
+        "translated": "Tianziren: \"All attention! Destroy all fast neutron reactor! Fire in the hole!\""
+    },
+    {
+        "label": "LDC:DE025",
+        "value": "「天枢： “首先，我得想办法混过桥头那座前哨站。”」",
+        "translated": "Tianshu: \"First, I have to find a way to get past the outpost at the bridge.\""
+    },
+    {
+        "label": "LDC:DE026",
+        "value": "「天枢： “这里就是黄河吗……之前都是只能从视频资料里看到。”」",
+        "translated": "Tianshu: \"Is this the Yellow River... I only saw it from videos before.\""
+    },
+    {
+        "label": "LDC:DE027",
+        "value": "「天枢： “糟糕，我的骇入只能改变建筑物内部的程序，没法应付里面的守卫。”」",
+        "translated": "Tianshu: \"Oops, I can only hack the programs inside buildings, but I can't deal with the garrison.\""
+    },
+    {
+        "label": "LDC:DE028",
+        "value": "「天枢： “毛毛，看你的了！”」",
+        "translated": "Tianshu: \"Maomao, it's your turn!\""
+    },
+    {
+        "label": "LDC:DE029",
+        "value": "「天枢： “等这一仗打完了，我一定会回来好好转转。”」",
+        "translated": "Tianshu: \"When this battle is over, I will definitely come back and have a good time.\""
+    },
+    {
+        "label": "LDC:DE030",
+        "value": "「天枢： “我得利用我的静滞射线武器，分散、勾引桥上的巡逻部队，并逐一击破。”」",
+        "translated": "Tianshu: \"I have to use my immobilization ray to defeat patrols on the bridge one by one. \"\""
+    },
+    {
+        "label": "LDC:DE031",
+        "value": "「天枢： “我的探测无人机已经准备好。它能帮助我获得更宽阔的视野。”」",
+        "translated": "Tianshu: \"My reconnaissance drone is ready. It helps me gain a broader perspective.\""
+    },
+    {
+        "label": "LDC:DE032",
+        "value": "「天枢： “我需要先从这两座雷达站中获取情报，找到心灵信标的位置。”」",
+        "translated": "Tianshu: \"I need intels from these two radar towers to locate the psychic beacon.\""
+    },
+    {
+        "label": "LDC:DE033",
+        "value": "已成功骇入一座雷达站。",
+        "translated": "A radar tower has been successfully hacked."
+    },
+    {
+        "label": "LDC:DE034",
+        "value": "丧失关键部队 - 天枢阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Tianshu was killed, mission failed."
+    },
+    {
+        "label": "LDC:DE035",
+        "value": "毛毛倒下了。",
+        "translated": "Maomao has fallen."
+    },
+    {
+        "label": "LDC:DE036",
+        "value": "安全系统自检中……",
+        "translated": "Security system scanning..."
+    },
+    {
+        "label": "Name:OIP",
+        "value": "数据中心",
+        "translated": "Datacenter"
+    },
+    {
+        "label": "LDC:DE037",
+        "value": "「天枢： “得到了位置的一个坐标。我还得骇入另一座雷达来找到另一个坐标。”」",
+        "translated": "Tianshu: \"I got a coordinate. I still have to hack the other radar.\""
+    },
+    {
+        "label": "LDC:DE038",
+        "value": "「天枢： “为什么这里会有一座心灵探测器？心灵探测器的技术也被购买了吗？”」",
+        "translated": "Tianshu: \"Why is there a psychic radar here? Is this technology also purchased?\""
+    },
+    {
+        "label": "LDC:DE039",
+        "value": "已成功骇入心灵信标。",
+        "translated": "The psychic beacon has been successfully hacked."
+    },
+    {
+        "label": "LDC:DE040",
+        "value": "「天枢： “这下成功了。我可要把事情的来龙去脉好好的理清楚。”」",
+        "translated": "Tianshu: \"Great. I want to figure out everything about the matter.\""
+    },
+    {
+        "label": "LDC:DE041",
+        "value": "情报解密中……",
+        "translated": "Decrypting intelligence..."
+    },
+    {
+        "label": "LDC:DE042",
+        "value": "「天枢： “‘红莲花计划’，我们和尤里高度机密的合作计划。”」",
+        "translated": "Tianshu: \"'Project Red Lotus', our secretive cooperation with Yuri.\""
+    },
+    {
+        "label": "LDC:DE043",
+        "value": "「天枢： “尤里一直欺骗我们说心灵信标是一种宣传工具，因此政府方面欣然同意合作，然而事实远非如此……”」",
+        "translated": "Tianshu: \"Yuri is deceiving us that the psychic beacon is a propaganda tool, but the truth is far from that...\""
+    },
+    {
+        "label": "LDC:DE044",
+        "value": "「天枢： “糟糕，我的行动似乎已经暴露了。我得赶快逃离这里。”」",
+        "translated": "Tianshu: \"Oops, this operation seem to be exposed. I need to get out of here quickly.\""
+    },
+    {
+        "label": "LDC:DE045",
+        "value": "「天枢： “我得前往这里的运输船旁边，通过水路撤离。”」",
+        "translated": "Tianshu: \"I have to go to the amphibious transport here and evacuate through water.\""
+    },
+    {
+        "label": "LDC:DE046",
+        "value": "「天枢： “必须将事情的真相尽快传达到军方高层。希望还来得及。”」",
+        "translated": "Tianshu: \"The truth must be passed to the military high commands ASAP. Hopefully it's not too late.\""
+    },
+    {
+        "label": "LDC:DE047",
+        "value": "「天枢： “兰州，有缘再会。”」",
+        "translated": "Tianshu: \"Lanzhou, see you later should the fate permit.\""
+    },
+    {
+        "label": "LDC:DE048",
+        "value": "「天枢： “心灵信标的位置已经确定。接下来我要骇入它获得更多的情报……”」",
+        "translated": "Tianshu: \"I got the location of the psychic beacon. Next, I will hack into it to get more intel...\""
+    },
+    {
+        "label": "LDC:DE049",
+        "value": "坐标已获取，正在分析地图信息……",
+        "translated": "Coordinates acquired. Analyzing the map information..."
+    },
+    {
+        "label": "LDC:DE050",
+        "value": "撤离运输艇",
+        "translated": "Evacuation Amphibious Transport"
+    },
+    {
+        "label": "LDC:DE051",
+        "value": "「天枢： “毛毛有着精湛的战斗技巧，应该不怕其他军犬的扑咬，甚至让它们望而却步。”」",
+        "translated": "Tianshu: \"Maomao has superb fighting skills. He should not fear other dogs, or even scare them away.\""
+    },
+    {
+        "label": "LDC:DE052",
+        "value": "「天枢： “敌人的追击部队正在赶来，我得赶紧逃跑了。剩下的资料以后慢慢看。”」",
+        "translated": "Tianshu: \"I have to leave now before the enemy caught up. I'll look at the rest of the documents later.\""
+    },
+    {
+        "label": "LDC:DE053",
+        "value": "丧失关键建筑 - 雷达在被骇入前被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - the radar was destroyed before being hacked, mission failed."
+    },
+    {
+        "label": "LDC:DE054",
+        "value": "丧失关键建筑 - 心灵信标在被骇入前被毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - the psychic beacon was destroyed before being hacked, mission failed."
+    },
+    {
+        "label": "LDC:D044",
+        "value": "「清芷： “注意！大批尤里部队正在从西边向我们的防线进攻！”」",
+        "translated": "Qingzhi: \"Attention! A large number of Yuri troops are attacking our defense line from the west!\""
+    },
+    {
+        "label": "LDC:D045",
+        "value": "「清芷： “注意！尤里部队正在以优势兵力，突破我们西北方向的防线！”」",
+        "translated": "Qingzhi: \"Attention! Yuri's troops are breaking through our defense at northwest!\""
+    },
+    {
+        "label": "LDC:D046",
+        "value": "「清芷： “这是科技机器商店。占领它，会使所有我方的装甲部队得到自动修理。”」",
+        "translated": "Qingzhi: \"This is machine shop. Capturing it will automatically repair all our armored units.\""
+    },
+    {
+        "label": "LDC:D047",
+        "value": "「天子仁： “什么？这么快就来了？”」",
+        "translated": "Tianziren: \"What? They are already here!?\""
+    },
+    {
+        "label": "LDC:D048",
+        "value": "「清芷： “注意，尤里在调集被心灵控制的部队，参与对绵阳的合围！”」",
+        "translated": "Qingzhi: \"Attention, Yuri is mobilizing mind-controlled troops in the siege of Mianyang!\""
+    },
+    {
+        "label": "LDC:E002",
+        "value": "「清芷： “先前在釜山的战斗中，我们已经成功夺取尤里‘最终意志’计划的一批设备。”」",
+        "translated": "Qingzhi: \"In the previous battle in Pusan, we have successfully captured some equipment for Yuri's plan - \"The Final Spirit\".\""
+    },
+    {
+        "label": "LDC:E003",
+        "value": "「清芷： “这些设备已经装船，但尤里一定会不惜一切代价阻止我们将设备运走的。”」",
+        "translated": "Qingzhi: \"These equipment have been loaded onto cargo ships. Yuri will attempt to stop us at all costs.\""
+    },
+    {
+        "label": "LDC:E004",
+        "value": "「清芷： “这边需要你的增援，天权。”」",
+        "translated": "Qingzhi: \"We need your reinforcements here, Tianquan.\""
+    },
+    {
+        "label": "LDC:E005",
+        "value": "「天权： “交给我吧，我会带领部队护送这些货轮安全的离开。”」",
+        "translated": "Tianquan: \"Leave it to me. I will escort these cargo ships to leave safely.\""
+    },
+    {
+        "label": "LDC:E006",
+        "value": "任务目标 - 护送至少一艘货轮到撤离点。",
+        "translated": "Mission Objective - Escort at least one cargo ship to the extraction point."
+    },
+    {
+        "label": "LDC:D049",
+        "value": "「天子仁： “该死……他们终于破解了我们导弹发射井的密码！”」",
+        "translated": "Tianziren: \"Damn... They cracked the code of our missile silo!\""
+    },
+    {
+        "label": "LDC:D050",
+        "value": "「天子仁： “他们正在使用所有被占领的导弹井向我们发射导弹！立刻准备防空力量！”」",
+        "translated": "Tianziren: \"They are firing missiles at us! Prepare air defense forces immediately!\""
+    },
+    {
+        "label": "LDY:DE021",
+        "value": "教徒，盟军的造船厂也在我们需要摧毁的目标之列。不要遗漏它们。",
+        "translated": "Proselytes, we also need to destroy the Allied shipyards. Don't miss them."
+    },
+    {
+        "label": "LDC:D051",
+        "value": "钚-239转化剩余进度（10x倍速）",
+        "translated": "Plutonium-239 production remaining progress (10x speed)"
+    },
+    {
+        "label": "LDC:D052",
+        "value": "钚-239转化剩余进度（9x倍速）",
+        "translated": "Plutonium-239 production remaining progress (9x speed)"
+    },
+    {
+        "label": "LDC:D053",
+        "value": "钚-239转化剩余进度（8x倍速）",
+        "translated": "Plutonium-239 production remaining progress (8x speed)"
+    },
+    {
+        "label": "LDC:D054",
+        "value": "钚-239转化剩余进度（7x倍速）",
+        "translated": "Plutonium-239 production remaining progress (7x speed)"
+    },
+    {
+        "label": "LDC:D055",
+        "value": "钚-239转化剩余进度（6x倍速）",
+        "translated": "Plutonium-239 production remaining progress (6x speed)"
+    },
+    {
+        "label": "LDC:D056",
+        "value": "钚-239转化剩余进度（5x倍速）",
+        "translated": "Plutonium-239 production remaining progress (5x speed)"
+    },
+    {
+        "label": "LDC:D057",
+        "value": "钚-239转化剩余进度（4x倍速）",
+        "translated": "Plutonium-239 production remaining progress (4x speed)"
+    },
+    {
+        "label": "LDC:D058",
+        "value": "钚-239转化剩余进度（3x倍速）",
+        "translated": "Plutonium-239 production remaining progress (3x speed)"
+    },
+    {
+        "label": "LDC:D059",
+        "value": "钚-239转化剩余进度（2x倍速）",
+        "translated": "Plutonium-239 production remaining progress (2x speed)"
+    },
+    {
+        "label": "LDC:D060",
+        "value": "钚-239转化剩余进度（1x倍速）",
+        "translated": "Plutonium-239 production remaining progress (1x speed)"
+    },
+    {
+        "label": "LDC:F002",
+        "value": "山崎重工 - 泰坦组装中心",
+        "translated": "Yamazaki Heavy Industries - Titan Assembly Center"
+    },
+    {
+        "label": "LDC:F003",
+        "value": "泰坦无人机甲（量产型号）",
+        "translated": "Titan Autonomous Mech (mass production model)"
+    },
+    {
+        "label": "LDC:F004",
+        "value": "「清芷： “十分抱歉让你们二位急匆匆的赶来，但确实这里有紧急状况需要处理。”」",
+        "translated": "Qingzhi: \"I'm sorry to have you two rush here. There is an emergency.\""
+    },
+    {
+        "label": "LDC:F005",
+        "value": "「清芷： “尤里正利用山崎重工的设备，对欧盟研发的重型机甲‘泰坦机甲’进行量产。”」",
+        "translated": "Qingzhi: \"Yuri is mass-producing 'Titan' heavy mech developed by the European Union at Yamazaki Heavy Industries.\""
+    },
+    {
+        "label": "LDC:F006",
+        "value": "「清芷： “在它强大的攻势面前，我们的坦克部队支撑不了多久。”」",
+        "translated": "Qingzhi: \"Faced its supreme firepower, our tanks won't last for very long.\""
+    },
+    {
+        "label": "LDC:F007",
+        "value": "「清芷： “坏消息是，这些机甲都是远程遥控的，我们没法通过心控技术进行反制。”」",
+        "translated": "Qingzhi: \"The bad news is that these mechs are remotely controlled, and we can't counter them through mind control.\""
+    },
+    {
+        "label": "LDC:F008",
+        "value": "「清芷： “但好消息是，只要我们摧毁了控制中心，这些机甲就会全部瘫痪。”」",
+        "translated": "Qingzhi: \"But the good news is that all these mechs will be offline if we destroyed the control centers.\""
+    },
+    {
+        "label": "LDC:F009",
+        "value": "「天权： “那好，就由我来引导巡航导弹炸掉那些控制中心。”」",
+        "translated": "Tianquan: \"Well, let me guide the cruise missiles to blow up those control centers.\""
+    },
+    {
+        "label": "LDC:F010",
+        "value": "「清芷： “我们对这片区域还没进行完全的地形测绘。”」",
+        "translated": "Qingzhi: \"We have not yet mapped this area.\""
+    },
+    {
+        "label": "LDC:F011",
+        "value": "「清芷： “需要雷达站提供雷达信息，天权才能成功的引导巡航导弹击中目标。”」",
+        "translated": "Qingzhi: \"Radar tower is required for Tianquan's guided cruise missile to hit the target.\""
+    },
+    {
+        "label": "LDC:F012",
+        "value": "「林德拉克： “终于轮到我们出场了！”」",
+        "translated": "Rynderack: \"Finally, it's our turn!\""
+    },
+    {
+        "label": "LDC:F013",
+        "value": "任务目标 - 摧毁所有控制中心。",
+        "translated": "Mission Objective - Destroy all robot control centers."
+    },
+    {
+        "label": "LDC:F014",
+        "value": "任务目标 - 林德拉克和天权必须存活。",
+        "translated": "Mission Objective - Keep Rynderack and Tianquan alive."
+    },
+    {
+        "label": "LDC:F015",
+        "value": "注意 - 只有在有雷达信息的时候，天权引导的巡航导弹才会准确的命中目标。",
+        "translated": "Note - Tianquan's guided cruise missiles will accurately hit the target only when radar is available."
+    },
+    {
+        "label": "LDC:F016",
+        "value": "提示 - 林德拉克和天权都完全无法与泰坦机甲正面对抗，你可能需要大量重型坦克才能一战。",
+        "translated": "Hint - Rynderack and Tianquan are unable to fight the Titan directly. You may need lots of heavy tanks to fight them."
+    },
+    {
+        "label": "LDC:F017",
+        "value": "「清芷： “注意！更多的泰坦机甲正在向我们基地接近！”」",
+        "translated": "Qingzhi: \"Attention! More Titans are approaching our base!\""
+    },
+    {
+        "label": "LDC:F018",
+        "value": "丧失关键单位 - 林德拉克阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Rynderack is killed, mission failed."
+    },
+    {
+        "label": "LDC:F019",
+        "value": "丧失关键单位 - 天权阵亡，任务失败。",
+        "translated": "CRITICAL UNIT LOST - Tianquan is killed, mission failed."
+    },
+    {
+        "label": "LDC:F020",
+        "value": "注意 - 已失去雷达信息，天权引导的巡航导弹无法准确命中。",
+        "translated": "Attention - Radar lost, Tianquan's the guided cruise missile cannot hit accurately."
+    },
+    {
+        "label": "LDC:F021",
+        "value": "注意 - 已重新获得雷达信息，天权引导巡航导弹恢复正常。",
+        "translated": "Attention - Radar re-acquired, Tianquan's guided cruise missiles are back to normal."
+    },
+    {
+        "label": "LDC:F022",
+        "value": "「林德拉克： “来自苏联的工业工厂已经加入军备。它可以降低装甲部队的造价。”」",
+        "translated": "Rynderack: \"Industrial Plant is available now. It can reduce the cost of armored units.\""
+    },
+    {
+        "label": "LDC:F023",
+        "value": "已摧毁一座控制中心。",
+        "translated": "A control center has been destroyed."
+    },
+    {
+        "label": "LDC:F024",
+        "value": "已摧毁全部控制中心。所有泰坦机甲陷入瘫痪状态。",
+        "translated": "All control centers have been destroyed. All Titans are offline."
+    },
+    {
+        "label": "LDC:F025",
+        "value": "「林德拉克： “这下好了，机甲全都变成靶子了！趁这个机会，把敌人打回老家吧。”」",
+        "translated": "Rynderack: \"That's it, all Titans are disabled! Take this opportunity to fight back.\""
+    },
+    {
+        "label": "LDC:F026",
+        "value": "任务目标 - 占领尤里的建造厂。",
+        "translated": "Mission Objective - Capture Yuri's construction yard."
+    },
+    {
+        "label": "LDC:F027",
+        "value": "「清芷： “我们最好先不要招惹这边的尤里基地，先专注于解决泰坦机甲的威胁。”」",
+        "translated": "Qingzhi: \"We'd better not provoke that Yuri base yet. We should focus on dealing with the threat of Titan first.\""
+    },
+    {
+        "label": "LDC:F028",
+        "value": "「清芷： “好了，麻烦的事情都解决完了，接下来该去北极解决尤里了。”」",
+        "translated": "Qingzhi: \"Okay, we are done sorting things out here. Now it's time to deal with Yuri in the North Pole.\""
+    },
+    {
+        "label": "LDC:F029",
+        "value": "「天权： “是的，审判时刻到了。”」",
+        "translated": "Tianquan: \"Sure, the day of judgment has arrived.\""
+    },
+    {
+        "label": "LDC:F030",
+        "value": "「林德拉克： “算我一份。”」",
+        "translated": "Rynderack: \"Count me in.\""
+    },
+    {
+        "label": "LDC:F031",
+        "value": "「清芷： “这里也有一座尤里基地。占领它，也许我们就能找到真相的最后一块拼图。”」",
+        "translated": "Qingzhi: \"There is another Yuri constrution yard here. Capture it and we might find the final piece of the puzzle.\""
+    },
+    {
+        "label": "LDC:F032",
+        "value": "「清芷： “基地已经占领。正在回传数据。”」",
+        "translated": "Qingzhi: \"The construction yard has been captured. Transmitting data.\""
+    },
+    {
+        "label": "LDC:F033",
+        "value": "丧失关键建筑 - 尤里基地被摧毁，任务失败。",
+        "translated": "CRITICAL STRUCTURE LOST - Yuri construction yard was destroyed, mission failed."
+    },
+    {
+        "label": "LDC:F034",
+        "value": "警告 - 你的任务是占领尤里建造厂，而不是摧毁，摧毁将导致任务失败！",
+        "translated": "Warning - You need to capture the Yuri construction yard, not to destroy it. Mission will fail should they be destroyed!"
+    },
+    {
+        "label": "LDC:F035",
+        "value": "「天权： “我们需要更多的雌鹿直升机来进行转移。”」",
+        "translated": "Tianquan: \"We need more Hind helicopters for transfers.\""
+    },
+    {
+        "label": "LDC:F036",
+        "value": "「天权： “一座巨炮？我可以轻松的在它的射程外，引导巡航导弹干掉它。”」",
+        "translated": "Tianquan: \"A grand cannon? I can easily take it out using guided cruise missiles outside of its range.\""
+    },
+    {
+        "label": "LDC:F037",
+        "value": "「清芷： “现在攻击这座基地完全是徒劳的，我们必须尽快先摧毁控制中心！”」",
+        "translated": "Qingzhi: \"It is futile to assult this base now. We must destroy the control centers ASAP!\""
+    },
+    {
+        "label": "LDC:F038",
+        "value": "「清芷： “日本人受到的心灵控制已经被解除，现在他们会和我们并肩作战。”」",
+        "translated": "Qingzhi: \"The Japanese has been released from mind-control. They will fight alongside us.\""
+    },
+    {
+        "label": "LDC:F039",
+        "value": "「清芷： “我们在这里检测到一座心灵信标。摧毁它，说不定就能解除日本人受到的心灵控制。”」",
+        "translated": "Qingzhi: \"We detected a psychic beacon here. Destroying it might release the Japanese from mind control.\""
+    },
+    {
+        "label": "LDC:F040",
+        "value": "提示 - 摧毁心灵信标，解除日本部队受到的心灵控制。",
+        "translated": "Hint - Destroy the Psychic Beacon to release the Japanese troops from mind-control."
+    },
+    {
+        "label": "LDC:F041",
+        "value": "「清芷： “最好不要完全断绝拯救这些被心灵控制的日本人的希望。”」",
+        "translated": "Qingzhi: \"It's best not to give up on saving these mind-controlled Japanese.\""
+    },
+    {
+        "label": "LDC:F042",
+        "value": "「清芷： “按理来说，应该有一座心灵信标在影响着他们，可是在哪里呢？”」",
+        "translated": "Qingzhi: \"In theory, there should be a psychic beacon affecting them, but where is it?\""
+    },
+    {
+        "label": "LDC:F043",
+        "value": "「清芷： “每次出厂的泰坦机甲变多了。按照这种趋势，我们要承担越来越大的防守压力。”」",
+        "translated": "Qingzhi: \"More Titans are being build each time. Following this trend, it will be harder for us to hold.\""
+    },
+    {
+        "label": "LDC:F044",
+        "value": "「天权： “看来我和林德拉克得行动的再快些了。”」",
+        "translated": "Tianquan: \"It seems like Rynderack and I have to move faster.\""
+    },
+    {
+        "label": "LDC:E007",
+        "value": "警告 - 检测到雷鸣潜艇！",
+        "translated": "Warning - Boomer Submarines Detected!"
+    },
+    {
+        "label": "LDC:E008",
+        "value": "「清芷： “我们已经通过逆向工程成功复刻了尤里的心灵探测技术。”」",
+        "translated": "Qingzhi: \"We have successfully reverse engineered Yuri's psychic sensing technology.\""
+    },
+    {
+        "label": "LDC:E009",
+        "value": "「清芷： “在它的帮助下，我们会更容易发现水下敌人潜艇的动向。。”」",
+        "translated": "Qingzhi: \"With its help, we can track the movements of enemy submarines.\""
+    },
+    {
+        "label": "LDC:E010",
+        "value": "「清芷： “我们已经派出了一些潜艇潜伏在釜山港口外作为接应。”」",
+        "translated": "Qingzhi: \"We have sent some submarines to the outside the Pusan port, just in case.\""
+    },
+    {
+        "label": "LDC:E011",
+        "value": "「清芷： “你只需要把货轮护送到撤离点，接下来的护航任务就由他们接手了。”」",
+        "translated": "Qingzhi: \"You only need to escort cargo ships to the evacuation point. They will take care of the rest of the escort duty.\""
+    },
+    {
+        "label": "LDC:E012",
+        "value": "「林德拉克： “咳咳，听得到吗？”」",
+        "translated": "Rynderack: \"Ahem, can you hear me?\""
+    },
+    {
+        "label": "LDC:E013",
+        "value": "「林德拉克： “我已经把‘铁幕装置’的技术资料传输给你们。”」",
+        "translated": "Rynderack: \"I have transmitted the technical documents of the 'Iron Curtain Device' to you.\""
+    },
+    {
+        "label": "LDC:E014",
+        "value": "「林德拉克： “这玩意能让装甲部队或者战舰进入完全无敌的状态一段时间，应该可以帮上大忙。”」",
+        "translated": "Rynderack: \"This device can make armored troops or warships invincible for a while, which should be of great help.\""
+    },
+    {
+        "label": "LDC:E015",
+        "value": "「天权： “这座城市真是受到了可怕的破坏……”」",
+        "translated": "Tianquan: \"This city has been seriously damaged...\""
+    },
+    {
+        "label": "LDC:E016",
+        "value": "「清芷： “港口中散落着很多被心灵控制的韩国军队。解救他们。”」",
+        "translated": "Qingzhi: \"There are many mind-controlled Korean troops scattered in the port. Rescue them.\""
+    },
+    {
+        "label": "LDC:E017",
+        "value": "「清芷： “另外，如果能重新夺回釜山机场的话，我们就能建造一些战机支援战斗。”」",
+        "translated": "Qingzhi: \"In addition, if we can capture Pusan Airport, we can build some airplanes to support the battle.\""
+    },
+    {
+        "label": "LDC:E018",
+        "value": "天权受到了重伤。我们会把他接回去治疗，但恐怕他要缺席这场战斗了。",
+        "translated": "Tianquan was seriously injured. We will take him back for treatment, but he will miss the rest of this battle."
+    },
+    {
+        "label": "LDC:E019",
+        "value": "提示 - 天权可以搭乘雌鹿运输直升机，更加灵活的引导巡航导弹。",
+        "translated": "Hint - Tianquan can ride on the Hind transport helicopter to guide cruise missiles more flexibly."
+    },
+    {
+        "label": "LDC:E020",
+        "value": "「清芷： “那是什么？……好像是尤里的复制人，他们正在从水面上飘过来！”」",
+        "translated": "Qingzhi: \"What is that? ...seems to be Yuri's clones. They are floating on the water!\""
+    },
+    {
+        "label": "LDC:E021",
+        "value": "有1艘货轮被击沉，还剩2艘。",
+        "translated": "A cargo ships was sunk. There are two left."
+    },
+    {
+        "label": "LDC:E022",
+        "value": "有2艘货轮被击沉，还剩最后1艘。",
+        "translated": "Two cargo ships were sunk. There is only one left."
+    },
+    {
+        "label": "LDC:E023",
+        "value": "丧失关键单位 - 所有货轮都被击沉，任务失败。",
+        "translated": "CRITICAL UNIT LOST - All cargo ships are sunk, mission failed."
+    },
+    {
+        "label": "LDC:E024",
+        "value": "已经成功护送一艘货轮到达集结点。",
+        "translated": "A cargo ship has been successfully escorted to the assembly point."
+    },
+    {
+        "label": "LDC:E025",
+        "value": "护送任务已经结束，护卫队准备撤离。",
+        "translated": "Escort completed. Escort team, preparing to evacuate."
+    },
+    {
+        "label": "LDC:E026",
+        "value": "「清芷： “我会召集更多的部队前往釜山港，参与对尤里部队的合围。”」",
+        "translated": "Qingzhi: \"I will assemble more troops to Pusan Port to participate in this operation against Yuri.\""
+    },
+    {
+        "label": "LDC:E027",
+        "value": "「清芷： “援军已抵达。让我们彻底摧毁尤里的基地吧。”」",
+        "translated": "Qingzhi: \"Reinforcements have arrived. Let's destroy Yuri's base.\""
+    },
+    {
+        "label": "LDC:E028",
+        "value": "任务目标 - 消灭此地区的尤里势力。",
+        "translated": "Mission Objective - Eliminate Yuri's forces in this area."
+    },
+    {
+        "label": "LDC:E029",
+        "value": "「天权： “也顺便解决掉釜山的尤里势力吧，我可不希望我们在远征时被他们背后捅一刀。”」",
+        "translated": "Tianquan: \"Let's also eliminate Yuri's forces in Pusan. I don't want to be stabbed in the back during the expedition.\""
+    },
+    {
+        "label": "LDC:E030",
+        "value": "尤里在釜山的主要势力已经肃清。",
+        "translated": "Yuri's forces in Pusan have been eliminated."
+    },
+    {
+        "label": "LDC:E031",
+        "value": "解救了韩国军队的战列舰。现在它们会为你所用。",
+        "translated": "Korean battleships rescued. Now they are available under your command."
+    },
+    {
+        "label": "LDC:E032",
+        "value": "解救了韩国军队的狙击手。他们可以远距离狙杀敌人步兵。",
+        "translated": "Korean snipers rescued. They can snipe enemy infantry from a distance."
+    },
+    {
+        "label": "LDC:E033",
+        "value": "修复了韩国军队的机场。现在你可以生产黑鹰战机用于对地轰炸。",
+        "translated": "Koeran Airport repaired. Now you can produce Black Eagle for bombing."
+    },
+    {
+        "label": "LDC:E034",
+        "value": "「清芷： “敌人已经没法进行有组织的抵抗了。我们可以把重心转移到护送货轮上了。”」",
+        "translated": "Qingzhi: \"The enemy can no longer resist. We can shift our focus to escorting cargo ships.\""
+    },
+    {
+        "label": "LDC:G016",
+        "value": "「林德拉克： “来自苏联阵营的科技已经全部加入你们的军备库。善用它们！”」",
+        "translated": "Rynderack: \"All technology from the Soviet has all been made available. Make good use of them!\""
+    },
+    {
+        "label": "LDC:G017",
+        "value": "「米格战机： “米格中队报到！我们会不断向敌人发动轰炸，不要给他们喘息的机会！”」",
+        "translated": "MiG fighter: \"MiG squadron reporting! We will continue to bombard the enemy. Don't give them a chance to catch up!\""
+    },
+    {
+        "label": "LDC:G018",
+        "value": "「清芷： “等等！我们检测到命运之瞳有异常的行动！”」",
+        "translated": "Qingzhi: \"Wait! We have detected unusual movement in the Eye of Fate!\""
+    },
+    {
+        "label": "LDC:G019",
+        "value": "「清芷： “命运之瞳正在移动！它径直朝你的基地飞过去了！”」",
+        "translated": "Qingzhi: \"The Eye of Fate is moving! It is flying straight towards your base!\""
+    },
+    {
+        "label": "LDC:G020",
+        "value": "「尤里： “哼，既然你们已经到了这里，那就让我们看看，命运究竟会选择谁吧。”」",
+        "translated": "Yuri: \"Well, now that you are here, let's see who are in favor of the Fate.\""
+    },
+    {
+        "label": "LDC:G021",
+        "value": "命运之瞳已被摧毁。",
+        "translated": "The Eye of Fate has been destroyed."
+    },
+    {
+        "label": "LDC:G022",
+        "value": "「天权： “终于，结束了……”」",
+        "translated": "Tianquan: \"Finally, it's over...\""
+    },
+    {
+        "label": "LDC:G023",
+        "value": "「林德拉克： “我一直就在等待这一刻的到来。”」",
+        "translated": "Rynderack: \"I've been waiting for this moment to come.\""
+    },
+    {
+        "label": "LDC:G024",
+        "value": "「天权： “我们为这一切付出的牺牲，多如天上的星斗。”」",
+        "translated": "Tianquan: \"The countless sacrifices we have made are like the stars in the sky.\""
+    },
+    {
+        "label": "LDC:G025",
+        "value": "「天权： “但，我们做了一件多么伟大的事情啊。”」",
+        "translated": "Tianquan: \"But, what a great thing we have accomplished.\""
+    },
+    {
+        "label": "LDC:G026",
+        "value": "「天权： “但，我们做了一件多么伟大的事情啊。对吧，毛毛？”」",
+        "translated": "Tianquan: \"But, what a great thing we have accomplished. Right, Maomao?\""
+    },
+    {
+        "label": "LDC:G027",
+        "value": "丧失关键单位 - 基地车被毁，无法接收后续任务，任务失败。",
+        "translated": "CRITICAL UNIT LOST - mobile construction vehicle is destroyed, mission failed."
+    },
+    {
+        "label": "LDC:G028",
+        "value": "前往北极的进攻部队全军覆没，任务失败。",
+        "translated": "The entire force heading to the North Pole was lost, mission failed."
+    },
+    {
+        "label": "LDC:G029",
+        "value": "「清芷： “我们对命运之瞳武器系统的了解还不够透彻。”」",
+        "translated": "Qingzhi: \"We don't have a enough intel regarding to the weapon system of the Eye of Fate.\""
+    },
+    {
+        "label": "LDC:G030",
+        "value": "「清芷： “但根据目前的分析，它能够逐渐控制周围一切有心智的事物，并以此回复耐久。”」",
+        "translated": "Qingzhi: \"But based on our analysis, it can mind-control anything controllable around it and regain durability.\""
+    },
+    {
+        "label": "LDC:G031",
+        "value": "「清芷： “它还能向下方释放破坏性的心灵能量，形成猛烈的震爆。”」",
+        "translated": "Qingzhi: \"It can also release destructive psychic energy downwards, forming violent explosions.\""
+    },
+    {
+        "label": "CRD:LDBudongwuli",
+        "value": "不懂物理的盟军",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDyaoyao",
+        "value": "妖妖酱",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDOthers",
+        "value": "特别鸣谢",
+        "translated": "TODO"
+    },
+    {
+        "label": "CRD:LDdamayi",
+        "value": "可爱大蚂蚁",
+        "translated": "TODO"
+    }
+]

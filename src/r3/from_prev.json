@@ -1,0 +1,47 @@
+[
+    {
+        "label": "Name:AD02",
+        "r1_value": "SOON！！！！",
+        "r2_value": "风见油业",
+        "r3_value": "SOON！！！！！！",
+        "value": "SOON!!!!!!"
+    },
+    {
+        "label": "THEME:RynderackProject",
+        "r1_value": "Rynderack Project - Heli",
+        "r2_value": "Rynderack Project - Heli",
+        "r3_value": "Rynderack Project",
+        "value": "Rynderack Project"
+    },
+    {
+        "label": "Name:LETOWR",
+        "r1_value": "能源传递站",
+        "r2_value": "能源传递站",
+        "r3_value": "卫星通讯站",
+        "value": "Satellite Communication Station"
+    },
+    {
+        "label": "Name:PWRX",
+        "r2_value": "停电信标",
+        "r3_value": "超级负载",
+        "value": "Super Load"
+    },
+    {
+        "label": "Name:AD17",
+        "r2_value": "Explosion！",
+        "r3_value": "Explosion！！！！！！",
+        "value": "Explosion!!!!!!"
+    },
+    {
+        "label": "CRD:LDTitle",
+        "r2_value": "「林德拉克计划 2：命运之瞳」 制作人员",
+        "r3_value": "「林德拉克计划 3 ：最终意志」 制作人员",
+        "value": "「Rynderack Project 3 : The Final Spirit」 credits"
+    },
+    {
+        "label": "CRD:LDIntroduction1",
+        "r2_value": "「Rynderack Project 2 : Eye of Fate」 is based on the original Red Alert 2 Yuri's Revenge",
+        "r3_value": "「Rynderack Project 3 : The Final Spirit」 mission pack",
+        "value": "「Rynderack Project 3 : The Final Spirit」 mission pack"
+    }
+]

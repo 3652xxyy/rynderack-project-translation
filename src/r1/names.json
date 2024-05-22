@@ -1,0 +1,57 @@
+[
+    {
+        "label": "DESC:ALL1",
+        "value": "盟军战役 - 爱国者之热血",
+        "translated": "Allied Campaign - Strength of Patriots"
+    },
+    {
+        "label": "DESC:SOV1",
+        "value": "苏联战役 - 毁天灭地大行军",
+        "translated": "Soviet Campaign - March of Destruction"
+    },
+    {
+        "label": "STT:SingleButtonNewCampaign",
+        "value": "开始「林德拉克计划」任务。",
+        "translated": "Begin \"Rynderack Project\" Campaign"
+    },
+    {
+        "label": "STT:CampaignAnimAllied",
+        "value": "上篇 - 自由世界的最后火种",
+        "translated": "Part 1: The last hope of the free world"
+    },
+    {
+        "label": "STT:CampaignAnimSoviet",
+        "value": "下篇 - 林德拉克铁幕计划",
+        "translated": "Part 2: Rynderack Iron Curtain Project"
+    },
+    {
+        "label": "TXT_HARD",
+        "value": "挑战",
+        "translated": "Hard"
+    },
+    {
+        "label": "TXT_DIFFICULTY_BRUTAL",
+        "value": "挑战",
+        "translated": "BRUTAL"
+    },
+    {
+        "label": "GUI:TradeMarkTop",
+        "value": "「林德拉克计划」",
+        "translated": "Rynderack Project"
+    },
+    {
+        "label": "GUI:TradeMarkBottom",
+        "value": "Directed by 竹蜻蜓 from 红警任务之家",
+        "translated": "Directed by Heli (竹蜻蜓) - Translated by 3652xxyy"
+    },
+    {
+        "label": "STT:AlliedCampaignIcon",
+        "value": "上篇 - 自由世界的最后火种",
+        "translated": "Part 1: The last hope of the free world"
+    },
+    {
+        "label": "STT:SovietCampaignIcon",
+        "value": "下篇 - 林德拉克铁幕计划",
+        "translated": "Part 2: Rynderack Iron Curtain Project"
+    }
+]

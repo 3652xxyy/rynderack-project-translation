@@ -1,0 +1,263 @@
+尤里 01 - 胜利日
+地点：苏联，列宁格勒
+罗曼诺夫总理正在列宁格勒举办胜利日阅兵，届时整个苏维埃所有的重要人物都会出席。这正是一个把他们一网打尽的好机会。
+控制他们的心灵，支配他们的意志，让主人开心。
+任务目标一：保证阅兵式不被干扰。
+任务目标二：使用工程师启动心灵信标。
+注意：任何己方或者敌方的部队进入阅兵区域，都会导致阅兵式被干扰。
+注意：我们的目标是心控所有苏军高级官员，请不要摧毁他们所在的大教堂。
+
+YURI 01 - Day of Victory
+Location: Leningrad, Soviet Union
+Prime Minister Romanov is hosting military parade in Leningrad. All the important figures from the Soviet Union will attend. This is a good opportunity to catch them all.
+Control their minds, dominate their will, and make their master happy.
+Objective 1: Ensure that the military parade is not disrupted.
+Objective 2: Activate the psychic beacon with engineer.
+Note: Any friendly or enemy troops entering the parade area will disrupt the parade.
+Note: Our goal is to mind control all Soviet senior military officials, please do not destroy the cathedral where they are located.
+
+尤里 02 - 庆功宴
+地点：乌克兰，塞瓦斯托波尔
+我们发现一名精英科学家林德拉克并未参加列宁格勒的胜利日阅兵而逃脱了我们的心灵控制。我们所知道的最后的消息是，他在塞瓦斯托波尔休假。
+他也许察觉到了什么，也许没有。但他似乎受过抵抗心灵控制的训练，手里还掌握着威力巨大的铁幕武器，我们应该迅速的把他清除。
+任务目标一：摧毁所有船坞，并击沉港口内所有货轮。
+任务目标二：摧毁或占领机场，并摧毁港口内所有运输直升机。
+任务目标三：不能让任何一艘货轮或运输直升机离开港口。
+
+YURI 02 - Glee Feast
+Location: Sevastopol, Ukraine
+We discovered that Rynderack, an elite scientist, escaped our mind control by not participating in the Victory Day parade in Leningrad. All we knew was that he was on vacation in Sevastopol.
+Perhaps he noticed something. But he seems to have been trained to resist mind control. He also has powerful Iron Curtain weapons. We should eliminate him quickly.
+Objective 1: Destroy all shipyards and sink all cargo ships in the port.
+Objective 2: Destroy or capture the airport and destroy all transport helicopters in the port.
+Objective 3: Prevent cargo ships or transport helicopter to leave the port.
+
+
+尤里 03 - 雅典娜之怒
+地点：希腊，雅典
+我们在塞瓦斯托波尔的隐秘行动惊动了欧盟，使得他们把我们看做比苏维埃更大的威胁。一定是有谁泄露了情报，看来我们之中也许有内鬼。
+且不管这些，更重要的是，威灵顿将军和麦斯维尔将军已经在雅典集结了盟军有史以来最庞大的一支军队，准备通过超时空前来攻击我们。
+主动出击，给他们一点颜色瞧瞧！
+任务目标一：清理登陆区并建立一座基地。
+任务目标二：摧毁胜利女神像。
+任务目标三：摧毁或控制北海巨妖和泰坦机甲。
+任务目标四：摧毁超时空传送仪。
+任务目标五：摧毁起源科技实验室。
+提示：静滞力场会使我方建筑失效，空军坠毁，潜艇失联，装甲部队和舰船不能移动，只有步兵正常。
+
+YURI 03 - Anger of Athena
+Location: Athens, Greece
+Our covert operations in Sevastopol alarmed the European Union. Now they view us as a greater threat than the Soviets. Someone must have leaked the intel. There may be a imposter among us.
+Regardlessly, Generals Wellington and Maxwell have assembled the largest army in the history of the Allies in Athens, preparing to attack us through Chronosphere.
+Take the initiative and demostrate our might!
+Objective 1: Clear the landing zone and establish a base.
+Objective 2: Destroy the Statue of Victory.
+Objective 3: Destroy or mind ontrol the Kraken and Titan.
+Objective 4: Destroy the Chronosphere.
+Objective 5: Destroy the Origin Technology Laboratory.
+Hint: The Immobolization Field will disable our buildings, destroy our air force, disrupt our submarine, immobolize armored units and ships. Only the infantry are unaffected.
+
+尤里 04 - 血之契约
+地点：罗马尼亚，德古拉要塞
+心灵感应器侦测到主人位于罗马尼亚要塞的亲卫部队出现了异常。虽然主人一直与我们保持密切联络，但我们没法联络上卫队。
+如果他们被盟军收买，那真是最坏最坏的一种情况了。我们必须不惜一切代价保护主人。
+任务目标一：前往德古拉要塞支援。
+任务目标二：护送尤里X到达集结点。
+任务目标三：尤里X不能阵亡。
+
+YURI 04 - Blood Deed
+Location: Vampire Fortress, Romania
+The Psychic Radar detected an abnormality in the master's personal guards in the Romanian fortress. Although the master has been in close contact with us, we are unable to contact the guards.
+The worst-case scenario would be that they were bribed by the Allies. We must protect the master at all costs.
+Objective 1: Go to Vampire Fortress to provide support.
+Objective 2: Escort Yuri Prime to the assembly point.
+Objective 3: Keep Yuri Prime alive.
+
+尤里 Ex - 倒戈
+地点：英国，利物浦
+在尤里 03 - 雅典娜之怒中，心灵控制泰坦机甲和北海巨妖，并保留它们直到任务结束，即可进入此关。
+任务目标一：消灭在利物浦的英国部队。
+任务目标二：消灭在利物浦的苏联部队。
+任务目标三：泰坦机甲和北海巨妖不能被摧毁。
+
+尤里 05 - 不稳定同盟
+地点：日本，福井
+我们与日本的科学家们达成了一项临时协议，由他们帮助我们制造最新的武器系统、“空中的心灵控制器”——命运之瞳，而我们会与他们共享一部分基因技术。
+当然，我们早就做好了撕毁协议的准备。一旦“命运之瞳”计划完工，我们就可以把他们一并消灭掉。
+中国军队已经注意到了福井港口的异常，并发射了巡航导弹试图攻击我们的研究设施。我们不会让他们得逞的。
+任务目标一：保护心灵控制器，直到新科技研发完成。
+任务目标二：消灭所有敌对势力。
+任务目标三：命运之瞳不能被摧毁。
+
+YURI 05 - Unstable Alliance
+Location: Fukui, Japan
+We have reached a temporary agreement with Japanese scientists. They will help us create the latest weapon system, the "aerial psychic dominator" - the Eye of Fate, and we will share part of our genetic technology with them.
+Of course, we have long been prepared to tear up the agreement. Once the project is completed, we can eliminate them all.
+Chinese military has noticed the anomalies in Fukui Port and launched cruise missiles in an attempt to attack our research facilities. We won't let them succeed.
+Objective 1: Protect the Psychic Dominator until the development of new technology is completed.
+Objective 2: Destroy all hostile forces.
+Objective 3: The Eye of Fate cannot be destroyed.
+
+尤里 06 - 铁幕降临
+地点：苏联，新西伯利亚
+逃跑的林德拉克终于现身了。他已经在新西伯利亚集结了一大批部队，试图阻截飞向北极点的命运之瞳。
+我们所剩的时间不多了。为了保证命运之瞳按时达到北极点，与全球心灵控制网络连接，必须让它马不停蹄的前进。
+林德拉克会使用铁幕技术让他的防线坚不可摧，但是我们必须和他们硬碰硬了。
+任务目标一：等待命运之瞳到达，并集结一支部队。
+任务目标二：护送命运之瞳通过此区域。
+
+YURI 06 - Iron Curtain Befall
+Location: Novosibirsk, Soviet Union
+Rynderack finally showed up. He has assembled a large number of troops in Novosibirsk, trying to intercept the Eye of Fate flying towards the North Pole.
+We don't have much time left. To ensure that the Eye of Fate reaches the North Pole on time to connect to the global psychic domination network, it must move forward non-stop.
+Rynderack will use Iron Curtain technology to make his defense impenetrable, but we have to go head-to-head with them.
+Objective 1: Wait for the Eye of Fate to arrive and assemble an army.
+Objective 2: Escort the Eye of Fate through this area.
+
+尤里 07 - 安魂曲（上）
+地点：中国，雅鲁藏布江大峡谷
+全球心灵控制网络在试图启动的时候，因为受到了严重的黑客攻击而瘫痪了。我们之前的所有努力付诸东流了。
+一名中国黑客——天枢，公开宣布对此事件负责。这种挑衅的行为完全无法容忍。
+虽然我们迅速的启动控制网络的计划已经败露，但天枢仍然是我们最大的威胁。除掉他！
+任务目标一：找到并杀死天枢。
+
+YURI 07 - Requiem (Part A)
+Location: Brahmaputra Valley, China
+The global psychic domination network was disrupted due to a severe cyberattack while trying to launch. All our previous efforts were in vain.
+A Chinese hacker, Tianshu, publicly claimed responsibility for the incident. This provocative behavior is not acceptable.
+Although our plan has been exposed, Tianshu remains our greatest threat. Get rid of him!
+Objective 1: Find and kill Tianshu.
+
+
+中国篇 - 巨龙的奋力一击
+
+中国 08 - 安魂曲（下）
+地点：中国，雅鲁藏布江大峡谷
+我们在雅鲁藏布江大峡谷有三座军事基地失联了，我们所知道的最后的消息是，他们遭遇了敌人，势力不明，数量不明。
+虽然十分危险，突击队员天权主动请求作为先头部队进行调查。据他所说，他的弟弟也在一座失联的基地里。
+任务目标一：调查三座失联的基地。
+任务目标二：护送天权前往通讯中心，把加密信息传出。
+
+CN 08 - Requiem (Part B)
+Location: Brahmaputra Valley, China
+We have lost contact with three military bases in the Brahmaputra Valley. The last we know is that they encountered enemies with unknown strength and numbers.
+While it is very dangerous, commando Tianquan volunteered to serve as the vanguard to investigate. According to him, his brother is also in a missing base.
+Objective 1: Investigate three missing bases.
+Objective 2: Escort Tianquan to the communication center and send out the encrypted message.
+
+
+中国 09 - 难以相信的朋友
+地点：苏联，符拉迪沃斯托克
+对天枢阵亡一事我们感到十分心痛。鉴于他已经被情报机构除名，他对战局应该影响不大。我们会继续监控尤里部队的动向。但是此时此刻，曾经擅自对哈尔滨采取军事行动的苏联才是对我们最大的威胁。
+我们会出动地面部队先发制人进攻符拉迪沃斯托克，这样可以大幅削弱苏联海军对远东地区的控制，确保我们的安全。
+任务目标一：突袭符拉迪沃斯托克的苏联基地。
+任务目标二：护送林德拉克前往机场。
+任务目标三：林德拉克不能阵亡。
+
+CN 09 - Unbelievable Friend
+Location: Vladivostok, Soviet Union
+We are heartbroken over the death of Tianshu. Since he has been dismissed from the intelligence service, he should have little impact on the outcome of the war. We will continue to monitor the movements of Yuri's forces. But at this moment, the Soviet Union, which once took unauthorized military action against Harbin, is our greatest threat.
+We will dispatch ground troops to preemptively attack Vladivostok. This will significantly weaken the Soviet naval control of the Far East and ensure our security.
+Objective 1: Assault on the Soviet base in Vladivostok.
+Objective 2: Escort Rynderack to the airport.
+Objective 3: Keep Rynderack alive.
+
+中国 10 - 疯狂赌徒
+地点：中国，澳门
+并非所有城市都像哈尔滨那样幸运。我们从尤里那里购买的第一批心灵信标部署在澳门，它们已经启动并且控制了我们一部分军队。林德拉克及时的警示了我们这一点。
+所幸事情没有变得那么无法挽回：心灵信标需要一些时间才能继续加大功率扩大控制范围。这是我们的机会，破坏尤里的阴谋在此一举！
+任务目标一：摧毁心灵信标，解救基地。
+任务目标二：阻止心灵信标的过载。
+任务目标三：消灭澳门的全部尤里势力。
+提示：每摧毁一座心灵信标，过载时间都会延后。全部心灵信标都被摧毁以后，过载就会终止。
+
+CN 10 - Crazy Gambler
+Location: Macau, China
+Not all cities are as lucky as Harbin. The first batch of psychic beacons we purchased from Yuri were deployed in Macau. They have been activated and controlled part of our army. Rynderack promptly warned us of this.
+Fortunately, it will take some time for the psychic beacons to continue to amplify  power and expand control range. This is our chance to destroy Yuri's conspiracy.
+Objective 1: Destroy the psychic beacons and rescue the base.
+Objective 2: Prevent the psychic beacons from overload.
+Objective 3: Eliminate all Yuri forces in Macau.
+Hint: Each time a psychic beacon is destroyed, the overload time will be delayed. Once all psychic beacons are destroyed, the overload will cease.
+
+中国 11 - 十一个矮人
+地点：中国，绵阳核子研究中心
+尤里认为我们的核武器威力巨大，并想要得到它们。绵阳核子研究中心已经被数十倍的敌人团团包围。我们的科学家们大部分已经通过直升机撤离，但是生产设备和军事力量已经无法转移了，我们处于非常被动的局面！
+天子仁将军提出了一个大胆的计划：使用快中子注入装置生产大量的钚-239，等到富集足够多以后，就用这些钚-239制造一场大爆炸，炸平整座城市，与敌人同归于尽。
+任务目标一：保护至少一座快中子注入装置，直到转化足够量的钚。
+任务目标二：不能让尤里占领任何一座快中子注入装置。
+任务目标三：引爆所有的快中子注入装置，与敌人同归于尽。
+注意：敌人不会攻击快中子注入装置，但是会尝试占领它们。当你无法保护时，请亲手炸毁。
+注意：有几座快中子注入装置在地图上，右下角的剩余时间就会以几倍速度流逝。
+
+CN 11 - Eleven Dwarves
+Location: Mianyang Nuclear Research Center, China
+Yuri wants to get their hands on our powerful nuclear weapons. Mianyang Nuclear Research Center has been encircled by dozens of times more enemies. Most of our scientists have been evacuated via helicopers, but we don't have time to move the production facility and military. We are in a dire situation!
+General Tianziren proposed a bold plan: use fast neutron reactors to produce a large amount of plutonium-239. When enough is produced, create a massive explosion to flatten the entire city along with the enemy.
+Objective 1: Protect at least one fast neutron reactor until a sufficient amount of plutonium is enriched.
+Objective 2: Prevent Yuri from capturing fast neutron reactor.
+Objective 3: Detonate all fast neutron reactors.
+Note: Enemies will not attack fast neutron reactor, but they will attempt to capture them. Please destroy them when you can't protect them.
+Note: The remaining time will elapse in proportion to the number of reactors on the map.
+
+中国 Ex - 破碎的红莲花
+地点：中国，兰州
+在中国 10 - 疯狂赌徒中，自始至终都不建造核弹发射井，即可进入此关。
+任务目标一A：骇入雷达站A。
+任务目标一B：骇入雷达站B。
+任务目标二：骇入心灵信标。
+任务目标三：让天枢安全到达撤离点。
+注意：中国军队使用定时的安全系统自检来预防可能的黑客渗透。请务必在每次安全系统自检之前释放所有被骇入的建筑物，否则渗透行动会暴露。
+提示：毛毛有着精湛的战斗技巧，在与其它恶犬搏斗时，它总能占据上风。
+
+中国 12 - 蛰龙
+地点：韩国，釜山
+根据从天枢身上芯片中解密的情报，我们及时的赶到了釜山，抢到了尤里还没来得及销毁的，“最终意志”计划的一些研究设备。
+但尤里却不甘心于自身计划败露，出动了大批海军部队封锁了釜山港口，以阻止我们将设备运出。
+我们已经将一部分数字化的资料传回，但这批设备仍然弥足珍贵，对于我们破解尤里的阴谋计划具有极大意义。
+任务目标一：护送至少一艘货轮到撤离点。
+任务目标二：消灭此地区的尤里势力。
+提示：天权可以搭乘雌鹿运输直升机，在复杂地形中更加灵活的引导巡航导弹轰炸。
+
+CN 12 - Dragon Lurk
+Location: Pusan, South Korea
+Based on the information decrypted from the Tianshu's chip, we rushed to Pusan in time and took over some research equipment for the "Final Spirit" project that Yuri had not had time to destroy.
+Yuri is not willing to have his plan exposed, and dispatched a large number of naval forces to blockade the Pusan port to prevent us from transporting the equipment out.
+We have already transmitted some of the data, but this batch of equipment is still precious and is of great significance to us in deciphering Yuri's conspiracy.
+Objective 1: Escort at least one cargo ship to the extraction point.
+Objective 2: Destroy Yuri's forces in this area.
+Hint: Tianquan can ride on the Hind transport helicopter to be flexible with guided cruise missile in complex terrain.
+
+中国 13 - 不知火
+地点：日本，名古屋
+我们航拍到日本名古屋有大量异乎寻常的生产设备。有证据表明尤里正在这里对泰坦机甲——一种欧盟制造的重型步战机甲，进行量产。如果这些威力巨大的武器被源源不断的生产出来，并送到世界各地，那将是一场灾难。
+林德拉克和天权已经赶到名古屋。曾经互相猜疑的两方，终于决定携手渡过难关。
+任务目标一：摧毁所有控制中心。
+任务目标二：占领尤里的建造厂。
+任务目标三：林德拉克和天权必须存活。
+注意：只有在有雷达信息的时候，天权才能成功的为巡航导弹标记打击目标。
+提示：一旦所有控制中心都被摧毁，泰坦机甲将全部陷入瘫痪。
+提示：林德拉克和天权都完全无法与泰坦机甲正面对抗，你可能需要大量重型坦克才能一战。
+
+CN 13 - Mysterious Fire
+Location: Nagoya, Japan
+Our aerial reconnaissance revealed a large number of unusual production facility in Nagoya, Japan. There is evidence that Yuri is mass-producing the Titan, a heavy infantry combat mecha originate from EU, here. It would be a disaster if these powerful weapons were to continuously be produced and sent to all over the world.
+Rynderack and Tianquan have arrived in Nagoya. The two parties, who were once suspicious of each other, finally decided to work together.
+Objective 1: Destroy all robot control centers.
+Objective 2: capture Yuri's construction yard.
+Objective 3: Keep Rynderack and Tianquan alive.
+Note: Tianquan can mark targets for cruise missiles only when radar information is available.
+Hint: Once all robot control centers are destroyed, all Titans will be disabled.
+Hint: Neither Rynderack nor Tianquan are able to fight Titans head-on. You may need lots of heavy tanks to fight them.
+
+中国 14 - 天上的星星
+地点：北极
+从名古屋获得的情报显示，尤里正亲自驾驶“命运之瞳”飞行在北极点上空。“命运之瞳”是一座巨型的、飞行的心灵控制器，我们只知道它十分危险，除此之外对它一无所知。
+但为了终结这场噩梦，我们必须全力以赴。
+任务目标一：摧毁命运之瞳。
+
+CN 14 - Star in the Sky
+Location: the North Pole
+Intelligence obtained from Nagoya showed that Yuri was personally piloting the "Eye of Fate" over the North Pole. The "Eye of Fate" is a giant, flying psychic dominator. We know nothing about it except that it is very dangerous.
+But in order to end this nightmare, we must do our best.
+Objective 1: Destroy the Eye of Fate.
