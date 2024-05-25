@@ -29,36 +29,36 @@ filter_contains = $(foreach v,$(2),$(if $(findstring $(1),$(v)),$(v),))
 filter_not_contains = $(foreach v,$(2),$(if $(findstring $(1),$(v)),,$(v)))
 all_files = $(shell find $(1) -type f ! -name '\.*') # ignore all files starts with dot
 
-scriptsdir = scripts
-resdir = res
+scriptsdir := scripts
+resdir := res
 
-r1distdir = $(distdir)/r1
-r1docdistdir = $(distdir)/r1/doc
-r2distdir = $(distdir)/r2
-r2docdistdir = $(distdir)/r2/doc
-r3distdir = $(distdir)/r3
-r3docdistdir = $(distdir)/r3/doc
+r1distdir := $(distdir)/r1
+r1docdistdir := $(distdir)/r1/doc
+r2distdir := $(distdir)/r2
+r2docdistdir := $(distdir)/r2/doc
+r3distdir := $(distdir)/r3
+r3docdistdir := $(distdir)/r3/doc
 
 # files needed to build csf
-r1deps = $(addprefix $(distdir)/,base.json $(addprefix r1/,missions.json names.json data.json))
-r2deps = $(addprefix $(distdir)/,r1/ra2md.json $(addprefix r2/,missions.json names.json from_prev.json data.json))
-r3deps = $(addprefix $(distdir)/,r2/ra2md.json $(addprefix r3/,missions.json names.json from_prev.json data.json))
+r1deps := $(addprefix $(distdir)/,base.json $(addprefix r1/,missions.json names.json data.json))
+r2deps := $(addprefix $(distdir)/,r1/ra2md.json $(addprefix r2/,missions.json names.json from_prev.json data.json))
+r3deps := $(addprefix $(distdir)/,r2/ra2md.json $(addprefix r3/,missions.json names.json from_prev.json data.json))
 
 # all files need to copy
-res = $(subst $(resdir),$(distdir),$(call all_files,$(resdir)))
-r1res = $(call filter_contains,r1/,$(res))
-r2res = $(call filter_contains,r2/,$(res))
-r3res = $(call filter_contains,r3/,$(res))
+res := $(subst $(resdir),$(distdir),$(call all_files,$(resdir)))
+r1res := $(call filter_contains,r1/,$(res))
+r2res := $(call filter_contains,r2/,$(res))
+r3res := $(call filter_contains,r3/,$(res))
 
 # all doc files need to copy
-r1docres = $(call filter_contains,doc/,$(r1res))
-r2docres = $(call filter_contains,doc/,$(r2res))
-r3docres = $(call filter_contains,doc/,$(r3res))
+r1docres := $(call filter_contains,doc/,$(r1res))
+r2docres := $(call filter_contains,doc/,$(r2res))
+r3docres := $(call filter_contains,doc/,$(r3res))
 
 # docs need to build
-r1doc = $(addprefix $(r1docdistdir)/,guide.html summary.html) $(r1docres)
-r2doc = $(addprefix $(r2docdistdir)/,guide.html summary.html units.html) $(r2docres)
-r3doc = $(addprefix $(r3docdistdir)/,guide.html summary.html units.html) $(r3docres)
+r1doc := $(addprefix $(r1docdistdir)/,guide.html summary.html) $(r1docres)
+r2doc := $(addprefix $(r2docdistdir)/,guide.html summary.html units.html) $(r2docres)
+r3doc := $(addprefix $(r3docdistdir)/,guide.html summary.html units.html) $(r3docres)
 
 .PHONY: all
 all: r1 r2 r3
