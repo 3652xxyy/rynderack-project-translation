@@ -40,6 +40,8 @@ def makedoc(mdfile, outputfile, templatefile=None):
         title = res.group(1) if res is not None else "NO_TITLE"
         html = template_rewrite(template, { 'title': title, 'content': html })
 
+    # TODO(3652xxyy): handle canvas draw scripts
+
     soup = BeautifulSoup(html, "html.parser")
 
     # For all img tag, change their parent from <p> to <div>

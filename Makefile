@@ -98,9 +98,14 @@ $(addprefix $(distdir)/,$(addsuffix .zip,r1 r2 r3)): $(distdir)/%.zip: $$($$(*)r
 	$(DEBUG_ECHO_RECIPE)pushd $(distdir)/$* > /dev/null; zip $(ZIP_SLIENT_FLAG) -T -r ../$*.zip $(subst $(distdir)/$*/,,$^) -x '**/.*'; popd > /dev/null
 
 # build doc (md -> html)
-$(distdir)/%.html: doc/$$(subst doc/,,$$*).md $(scriptsdir)/template.html | $$(@D)
+$(distdir)/%.html: doc/$$(subst doc/,,$$*).md $(scriptsdir)/doc-template.html | $$(@D)
 	$(DEBUG_ECHO_TARGET)
-	$(DEBUG_ECHO_RECIPE)$(python) $(scriptsdir)/makedoc.py $< $@ -t $(scriptsdir)/template.html
+	$(DEBUG_ECHO_RECIPE)$(python) $(scriptsdir)/makedoc.py $< $@ -t $(scriptsdir)/doc-template.html
+
+# special case: r3 guide
+$(distdir)/r3/doc/guide.html: doc/r3/guide.md $(scriptsdir)/doc-script-template.html | $$(@D)
+	$(DEBUG_ECHO_TARGET)
+	$(DEBUG_ECHO_RECIPE)$(python) $(scriptsdir)/makedoc.py $< $@ -t $(scriptsdir)/doc-script-template.html
 
 # build csf from json
 $(addprefix $(distdir)/,$(addsuffix /ra2md.csf,r1 r2 r3)): %.csf: %.json

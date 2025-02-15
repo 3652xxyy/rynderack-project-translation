@@ -19,7 +19,8 @@ Objective X: blah blah blah
 <... other objectives if exist>
 Hint: blah blah blah
 Note: blah blah blah
-<... other hints or notes if exist>
+Warning: blah blah blah
+<... other hints or notes or warnings if exist>
 
 <... another block, same format as above>
 <...>
@@ -93,21 +94,21 @@ class MissionTranslationParser:
             idx += 1
         description = []
         for x in block[idx:]:
-            if x.lower().startswith("hint:") or x.lower().startswith("note:") \
-                or (x.lower().startswith("objective ") and x.lower()[10:].split(":", 1)[0].isnumeric()):
+            if x.lower().startswith("hint:") or x.lower().startswith("note:") or x.lower().startswith("warning:") \
+                or x.lower().startswith("additional objective") or (x.lower().startswith("objective ") and x.lower()[10:].split(":", 1)[0].isnumeric()):
                 break
             description.append(x)
             idx += 1
         objectives = []
         for x in block[idx:]:
-            if (x.lower().startswith("objective ") and x.lower()[10:].split(":", 1)[0].isnumeric()):
+            if x.lower().startswith("additional objective") or (x.lower().startswith("objective ") and x.lower()[10:].split(":", 1)[0].isnumeric()):
                 objectives.append(x)
                 idx += 1
             else:
                 break
         hints = []
         for x in block[idx:]:
-            if x.lower().startswith("hint:") or x.lower().startswith("note:"):
+            if x.lower().startswith("hint:") or x.lower().startswith("note:") or x.lower().startswith("warning:"):
                 hints.append(x)
                 idx += 1
             else:
@@ -166,7 +167,7 @@ def main(args):
     logger.debug(f"allies_prefix: {allies_prefix}, soviet_prefix: {soviet_prefix}")
     if allies_prefix is None or soviet_prefix is None:
         raise RuntimeError("no prefix set")
-    pattern = f"(?:{allies_prefix}|{soviet_prefix})" + r" ([0-9]{2})"
+    pattern = f"(?:{allies_prefix}|{soviet_prefix})" + r" ([0-9]{2}|final)"
 
     def check_raw_block(raw_block):
         # for example "(?:yuri|cn) ([0-9]{2})"
@@ -177,7 +178,7 @@ def main(args):
         names = [f"All{x}md" for x in nums] + [f"Sov{x}md" for x in nums]
         res = re.match(pattern, parsed_block.name().lower())
         num = res.group(1)
-        idx = int(num) - 1
+        idx = (14 if num == "final" else int(num)) - 1
         return names[idx]
 
     p = MissionTranslationParser(args.missions, check_raw_block=check_raw_block, categorize=categorize, loglevel=loglevel)

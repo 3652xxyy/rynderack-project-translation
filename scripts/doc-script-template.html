@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <style>
+        body {
+            display: block;
+            margin: 0 auto 0;
+            max-width: fit-content;
+            font-family: "Calibri", sans-serif;
+        }
+        #main {
+            margin: 2em 4em 2em 4em;
+        }
+        p {
+            text-indent: 2em;
+            line-height: 1.5;
+        }
+        div.img {
+            margin: auto;
+            max-width: 80%;
+        }
+        img {
+            max-width: 100%;
+        }
+        h2 {
+            margin-top: 2em;
+        }
+        h3 {
+            margin-top: 2em;
+        }
+        li {
+            line-height: 1.5;
+        }
+        .six-axis {
+            padding: 1em;
+            text-align: center;
+            color: grey;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <div id="main">
+        {{content}}
+    </div>
+    <script>
+        document.querySelectorAll('.six-axis').forEach((element, index) => {
+            // 基本属性
+            let axis_count = 6;
+            let axis_length = 6;
+            let axis_mark_length = 2;
+            let border = 45;
+            let axis_marker = ['0', 'E', 'D', 'C', 'B', 'A', '?'];
+            let axis_text = ['Pressure', 'Urgency', 'Concurrency', 'Length', 'Micro', 'Tactics'];
+            let font = '16px Arial';
+            let font_padding = 1;
+            let font_height = 5;
+            let text_font = '12px Arial';
+            let text_font_padding = 2.3;
+            let text_font_height = 5;
+            // 读取画图属性
+            let width = element.getAttribute('width');
+            let height = element.getAttribute('height');
+            let outer_radius = Math.min(width, height) / 2 - 2;
+            let inner_radius = outer_radius - border;
+            let axis_value = element.getAttribute('axis_value').split(',');
+            let axis_color = element.getAttribute('axis_color');
+            let axis_border_color = element.getAttribute('axis_border_color');
+            // 产生canvas与画笔对象
+            let id = `six-axis${index}-canvas`;
+            element.insertAdjacentHTML('beforeend', `<canvas id="${id}" width=${width} height=${height}"></canvas>`);
+            let canvas = document.getElementById(id);
+            let ctx = canvas.getContext('2d');
+            ctx.lineJoin = 'round';
+            // 定义坐标点
+            point = (i, r) => {
+                let point = {};
+                point.x = width / 2 + Math.sin(i / axis_count * Math.PI * 2) * r * inner_radius / axis_length;
+                point.y = height / 2 - Math.cos(i / axis_count * Math.PI * 2) * r * inner_radius / axis_length;
+                return point;
+            }
+            // 绘制图形及坐标网格
+            // 白底
+            ctx.fillStyle = "#FFFFFF";
+            ctx.fillRect(0, 0, width, height);
+            // 外圆
+            ctx.beginPath();
+            ctx.lineWidth = 4;
+            ctx.strokeStyle = "#000000";
+            ctx.fillStyle = "#FFFFFF";
+            ctx.arc(width / 2, height / 2, outer_radius, 0, 2 * Math.PI);
+            ctx.stroke();
+            ctx.fill();
+            // 内圆
+            ctx.beginPath();
+            ctx.lineWidth = 1;
+            ctx.strokeStyle = "#000000";
+            ctx.arc(width / 2, height / 2, inner_radius, 0, 2 * Math.PI);
+            ctx.stroke();
+            // 六维
+            ctx.beginPath();
+            ctx.lineWidth = 4;
+            ctx.fillStyle = axis_color;
+            ctx.strokeStyle = axis_border_color;
+            for (let i = 0; i < axis_count; i++) {
+                let current_point = point(i, axis_value[i]);
+                if (i > 0) {
+                    ctx.lineTo(current_point.x, current_point.y);
+                } else {
+                    ctx.moveTo(current_point.x, current_point.y);
+                }
+            }
+            ctx.closePath();
+            ctx.stroke();
+            ctx.fill();
+            // 轴
+            drawAxis = (i) => {
+                ctx.beginPath();
+                ctx.lineWidth = 1;
+                ctx.strokeStyle = "#000000";
+                ctx.moveTo(width / 2, height / 2);
+                ctx.lineTo(point(i, axis_length).x, point(i, axis_length).y);
+                ctx.stroke();
+                for (j = 1; j < axis_length; j++) {
+                    ctx.beginPath();
+                    ctx.lineWidth = 1;
+                    ctx.strokeStyle = "#000000";
+                    let vertical_x = Math.cos(i / axis_count * Math.PI * 2),
+                        vertical_y = Math.sin(i / axis_count * Math.PI * 2);
+                    let point_j = point(i, j);
+                    ctx.moveTo(point_j.x - axis_mark_length * vertical_x, point_j.y - axis_mark_length * vertical_y);
+                    ctx.lineTo(point_j.x + axis_mark_length * vertical_x, point_j.y + axis_mark_length * vertical_y);
+                    ctx.stroke();
+                }
+            }
+            for (let i = 0; i < axis_count; i++) {
+                drawAxis(i);
+            }
+            // 六维数值
+            ctx.fillStyle = "#000000";
+            ctx.font = font;
+            for (i = 0; i < axis_count; i++) {
+                ctx.fillText(axis_marker[axis_value[i]], point(i, axis_length + font_padding).x - ctx.measureText(axis_marker[axis_value[i]]).width / 2, point(i, axis_length + font_padding).y + font_height);
+            }
+            // 六维文字
+            ctx.fillStyle = "#000000";
+            ctx.font = text_font;
+            for (i = 0; i < axis_count; i++) {
+                let angle = i * 2 * Math.PI / axis_count;
+                if (Math.cos(angle) < 0) {
+                    angle = angle - Math.PI;
+                } 
+                ctx.translate(point(i, axis_length + text_font_padding).x, point(i, axis_length + text_font_padding).y);
+                ctx.rotate(angle);
+                ctx.fillText(axis_text[i], - ctx.measureText(axis_text[i]).width / 2, text_font_height);
+                ctx.rotate(-angle);
+                ctx.translate(-point(i, axis_length + text_font_padding).x, -point(i, axis_length + text_font_padding).y);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,7 +1,10 @@
 # Translation Note
+
 - Names should be consistent across the 3 mission packs
 - Mission names and locations should be consistent with the English labels included
 - Each line of game text should not be too long (~110 characters). Otherwise it will overflow to the next line (need to fix this in R1 and R2)
+- The text of build menu must not be too long. Otherwise the game will crash. 59 character appears to be the maximum.
+- Don't translate credits (mostly those starts with `CRD:`, just leave them as `TODO`, and the script will keep the original)
 
 # R1 Terms
 
@@ -52,3 +55,31 @@
 注意 - Attention
 心灵部队 - Psychic Troops
 征召中心 - Recruitment Center
+
+
+# R3 Terms
+
+最终意志 - The Final Spirit
+自由重锤落下 - Hammer of Freedom Drops
+心灵起义军 - Psychic Rebellion
+高尔顿的遗愿 - Galton's Last Wish
+计算主机 - Compute Host
+萨拉托加炮艇机 - Saratoga Gunship
+自由之锤 - Hammer of Freedom
+暴风直升机 - Storm Chopper
+复仇女神轰炸机 - Nemesis Bomber
+试验体-德尔塔 - Delta
+笠原明 - Kasahara Akira
+卡维利 - Carville
+意念压制塔 - Spiritual Suppression Towers
+意念核心 - Spiritual Core
+意念增幅 - Spiritual Amplification
+间谍卫星终端 - spy satellite uplink
+心能尖塔 - Psychic Spire
+尤里新兵 - Initiate
+心灵球 - Psychic Orbs
+运输船 - Amphibious transport
+强运 - Super Luck
+
+任务完成 - objective complete
+任务失败 - mission failed

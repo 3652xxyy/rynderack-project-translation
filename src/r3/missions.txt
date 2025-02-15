@@ -1,0 +1,297 @@
+美国 01 - 新世界
+地点：韩国，仁川
+在我们的不懈努力下，自由世界的秩序正在重建。世界祸乱的根源——尤里已经死去，虽然尤里的残部仍然在地球的各个角落作乱，不过他们已经群龙无首，难以掀起较大的波澜。
+我们刚刚接到报告，韩国仁川受到了一股尤里残部的突袭。我们的空军和海军赶去还需要一定时间，请先调动附近可用的陆军部队进行镇压。
+任务目标一：夺回仁川机场。
+任务目标二：防守仁川机场，等待援军到达。
+任务目标三：摧毁尤里残部在仁川市的基地。
+提示：战机降落在空指部时，会得到快速的维修。
+
+US 01 - New World
+Location: Incheon, South Korea
+With our unremitting efforts, the order of the free world is being rebuilt. The source of the world's troubles, Yuri, is dead. Although Yuri's remnants are still causing trouble around the globe, it is difficult for them to make big splashes.
+We have just received a report that Yuri's remnants assulted Incheon in South Korea. It will take some time for our air force and navy to rush there. Please mobilize the available army nearby to suppress it first.
+Objective 1: Recapture Incheon Airport.
+Objective 2: Defend Incheon Airport until reinforcements arrive.
+Objective 3: Destroy the base of Yuri's remnants in Incheon.
+Hint: When fighters land in the airforce command center, they will be quickly repaired.
+
+美国 02 - 数据损坏
+地点：美国，内华达州，死亡谷
+我们发现位于内华达州沙漠的数据传输链路出现了异常，我们会派出一支小队前往检修。
+任务目标一：检查内华达州沙漠的数据传输链路。
+任务目标二：占领并保护所有计算主机。
+任务目标三：不能丢失10个数据包。
+提示：敌人会沿A->B->C->D的顺序，在计算主机之间传输数据包。每当你占领一座计算主机，就可以截获其中的全部数据包。从计算主机D向外传输的数据包将丢失。
+
+US 02 - Data Corruption
+Location: Death Valley, Nevada, United States
+We have detected an anomaly in the data transmission link in the Nevada desert. We will send a team to repair it.
+Objective 1: Inspect the data transmission link in the Nevada desert.
+Objective 2: Capture and protect all compute hosts.
+Objective 3: Do not lose 10 data packets.
+Hint: The enemy will transmit data packets between compute hosts in the order of A->B->C->D. Whenever you capture a compute host, you can intercept all the data packets in it. Data packets transmitted from compute host D will be lost.
+
+美国 Ex - 未授权访问
+地点：美国，内华达州沙漠
+在美国01 - 新世界中，使用间谍渗透计算主机，然后消灭所有敌人，即可进入此关。
+任务目标一：前往并侦查指定坐标。
+任务目标二：保护不明残骸，直到运输小队到达。
+
+US Ex - Unauthorized Access
+Location: Nevada Desert, United States
+In US 01 - New World, use a spy to infiltrate the compute host and eliminate all enemies to enter this mission.
+Objective 1: Scout the specified location.
+Objective 2: Secure the unidentified wreckage until the moving crew arrive.
+
+美国 03 - 见证人
+地点：中国，天津，塘沽
+尤里的残部集结了大规模的部队袭击了天津港，并占领了塘沽数据中心。这次攻击行动极富目的性与组织性，令塘沽的中国守军措手不及。为了避免机密情报落入敌手，数据中心已启动自毁程序。但事情还没到无法挽回的地步……
+中国的突击队员——天权，会主导这次行动，夺回塘沽数据中心并阻止其自毁。根据东北亚协防条约的要求，中国军队向我们请求空中支援；而作为回报，如果成功夺回数据，中国政府会向我们分享其中的一部分。
+任务目标一：护送天权到达塘沽数据中心。
+提示：天权会尽量保护好自己，但他没法独自穿过敌阵，请使用你的部队为他扫清道路。
+
+US 03 - Witness
+Location: Tanggu, Tianjin, China
+The Yuri's remnant have assembled forces to attack the port of Tianjin and captured the Tanggu Data Center. This targeted attack was highly organized, catching the Chinese defenders off guard. In order to prevent critical intelligence from falling into enemy hands, the data center has activated the self-destruction program. But things are not yet irreparable...
+The Chinese commando, Tianquan, will lead this operation to recapture the Tanggu Data Center and prevent it from self-destructing. In accordance with the Northeast Asia Mutual Defense Treaty, the Chinese army has requested air support from us. In return, if the data is successfully recovered, the Chinese government will share some of it with us.
+Objective 1: Escort Tianquan to the Tanggu Data Center.
+Hint: Tianquan will try his best to protect himself, but he cannot pass through the enemy alone, so use your troops to clear the way for him.
+
+美国 04 - 命运狂想曲
+地点：日本，伊贺
+东亚协防军日本军区总指挥官笠原明在伊贺的一次冒险行动中，与总部失去了联络。我们会派出空军小队对他进行搜索。
+任务目标一：找到并保护失联的笠原明。
+任务目标二：与伊贺山区的日本前哨站会合。
+任务目标三：搜索并消灭敌人控制下的全部泰坦机甲。
+
+US 04 - Destiny Rhapsody
+Location: Iga, Japan
+Akira Kasahara, the commander of the Japanese military of the East Asia Defense Force, lost contact with the headquarters during an operation in Iga. We will send a squad to search for him.
+Objective 1: Find and protect Akira Kasahara.
+Objective 2: Rendezvous with the Japanese outpost in the Iga Mountains.
+Objective 3: Search and destroy all Titans under enemy control.
+
+美国 05 - 天守
+地点：日本，大阪
+笠原明在查阅了与中国军队共享的资料以后，提出了一个可能的计划。但在此之前，他想再和中国方面进行商议。
+战火已经在日本四处燃烧。根据我们的情报，在大阪恰好有一支中国远征军正在天守阁附近维持防御。我们所要做的是和他们合兵，然后制定下一步的计划。
+任务目标一：笠原明驾驶的泰坦机甲不能被摧毁。
+任务目标二：摧毁所有意念压制塔。
+任务目标三：占领并保护超时空传送器。
+
+US 05 - Tenshukaku
+Location: Osaka, Japan
+After reviewing the intelligence shared by the Chinese, Akira Kasahara proposed a plan. But he wanted to discuss with the Chinese again.
+The war is already broke out all over Japan. According to our intelligence, there happens to be a Chinese defending force in Osaka. We need to join forces with them and then make plans for the next step.
+Objective 1: Keep Akira Kasahara's Titan alive.
+Objective 2: Destroy all Spiritual Suppression Towers.
+Objective 3: Capture and protect the Chronosphere.
+
+美国 06 - 世纪挽歌
+地点：澳大利亚，布里斯班
+笠原明终于交待了他的计划：既然中国军队向我们提供了一部分天枢用于攻击命运之瞳的备用攻击代码，我们猜测这部分代码也能入侵更多尤里残部的系统，因此我们想利用我们覆盖全球的卫星网络，对全世界广播这段代码，进行全频段注入攻击。届时，他们的信息系统一旦接受到这段信号，就会发生瘫痪。
+日本已经沦陷，北半球已经不再安全，我们会把代码上载的地点选择在澳大利亚。尤里残部察觉到我们的意图，正在调集所有能调集的部队前来。
+这种方法只能使用一次，我们必须成功。
+任务目标一：保护至少2座卫星通讯站，直到攻击代码准备完毕。
+
+US 06 - Century Elegy
+Location: Brisbane, Australia
+Akira Kasahara finally revealed his plan: Since the Chinese army provided us with a part of the backup code used by Tianshu to attack the Eye of Fate, we guess that this part of the code can also target more systems of Yuri's remnants, so we want to use our global satellite network to broadcast this code to the world and conduct a full-band injection attack. At that time, once their system receives this signal, it will be paralyzed.
+Japan has fallen, and the northern hemisphere is no longer safe. We will choose Australia as the location to upload the code. Yuri's remnants have noticed our intentions and are mobilizing all the troops they can.
+There is only one chance with this approach. We must succeed.
+Objective 1: Protect at least 2 satellite communication stations.
+
+美国 07 - 注入（上）
+地点：美国，橡树岭
+我们的“代码广播攻击”瘫痪了尤里残部在全球隐藏的大部分系统，而因此我们终于定位了他们的核心，就在我们的眼皮底下，位于美国的橡树岭的一座不明建筑物。
+由于该区域的电磁屏蔽，信号广播攻击并未对其产生效果，笠原明决定使用物理载体进行代码注入攻击——由他自己驾驶泰坦机甲携带注入代码，在近距离直接侵入他们的核心建筑。
+那座不明建筑物好像快要启动了，我们所剩的时间不多了。
+任务目标一：建立前线基地，等待笠原明到达。
+任务目标二：护送泰坦机甲到达不明建筑物附近。
+
+US 07 - Injection (Part A)
+Location: Oak Ridge, United States
+Our "code broadcast attack" paralyzed most of the systems hidden by the Yuri's remnant around the world. As a result, we located their core, right under our noses, in an unidentified building in Oak Ridge, United States.
+Due to the electromagnetic shielding in the area, the signal broadcast attack had no effect on it. Kasahara Akira decided to use a physical carrier to carry out the code injection attack - he will drive the Titan to inject the code directly at their core building.
+The unidentified building seems to be about to launch, and we don't have much time left.
+Objective 1: Build a forward base and wait for Kasahara Akira to arrive.
+Objective 2: Escort the Titan to the vicinity of the unidentified building.
+
+起义军 08 - 注入（下）
+地点：阿拉斯加，诺姆
+“你醒了？我们的机会来了。”
+“你问我是谁？我没有名字，我只有一个代号「试验体-德尔塔」。”
+“由于心灵网络的能量传输不稳定，我们才得以恢复神智，并有了挣脱牢笼的力量。”
+“接应我们的部队不知道什么时候才能来。不管情况如何，我们得先逃离这座实验室再说。”
+任务目标一：探索地下实验区域，并找到出口。
+任务目标二：护送林德拉克到达铁幕装置。
+任务目标三：肃清港口并夺取运输船。
+任务目标四：林德拉克和试验体-德尔塔不能阵亡。
+
+SR 08 - Injection (Part B)
+Location: Nome, Alaska
+"Are you awake? Here comes our chance."
+"Who am I? I don't have a name. I only have a code name "Delta".
+"Due to the unstable energy transmission of the psychic network, we were able to regain our sanity and break free from the cage."
+"We don't know when will the support arrives. Regardlessly, we have to escape from this laboratory first."
+Objective 1: Explore the underground experimental area and find the exit.
+Objective 2: Escort Rynderack to the Iron Curtain Device.
+Objective 3: Clear the port and seize the amphibious transport.
+Objective 4: Keep Rynderack and Delta alive.
+
+起义军 09 - 反射体
+地点：苏联，雅库茨克
+“尤里残部在西伯利亚的势力已经壮大。史无前例的庞大基地、铁幕加固的防御，还有被心灵控制的苏联西伯利亚守卫军团，巩固着他们对这片北方广大区域的绝对支配。”
+“心灵起义军不会坐以待毙。我们要在这里制造一点大动静，顺便渔翁得利。”
+任务目标一：让试验体-德尔塔靠近心灵控制器。
+任务目标二：使用心灵控制器摧毁心灵信标。
+任务目标三：前往隧道口，与起义军小队会合。
+任务目标四：占领一座尤里建造厂，并将其打包成移动基地车。
+任务目标五：护送尤里基地车到达撤离点。
+任务目标六：林德拉克和试验体-德尔塔不能阵亡。
+
+SR 09 - Reflector
+Location: Yakutsk, Soviet Union
+"Yuri's remnant have grown stronger in Siberia. The unprecedentedly large base, the defense strengthened by the Iron Curtain, and the Soviet Siberian Guard Corps under mind control have consolidated their absolute dominance over this vast northern region."
+"The Psychic Rebels will not sit still. We want to make a big fuss here and reap the benefits."
+Objective 1: Get Delta close to the Psychic Dominator.
+Objective 2: Use the Psychic Dominator to destroy the Psychic Beacon.
+Objective 3: Meet up with the rebel forces at the tunnel entrance.
+Objective 4: Capture a Yuri construction yard and pack it into a MCV.
+Objective 5: Escort the Yuri MCV to the evacuation point.
+Objective 6: Keep Rynderack and Delta alive.
+
+起义军 10 - 脑电过载
+地点：美国，波特兰
+“不论敌人隐藏在多深的幕后，我们迟早有一天要直面他们。
+“我们早就注意到波特兰有一座大型心灵能量装置。最近它的能量信号十分反常，就连美军也注意到了它，但是他们的进攻并不顺利。”
+“战机稍纵即逝，一旦错过不会再来。我们必须马上介入这场战斗，它也许可以成为我们团结抵抗阵线、揭露隐藏谜团的契机。”
+“当阴险狡诈的手段用尽之日，就是真相水落石出之时。”
+任务目标一：强行占领波特兰的美军建造厂。
+任务目标二：摧毁意念核心连接的三座计算主机。
+任务目标三：摧毁意念核心连接的三座意念压制塔。
+警告：随着『意念增幅』的发动，敌人单位的属性会越来越强。
+
+SR 10 - Brainwave Overload
+Location: Portland, USA
+"No matter how deep behind the scenes the enemy hides, sooner or later we will have to face them.
+"We have long noticed that there is a device with immense psychic energy in Portland. Recently, its energy signature is abnormal. Even the US military has noticed it, but their attack is not going well."
+"Opportunities are fleeting. Once missed, they will never come back. We must intervene in this battle immediately. It may be an opportunity for us to unite the resistance front and reveal the hidden mystery."
+"When the insidious and cunning means are exhausted, the truth will come out."
+Objective 1: Capture the American construction yard in Portland.
+Objective 2: Destroy the three compute hosts connected to the Spiritual Core.
+Objective 3: Destroy the three Spiritual Suppression Towers.
+Warning: "Spiritual Amplification" will make enemy stronger.
+
+起义军 11 - 观潮者
+地点：美国，圣迭戈
+“他的名字叫「最终意志」。那才是我们的敌人。”
+“「最终意志」不是某一个人，也不是某一件物体，而是一个诞生于错综复杂的心灵网络中的一个AI意识体。”
+“「最终意志」虽然由尤里的意识上载而形成，但并不完全是尤里。它比尤里更加机敏狡诈，也更野心勃勃。”
+“为了击败它，我们必须团结一切能够团结的力量。”
+“中国人已经察觉到了「最终意志」的威胁，并派出了远征军跨越太平洋。”
+「最终意志」会调动西海岸被控制的美国守军来阻击他们，这是我们不想看到的。我们必须尽可能给中国军队提供帮助。”
+任务目标一：在限定时间内摧毁两座间谍卫星终端。
+任务目标二：保证至少一座基地建筑物存在，直到中国登陆行动成功。
+任务目标三：摧毁圣迭戈的最终意志基地。
+提示：在中国军队登陆成功以后，我们会重新获得基地车和资金，以便重新建立基地。
+
+SR 11 - Tide Watcher
+Location: San Diego, USA
+"Its name is the "Final Spirit". That is our enemy."
+"Final Spirit is not a person or an object, but an AI consciousness born from the psychic network."
+"Although "Final Spirit" was formed by the upload of Yuri's consciousness, it is not entirely Yuri. It is more cunning and ambitious than Yuri."
+"In order to defeat it, we must unite all the forces available."
+"The Chinese have noticed the threat of the "Final Spirit" and sent an expeditionary force across the Pacific."
+"Final Spirit" will mobilize the controlled American garrisons on the west coast to stop them. This is what we don't want to see. We must provide assistance to the Chinese army as much as possible. "
+Objective 1: Destroy two spy satellite uplinks.
+Objective 2: Hold the ground until the Chinese landing operation completes.
+Objective 3: Destroy the base of the Final Spirit in San Diego.
+Hint: After the Chinese army lands, we will regain the MCV and funds to rebuild the base.
+
+起义军 12 - 命运终止式
+地点：罗马尼亚，塞贝什
+“心灵起义军与自由欧盟仍然在并肩战斗。虽然欧洲一直是受尤里及其继承人荼毒最深重的地区，但我们从不惧怕反抗失败，只要反抗未曾停止。”
+“命运之瞳，尤里疯狂计划的产物，我们本以为它会成为永远长眠于北冰洋的纪念碑。”
+“但在尤里的老家，罗马尼亚，这座固若金汤的要塞中，更多的命运之瞳正准备升空，其中的每一艘都会给世界带来灾难。”
+“这次，我们必须深入虎穴。想要打败命运，必先掌控命运。”
+任务目标一：使用间谍进入正在建造中的命运之瞳。
+任务目标二：破解命运之瞳全部5个传输回路。
+任务目标三：摧毁其余的命运之瞳和心灵控制器。
+注意：我们夺取来的命运之瞳不能被摧毁。
+提示：命运之瞳可以在心灵控制敌人单位的同时，回复自身的耐久度。
+提示：超级武器「强运」可以使命运之瞳在短时间内高速回复耐久度。
+
+SR 12 - Destiny Cadence
+Location: Sebes, Romania
+"The Psychic Rebellion and the Free European Union are still fighting together. Although Europe has always been the region most affected by Yuri and his successors, we are never defeated as long as we keep resisting."
+"We once thought the Eye of Fate would become a monument that would forever sleep in the Arctic Ocean."
+"But in Yuri's hometown, Romania, in this impregnable fortress, more Eyes of Fate are preparing to take off, and each of them will bring disaster to the world."
+"This time, we must go deep into the tiger's den. If you want to defeat fate, you must first control fate."
+Objective 1: Infiltrate the Eye of Fate with spy.
+Objective 2: Crack all transmission circuits of the Eye of Fate.
+Objective 3: Destroy the remaining Eyes of Fate and Psychic Dominators.
+Note: Keep the Eye of Fate we captured alive.
+Hint: The Eye of Fate can restore its own durability by mind-controlling enemy units.
+Hint: The super weapon "Super Luck" can make the Eye of Fate recover its durability rapidly.
+
+起义军 13 - 星陨
+地点：美国，肯尼迪航天中心
+“来自世界各地的自由斗士们都在向北美进发，眼中闪耀着复仇之火的苏维埃人民也是一样。在这个最终意志统治最深重的地区，注定会有一场终结之战。”
+“跨越欧洲，跨过大西洋，红军又一次踏上了美国本土，这次是以解放者的身份。”
+“可是自从登陆以来，我们就受到了异乎寻常的电磁干扰。各支小队之间的联络断断续续，有些甚至完全失去踪迹。”
+“但是我们不再心存迷惘。相信我们按照各自的直觉前进，一定能够殊途同归。”
+任务目标一：占领或摧毁所有卫星通讯站，至少保留一座。
+任务目标二：摧毁此区域的所有裂缝产生器。
+任务目标三：摧毁或占领不明建筑物。
+附加任务：保护不明建筑物，直到时间轴合并完成。
+提示：忒伊亚卫星攻击标记不能移动到未探索的视野区域中。
+
+SR 13 - Star Fall
+Location: Kennedy Space Center, United States
+"Freedom fighters from all over the world are heading to North America, and so are the Soviet people with revenge in their eyes. In this area where the final spirit reigns most deeply, there is bound to be a battle."
+"Crossing Europe and the Atlantic, the Red Army once again set foot on the American mainland, this time as liberators."
+"Since landing, we have been subjected to unusual electromagnetic interference. The communication between the squads is intermittent, and some have been lost completely."
+"But we are no longer confused. If we follow our own intuition, we will definitely reach the same destination."
+Objective 1: Capture or destroy all satellite communication stations, and capture at least one.
+Objective 2: Destroy all gap generators in this area.
+Objective 3: Destroy or capture the unidentified building.
+Additional Objective: Protect the unidentified building until the timeline merge is completed.
+Hint: Theia satellite attack marker cannot be moved into the shroud.
+
+起义军 Ex - 弃子
+地点：阿拉斯加，诺姆
+在起义军 12 - 命运终止式中，保证艾拉存活到最后，即可进入本关。
+任务目标一：探索地下实验区域。
+任务目标二：解锁中部实验室的大门。
+任务目标三：完成与试验体-西格玛的决斗。
+注意：试验体-德尔塔和艾拉不能阵亡。
+
+SR Ex - The Abandoned
+Location: Nome, Alaska
+In SR 12 - Destiny Cadence, ensure that Ella survives to the end to enter this level.
+Objective 1: Explore the underground experimental area.
+Objective 2: Unlock the door to the central laboratory.
+Objective 3: Defeat Sigma in the duel.
+Note: Delta and Ella must be kept alive.
+
+起义军 Final - 永生之路
+地点：美国，橡树岭
+“敌人的一切阴谋已经败露，最后决战的号角已经吹响。”
+“一个完善系统本身的最大疏漏一定是它自己。最终意志试图通过分布式的意念核心，在人间永存——毕竟我们不可能同时摧毁世界各地的所有意念核心。但我们可以让意念核心本身过载，来烧坏它所有接收终端，斩断它与现实世界的联系。”
+“来自自由世界的最勇敢的人们已经聚集于此。我们的故事从一场防守开始，那就再以一场防守结束吧。”
+任务目标一：让试验体-德尔塔前往会合点。
+任务目标二：不计一切代价，发动8次意念增幅。
+任务目标三：意念核心不能被摧毁。
+警告：敌人单位的属性会随着意念增幅的次数增加而提升，做好应对更强敌人的准备！
+
+SR Final - Way to Immortal
+Location: Oak Ridge, United States
+"All the enemy's conspiracies have been exposed, and the day of the final battle has come."
+"The biggest omission of a perfect system must be itself. The final will attempts to be immortal in the world through distributed spiritual cores - after all, we can't destroy all of them around the world at the same time. But we can overload the spiritual core itself to blow out all its receiving terminals and cut off its connection with the real world."
+"The bravest people from the free world have gathered here. Our story started with a defense, so let's end it with another."
+Objective 1: Escort Delta to the meeting point.
+Objective 2: Activate Spitural Amplification 8 times.
+Objective 3: Defend the Spiritual Core.
+Warning: "Spiritual Amplification" will make enemy stronger with each activation. Be prepared to deal with stronger enemies!
